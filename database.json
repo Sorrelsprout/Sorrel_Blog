@@ -1,0 +1,74 @@
+{
+    "entry1":{
+        "content":"",
+        "location":"Castle Rock State Park", "address":"",
+        "imagelink":"photos/2020/10-2-castlerock.JPG", "date":"Oct 2, 2020", "year":"2020", 
+        "tags":"castle, rock, state, park"
+    },"entry2":{
+        "content":"",
+        "location":"Saratoga Gap Trail", "address":"",
+        "imagelink":"photos/2020/10-9-saratogagap.JPG", "date":"Oct 9, 2020", "year":"2020", 
+        "tags":"saratoga, gap, trail"
+    },"entry3":{
+        "content":"The first time I drove to the beach alone!",
+        "location":"Pescadero State Beach", "address":"",
+        "imagelink":"photos/2020/10-24-pescadero.JPG", "date":"Oct 24, 2020", "year":"2020", 
+        "tags":"pescadero, state, beach"
+    },"entry4":{
+        "content":"",
+        "location":"Windy Hill Open Space", "address":"",
+        "imagelink":"photos/2020/10-24-windyhill.JPG", "date":"Oct 24, 2020", "year":"2020", 
+        "tags":"windy, hill, open, space, preserve"
+    },"entry5":{
+        "content":"",
+        "location":"Coyote Hills", "address":"",
+        "imagelink":"photos/2020/10-31-coyotehills1.JPG", "date":"Oct 31, 2020", "year":"2020", 
+        "tags":"coyote, hills"
+    },"entry6":{
+        "content":"",
+        "location":"Coyote Hills", "address":"",
+        "imagelink":"photos/2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
+        "tags":"coyote, hills, bay area"
+    },"entry7":{
+        "content":"",
+        "location":"Sanborn County Park", "address":"",
+        "imagelink":"photos/2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
+        "tags":"sanborn, county, park"
+    },"entry8":{
+        "content":"",
+        "location":"Los Trancos Open Space", "address":"",
+        "imagelink":"photos/2020/11-21-lostrancospreserve.jpg", "date":"Nov 21, 2020", "year":"2020",
+        "tags":"los, trancos, lostrancos, open, space, preserve"
+    },"entry9":{
+        "content":"",
+        "location":"Mission Peak", "address":"",
+        "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27 (Thanksgiving), 2020", "year":"2020",
+        "tags":"mission, peak, statue"
+    },"entry10":{
+        "content":"",
+        "location":"Picchetti Ranch", "address":"",
+        "imagelink":"photos/2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
+        "tags":"pichetti, ranch, sunrise"
+    },"entry11":{
+        "content":"",
+        "location":"Lake Lexington", "address":"",
+        "imagelink":"photos/2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
+        "tags":"lake, lexington, fog"
+    }
+
+
+    ,"entry12":{
+        "content":"",
+        "location":"Almaden Quicksilver", "address":"",
+        "imagelink":"photos/2021/1-9-almadenquicksilverwoodrd.jpg", "date":"Jan 1, 2021", "year":"2021",
+        "tags":"almaden, quicksilver, wood"
+    },"entry13":{
+        "content":"",
+        "location":"Placeholder", "address":"",
+        "imagelink":"", "date":"", "year":"2021",
+        "tags":""
+    }
+}
+
+
+
