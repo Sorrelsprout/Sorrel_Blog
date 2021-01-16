@@ -1,4 +1,4 @@
-const placeholderimg = "../resources/placeholder.jpg"
+const placeholderimg = "resources/placeholder.jpg"
 
 $( document ).ready(function() {
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
