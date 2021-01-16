@@ -248,6 +248,19 @@ p::selection {
 }
 
 @media only screen and (max-width: 600px) {
+  #entrydetails {
+    margin: 60px 16px 0 16px;
+  }
+  .close {
+    position: absolute;
+    padding: 2px 6px 4px 6px;
+    border-radius: 4px;
+    top: -30px;
+    right: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
   .content {
     max-height: 20vh;
   }
