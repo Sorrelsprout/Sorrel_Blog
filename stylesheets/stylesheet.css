@@ -98,7 +98,7 @@ header p {
   position: fixed;
   top: 60px;
   display: none;
-  max-width: 960px;
+  max-width: 768px;
   margin: 0 60px;
   padding: 16px;
   border-radius: 4px;
@@ -160,6 +160,10 @@ a {
 
 a:hover {
   color: #aaa;
+}
+
+p {
+  line-height: 20px;
 }
 
 p::selection {

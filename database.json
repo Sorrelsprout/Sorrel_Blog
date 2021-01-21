@@ -1,5 +1,10 @@
 {
-    "entry12":{
+    "entry13":{
+        "content":"Went with family to Almaden Lake. Might be planning a trip to Asia with my mom after COVID. Really excited!",
+        "location":"Almaden Lake", "address":"",
+        "imagelink":"photos/2021/1-16-almadenlake.jpg", "date":"Jan 16, 2021", "year":"2021",
+        "tags":"almaden, quicksilver, wood"
+    },"entry12":{
         "content":"",
         "location":"Almaden Quicksilver", "address":"",
         "imagelink":"photos/2021/1-9-almadenquicksilverwoodrd.jpg", "date":"Jan 1, 2021", "year":"2021",
@@ -20,9 +25,9 @@
         "imagelink":"photos/2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
         "tags":"pichetti, ranch, sunrise"
     },"entry9":{
-        "content":"",
+        "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"",
-        "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27 (Thanksgiving), 2020", "year":"2020",
+        "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27, 2020", "year":"2020",
         "tags":"mission, peak, statue"
     },"entry8":{
         "content":"",
@@ -35,7 +40,7 @@
         "imagelink":"photos/2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"sanborn, county, park"
     },"entry6":{
-        "content":"",
+        "content":"Almost lost my way back and missed lunch!",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
         "tags":"coyote, hills, bay area"
