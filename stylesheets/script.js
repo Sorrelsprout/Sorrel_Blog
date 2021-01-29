@@ -1,6 +1,8 @@
 const placeholderimg = "resources/placeholder.jpg"
 
 $( document ).ready(function() {
+    document.body.className += ' loaded';
+
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
     let content = [];
     let date = [];

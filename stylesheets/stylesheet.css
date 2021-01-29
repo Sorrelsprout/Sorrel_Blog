@@ -7,6 +7,8 @@
 html {
   scroll-behavior: smooth;
   background: #111;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -17,6 +19,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
+  overflow: overlay;
 }
 
 .container {
@@ -39,6 +42,21 @@ header, section, article, footer {
   opacity: 0.3;
 }
 
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #fff2;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0005;
+}
+
 /*--- Header ---------------------------------------------------------*/
 
 header {
@@ -48,10 +66,20 @@ header {
   background: #000;
 }
 
-header img {
+#hero {
   width: 100%;
   object-fit: cover;
   opacity: 0.4;
+  transform: translate3d(0,0,0) scale(1.25);
+}
+
+#hero[src*=day] {
+  margin-top: -25%;
+}
+
+body.loaded #hero {
+  transform: scale(1);
+  transition: 6.5s transform;
 }
 
 header span {
@@ -208,7 +236,7 @@ p::selection {
 .content {
   margin: 0 0 0 16px;
   max-height: 400px;
-  overflow: scroll;
+  overflow: overlay;
   color: #aaa;
 }
 
@@ -241,6 +269,12 @@ p::selection {
   }
 }
 
+@media only screen and (max-width: 768px) {
+  #hero[src*=day] {
+    margin-top: 0;
+  }
+}
+
 @media only screen and (max-width: 700px) {
   .content {
     max-height: 16vh;
@@ -270,7 +304,16 @@ p::selection {
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 480px) {
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #hero {
+    height: 100%;
+    width: auto;
+  }
   .content {
     max-height: 30vh;
   }
