@@ -63,6 +63,8 @@ $( document ).ready(function() {
                 } else {
                     $(".content").css({"display":"block"});
                     $(".content").text(content[i]);
+                    if($(".content").height() >= $(".content_container").height()) { $(".content").addClass("overflown")} 
+                    else { $(".content").removeClass("overflown")}
                 }
                 if (imagelink[i]===""){ 
                     $(".imagelink2").attr("src", placeholderimg);

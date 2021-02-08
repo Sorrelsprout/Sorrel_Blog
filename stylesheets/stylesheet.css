@@ -42,7 +42,6 @@ header, section, article, footer {
   opacity: 0.3;
 }
 
-
 ::-webkit-scrollbar {
   width: 4px;
   height: 4px;
@@ -238,6 +237,10 @@ p::selection {
   max-height: 400px;
   overflow: overlay;
   color: #aaa;
+}
+
+.content.overflown {
+  padding-right: 16px;
 }
 
 #entrydetails .posted {
