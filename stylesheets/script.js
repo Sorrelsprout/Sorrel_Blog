@@ -1,4 +1,5 @@
 const placeholderimg = "resources/placeholder.jpg"
+let entrynum;
 
 $( document ).ready(function() {
     document.body.className += ' loaded';
@@ -6,6 +7,7 @@ $( document ).ready(function() {
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
     let content = [];
     let date = [];
+    let year = [];
     let tags = [];
     let location = [];
     let addresses = []; //<<<<< Not used yet
@@ -16,6 +18,7 @@ $( document ).ready(function() {
             let entry = Object.values(json);
             content.push(entry[i].content);
             date.push(entry[i].date);
+            year.push(entry[i].year);
             tags.push(entry[i].tags);
             location.push(entry[i].location);
             addresses.push(entry[i].address);
@@ -32,10 +35,12 @@ $( document ).ready(function() {
             
             let newnum = i+1;
             const entryd = ".entries:nth-of-type("+newnum+") .date";
+            const entryr = ".entries:nth-of-type("+newnum+") .year";
             const entryt = ".entries:nth-of-type("+newnum+") .tags";
             const entryl = ".entries:nth-of-type("+newnum+") .location";
 
             $(entryd).text(date[i]);
+            $(entryr).text(year[i]);
             $(entryt).text(tags[i]);
             $(entryl).text(location[i]);
 
@@ -100,4 +105,16 @@ $( document ).ready(function() {
     }  
 
     // Tags -------------------------------------------------------------------------------------------
+    $("nav span").on("click", function() {
+        $("nav span").removeClass("show");
+        $(this).toggleClass("show"); 
+        for (let i = 0; i < entrynum; i++) {
+            const matchYear = $(".entries:nth-of-type("+i+") .year").text();
+            if(matchYear === $(this).text()) { $(".entries:nth-of-type("+i+")").css({"display":"block"});
+            } else { $(".entries:nth-of-type("+i+")").css({"display":"none"}); }
+        }
+        if ($(this).text() === "All") {
+            for (let i = 0; i < entrynum; i++){ $(".entries:nth-of-type("+i+")").css({"display":"block"}); }
+        }
+    })
 });

@@ -73,7 +73,11 @@
         "location":"Castle Rock State Park", "address":"",
         "imagelink":"photos/2020/10-2-castlerock.JPG", "date":"Oct 2, 2020", "year":"2020", 
         "tags":"castle, rock, state, park"
-    },"placeholder":{
+    }
+    
+    
+    
+    ,"placeholder":{
         "content":"",
         "location":"Placeholder", "address":"",
         "imagelink":"", "date":"", "year":"2021",

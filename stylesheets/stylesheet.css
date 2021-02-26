@@ -102,12 +102,40 @@ header p {
   font-size: 16px;
 }
 
+/*--- Navigation -----------------------------------------------------*/
+
+nav {
+  display: flex;
+  margin: 30px 0;
+}
+
+nav span {
+  display: block;
+  padding: 8px;
+  border-radius: 4px;
+  background: #1118;
+  cursor: pointer;
+  margin-right: 16px;
+}
+
+nav span:last-child {
+  margin-right: 0px;
+}
+
+nav span:hover {
+  background: #111;
+}
+
+nav span.show {
+  background: #333;
+}
+
+
 /*--- Juicy Bits -----------------------------------------------------*/
 
 #articleGrid {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
   justify-content: space-evenly;
   margin: 0 30px;
 }
@@ -200,9 +228,6 @@ p::selection {
 
 .entries > span {
   text-align: right;
-}
-
-.entries span p {
   background: #1a1a1a80;
   display: inline-block;
   position: absolute;
@@ -211,6 +236,7 @@ p::selection {
   word-spacing: -6px;
   letter-spacing: 3px;
   font-family: SFDigital;
+  text-align: right;
 }
 
 .location {
@@ -230,6 +256,10 @@ p::selection {
 
 .date2 {
   opacity: 0.5;
+}
+
+.year {
+  display: none;
 }
 
 .content {
