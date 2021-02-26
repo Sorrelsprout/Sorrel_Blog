@@ -1,15 +1,15 @@
 {
-    "entry14":{
+    "e14":{
         "content":"I went hiking at Steven's Creek County Park for a brief hour or so. My arms and legs are itchy and I'll go to a doc's office next Friday. Before heading to the trail, I picked up some Korean banana milk from the H-Mart in Cupertino (it was my first time trying it and it was really tasty!). The air was so fresh and sweet today, not a biting crisp. It was nice and it's the first time I've been actually hiking in about a month. I stopped in the middle of a shaded section of a descending part of the trail though. I felt a bit scared to continue. I didn't hear any wildlife and as I turned to head back the wind started to blow. I'm not sure if my fear was because I listened to Missing 411 stories and was just scaring myself, or if it was a gut instinct. I headed back and immediately felt better as I hit the sunlit patch of the trail. I thought I could find myself out in there on the trails, but the more I hike, the more I feel as if the trees don't want me there.",
         "location":"Steven's Creek County Park", "address":"",
         "imagelink":"photos/2021/2-7-stevenscreekcountypark.jpg", "date":"Feb 7, 2021", "year":"2021",
         "tags":"stevens, creek, county, park, boulder, trees, trail"
-    },"entry13":{
+    },"e13":{
         "content":"Went with family to Almaden Lake. Might be planning a trip to Asia with my mom after COVID. Really excited!",
         "location":"Almaden Lake", "address":"",
         "imagelink":"photos/2021/1-16-almadenlake.jpg", "date":"Jan 16, 2021", "year":"2021",
         "tags":"almaden, quicksilver, wood"
-    },"entry12":{
+    },"e12":{
         "content":"I found an old mining facility and there were decrepit old buildings. I stood on an old rotting picnic table to look at San Jose all far away, and almost fell off. I kept walking through a circular flat resting area, and realized the trail that I was on wasn't a trail at all. It led me to an area with leaf litter on the ground and trees all around it, and I was worried that I might see someone there. I turned back and as I headed out of the shade, I twisted my ankle.",
         "location":"Almaden Quicksilver", "address":"",
         "imagelink":"photos/2021/1-9-almadenquicksilverwoodrd.jpg", "date":"Jan 1, 2021", "year":"2021",
@@ -18,69 +18,65 @@
     
     
     
-    ,"entry11":{
+    ,"e11":{
         "content":"I watched the sun rise from the lake. It was gorgeous and I listened to indie folk music.",
         "location":"Lake Lexington", "address":"",
         "imagelink":"photos/2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
         "tags":"lake, lexington, fog"
-    },"entry10":{
+    },"e10":{
         "content":"I watched the sun rise at Pichetti Ranch and felt serene.",
         "location":"Picchetti Ranch", "address":"",
         "imagelink":"photos/2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
         "tags":"pichetti, ranch, sunrise"
-    },"entry9":{
+    },"e9":{
         "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"",
         "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27, 2020", "year":"2020",
         "tags":"mission, peak, statue"
-    },"entry8":{
+    },"e8":{
         "content":"",
         "location":"Los Trancos Open Space", "address":"",
         "imagelink":"photos/2020/11-21-lostrancospreserve.jpg", "date":"Nov 21, 2020", "year":"2020",
         "tags":"los, trancos, lostrancos, open, space, preserve"
-    },"entry7":{
+    },"e7":{
         "content":"",
         "location":"Sanborn County Park", "address":"",
         "imagelink":"photos/2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"sanborn, county, park"
-    },"entry6":{
+    },"e6":{
         "content":"Almost lost my way back and missed lunch!",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
         "tags":"coyote, hills, bay area"
-    },"entry5":{
+    },"e5":{
         "content":"",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills1.JPG", "date":"Oct 31, 2020", "year":"2020", 
         "tags":"coyote, hills"
-    },"entry4":{
+    },"e4":{
         "content":"",
         "location":"Windy Hill Open Space", "address":"",
         "imagelink":"photos/2020/10-24-windyhill.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"windy, hill, open, space, preserve"
-    },"entry3":{
+    },"e3":{
         "content":"The first time I drove to the beach alone!",
         "location":"Pescadero State Beach", "address":"",
         "imagelink":"photos/2020/10-24-pescadero.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"pescadero, state, beach"
-    },"entry2":{
+    },"e2":{
         "content":"",
         "location":"Saratoga Gap Trail", "address":"",
         "imagelink":"photos/2020/10-9-saratogagap.JPG", "date":"Oct 9, 2020", "year":"2020", 
         "tags":"saratoga, gap, trail"
-    },"entry1":{
+    },"e1":{
         "content":"",
         "location":"Castle Rock State Park", "address":"",
         "imagelink":"photos/2020/10-2-castlerock.JPG", "date":"Oct 2, 2020", "year":"2020", 
         "tags":"castle, rock, state, park"
-    }
-    
-    
-    
-    ,"placeholder":{
+    },"placeholder":{
         "content":"",
         "location":"Placeholder", "address":"",
-        "imagelink":"", "date":"", "year":"2021",
+        "imagelink":"", "date":"", "year":"",
         "tags":""
     }
 }

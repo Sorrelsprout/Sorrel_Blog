@@ -83,6 +83,7 @@ $( document ).ready(function() {
             $(".close").click(() => { $("#entrydetails").removeClass("show"); dim();})
         }
         $(".entries").last().css({"display":"none"});
+        $(".entries:nth-of-type("+(entryLength)+")").css({"display":"none"}); // Removes placeholder
     });
 
     function dim() {
