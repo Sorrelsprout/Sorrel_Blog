@@ -1,24 +1,24 @@
 {
-    "e14":{
+    "21-3":{
         "content":"I went hiking at Steven's Creek County Park for a brief hour or so. My arms and legs are itchy and I'll go to a doc's office next Friday. Before heading to the trail, I picked up some Korean banana milk from the H-Mart in Cupertino (it was my first time trying it and it was really tasty!). The air was so fresh and sweet today, not a biting crisp. It was nice and it's the first time I've been actually hiking in about a month. I stopped in the middle of a shaded section of a descending part of the trail though. I felt a bit scared to continue. I didn't hear any wildlife and as I turned to head back the wind started to blow. I'm not sure if my fear was because I listened to Missing 411 stories and was just scaring myself, or if it was a gut instinct. I headed back and immediately felt better as I hit the sunlit patch of the trail. I thought I could find myself out in there on the trails, but the more I hike, the more I feel as if the trees don't want me there.",
         "location":"Steven's Creek County Park", "address":"",
         "imagelink":"photos/2021/2-7-stevenscreekcountypark.jpg", "date":"Feb 7, 2021", "year":"2021",
         "tags":"stevens, creek, county, park, boulder, trees, trail"
-    },"e13":{
+    },"21-2":{
         "content":"Went with family to Almaden Lake. Might be planning a trip to Asia with my mom after COVID. Really excited!",
         "location":"Almaden Lake", "address":"",
         "imagelink":"photos/2021/1-16-almadenlake.jpg", "date":"Jan 16, 2021", "year":"2021",
         "tags":"almaden, quicksilver, wood"
-    },"e12":{
+    },"21-1":{
         "content":"I found an old mining facility and there were decrepit old buildings. I stood on an old rotting picnic table to look at San Jose all far away, and almost fell off. I kept walking through a circular flat resting area, and realized the trail that I was on wasn't a trail at all. It led me to an area with leaf litter on the ground and trees all around it, and I was worried that I might see someone there. I turned back and as I headed out of the shade, I twisted my ankle.",
         "location":"Almaden Quicksilver", "address":"",
         "imagelink":"photos/2021/1-9-almadenquicksilverwoodrd.jpg", "date":"Jan 1, 2021", "year":"2021",
         "tags":"almaden, quicksilver, wood, trail"
-    }
+    },
     
     
     
-    ,"20-11":{
+    "20-11":{
         "content":"I watched the sun rise from the lake. It was gorgeous and I listened to indie folk music.",
         "location":"Lake Lexington", "address":"",
         "imagelink":"photos/2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
@@ -73,11 +73,11 @@
         "location":"Castle Rock State Park", "address":"",
         "imagelink":"photos/2020/10-2-castlerock.JPG", "date":"Oct 2, 2020", "year":"2020", 
         "tags":"castle, rock, state, park"
-    }
+    },
     
-
-
-    ,"19-33":{
+    
+    
+    "19-33":{
         "content":"",
         "location":"The Mirage", "address":"",
         "imagelink":"photos/2019/12-22-themirage.jpg", "date":"Dec 22, 2019", "year":"2019",
@@ -102,9 +102,7 @@
         "location":"Monument Valley", "address":"",
         "imagelink":"photos/2019/12-21-monumentvalleynavajotribalpark.jpg", "date":"Dec 12, 2019", "year":"2019",
         "tags":"monumentvalley, monument, valley"
-    },
-    
-    "19-28":{
+    },"19-28":{
         "content":"The 4 corners is the only place where four states meet, Arizona, New Mexico, Colorado and Utah.",
         "location":"Four Corners", "address":"",
         "imagelink":"photos/2019/12-21-fourcorners.jpg", "date":"Dec 20, 2019", "year":"2019",
@@ -126,37 +124,34 @@
         "tags":"arches, nationalpark, utah"
     },"19-24":{
         "content":"",
-        "location":"Placeholder", "address":"",
-        "imagelink":"photos/2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
-        "tags":"vegas, nevada, lasvegas"
-    }
-    
-    ,"19-23":{
-        "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark5.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-22":{
+    },"19-23":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark4.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-21":{
+    },"19-22":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark3.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    }
-    ,"19-20":{
+    },"19-21":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark2.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-19":{
+    },"19-20":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
+    },"19-19":{
+        "content":"",
+        "location":"Las Vegas", "address":"",
+        "imagelink":"photos/2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"vegas, nevada, lasvegas"
     },"19-18":{
         "content":"Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc). Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration. On the second night it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
         "location":"Cal Memorial Stadium", "address":"",
@@ -249,12 +244,11 @@
         "location":"Seattle", "address":"",
         "imagelink":"photos/2019/7-6-seattle.jpg", "date":"Jul 6, 2019", "year":"2019",
         "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
-    }
-
-
-
-
-    ,"placeholder":{
+    },
+    
+    
+    
+    "placeholder":{
         "content":"",
         "location":"Placeholder", "address":"",
         "imagelink":"", "date":"", "year":"",
