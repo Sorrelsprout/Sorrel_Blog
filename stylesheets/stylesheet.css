@@ -276,7 +276,9 @@ p::selection {
 #entrydetails .posted {
   position: absolute;
   left: 8px;
-  top: 8px;
+  top: 6px; 
+  min-width: 100vh;
+  text-align: right;
   transform: translateX(-100%) rotate(-90deg);
   transform-origin: right;
   word-spacing: -6px;
