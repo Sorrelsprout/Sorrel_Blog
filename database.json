@@ -18,62 +18,243 @@
     
     
     
-    ,"e11":{
+    ,"20-11":{
         "content":"I watched the sun rise from the lake. It was gorgeous and I listened to indie folk music.",
         "location":"Lake Lexington", "address":"",
         "imagelink":"photos/2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
         "tags":"lake, lexington, fog"
-    },"e10":{
+    },"20-10":{
         "content":"I watched the sun rise at Pichetti Ranch and felt serene.",
         "location":"Picchetti Ranch", "address":"",
         "imagelink":"photos/2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
         "tags":"pichetti, ranch, sunrise"
-    },"e9":{
+    },"20-9":{
         "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"",
         "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27, 2020", "year":"2020",
         "tags":"mission, peak, statue"
-    },"e8":{
+    },"20-8":{
         "content":"",
         "location":"Los Trancos Open Space", "address":"",
         "imagelink":"photos/2020/11-21-lostrancospreserve.jpg", "date":"Nov 21, 2020", "year":"2020",
         "tags":"los, trancos, lostrancos, open, space, preserve"
-    },"e7":{
+    },"20-7":{
         "content":"",
         "location":"Sanborn County Park", "address":"",
         "imagelink":"photos/2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"sanborn, county, park"
-    },"e6":{
+    },"20-6":{
         "content":"Almost lost my way back and missed lunch!",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
         "tags":"coyote, hills, bay area"
-    },"e5":{
+    },"20-5":{
         "content":"",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills1.JPG", "date":"Oct 31, 2020", "year":"2020", 
         "tags":"coyote, hills"
-    },"e4":{
+    },"20-4":{
         "content":"",
         "location":"Windy Hill Open Space", "address":"",
         "imagelink":"photos/2020/10-24-windyhill.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"windy, hill, open, space, preserve"
-    },"e3":{
+    },"20-3":{
         "content":"The first time I drove to the beach alone!",
         "location":"Pescadero State Beach", "address":"",
         "imagelink":"photos/2020/10-24-pescadero.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"pescadero, state, beach"
-    },"e2":{
+    },"20-2":{
         "content":"",
         "location":"Saratoga Gap Trail", "address":"",
         "imagelink":"photos/2020/10-9-saratogagap.JPG", "date":"Oct 9, 2020", "year":"2020", 
         "tags":"saratoga, gap, trail"
-    },"e1":{
+    },"20-e1":{
         "content":"",
         "location":"Castle Rock State Park", "address":"",
         "imagelink":"photos/2020/10-2-castlerock.JPG", "date":"Oct 2, 2020", "year":"2020", 
         "tags":"castle, rock, state, park"
-    },"placeholder":{
+    }
+    
+
+
+    ,"19-33":{
+        "content":"",
+        "location":"The Mirage", "address":"",
+        "imagelink":"photos/2019/12-22-themirage.jpg", "date":"Dec 22, 2019", "year":"2019",
+        "tags":"themirage, mirage, arizona, page"
+    },"19-32":{
+        "content":"",
+        "location":"Lake Powell, Antelope Creek", "address":"",
+        "imagelink":"photos/2019/12-22-lakepowellantelopecreek.jpg", "date":"Dec 22, 2019", "year":"2019",
+        "tags":"LakePowell, lake, arizona, page"
+    },"19-31":{
+        "content":"",
+        "location":"Antelope Canyon", "address":"",
+        "imagelink":"photos/2019/12-22-antelopecanyon2.jpg", "date":"Dec 22, 2019", "year":"2019",
+        "tags":"antelopecanyon, antelope, valley, page, arizona"
+    },"19-30":{
+        "content":"",
+        "location":"Antelope Canyon", "address":"",
+        "imagelink":"photos/2019/12-22-antelopecanyon.jpg", "date":"Dec 22, 2019", "year":"2019",
+        "tags":"antelopecanyon, antelope, valley, page, arizona"
+    },"19-29":{
+        "content":"",
+        "location":"Monument Valley", "address":"",
+        "imagelink":"photos/2019/12-21-monumentvalleynavajotribalpark.jpg", "date":"Dec 12, 2019", "year":"2019",
+        "tags":"monumentvalley, monument, valley"
+    },
+    
+    "19-28":{
+        "content":"The 4 corners is the only place where four states meet, Arizona, New Mexico, Colorado and Utah.",
+        "location":"Four Corners", "address":"",
+        "imagelink":"photos/2019/12-21-fourcorners.jpg", "date":"Dec 20, 2019", "year":"2019",
+        "tags":"four, corners, fourcorners, navajo, vendors"
+    },"19-27":{
+        "content":"",
+        "location":"Arches National Park", "address":"",
+        "imagelink":"photos/2019/12-20-archesnationalpark3.jpg", "date":"Dec 20, 2019", "year":"2019",
+        "tags":"arches, nationalpark, utah"
+    },"19-26":{
+        "content":"",
+        "location":"Arches National Park", "address":"",
+        "imagelink":"photos/2019/12-20-archesnationalpark2.jpg", "date":"Dec 20, 2019", "year":"2019",
+        "tags":"arches, nationalpark, utah"
+    },"19-25":{
+        "content":"",
+        "location":"Arches National Park", "address":"",
+        "imagelink":"photos/2019/12-20-archesnationalpark.jpg", "date":"Dec 20, 2019", "year":"2019",
+        "tags":"arches, nationalpark, utah"
+    },"19-24":{
+        "content":"",
+        "location":"Placeholder", "address":"",
+        "imagelink":"photos/2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"vegas, nevada, lasvegas"
+    }
+    
+    ,"19-23":{
+        "content":"",
+        "location":"Capitol Reef National Park", "address":"",
+        "imagelink":"photos/2019/12-19-capitolreefnationalpark5.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"capitolreef, nationalpark, utah"
+    },"19-22":{
+        "content":"",
+        "location":"Capitol Reef National Park", "address":"",
+        "imagelink":"photos/2019/12-19-capitolreefnationalpark4.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"capitolreef, nationalpark, utah"
+    },"19-21":{
+        "content":"",
+        "location":"Capitol Reef National Park", "address":"",
+        "imagelink":"photos/2019/12-19-capitolreefnationalpark3.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"capitolreef, nationalpark, utah"
+    }
+    ,"19-20":{
+        "content":"",
+        "location":"Capitol Reef National Park", "address":"",
+        "imagelink":"photos/2019/12-19-capitolreefnationalpark2.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"capitolreef, nationalpark, utah"
+    },"19-19":{
+        "content":"",
+        "location":"Capitol Reef National Park", "address":"",
+        "imagelink":"photos/2019/12-19-capitolreefnationalpark.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "tags":"capitolreef, nationalpark, utah"
+    },"19-18":{
+        "content":"Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc). Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration. On the second night it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
+        "location":"Cal Memorial Stadium", "address":"",
+        "imagelink":"photos/2019/10-26-calhacksberks.jpg", "date":"Oct 26, 2019", "year":"2019",
+        "tags":"berkeley, california, hackathon, calhacks"
+    },"19-17":{
+        "content":"My roommate and I hung out a little bit with our teammates and got boba. We almost missed our flight back because the Link lightrail was down.",
+        "location":"University of Washington", "address":"",
+        "imagelink":"photos/2019/10-13-uw.jpg", "date":"Oct 13, 2019", "year":"2019",
+        "tags":"seattle, uw, university, washington, dubhacks"
+    },"19-16":{
+        "content":"Had an all-female hacking team and ate bahn-mi. We made a chrome extension that suggests different ways to be more sustainable in our everyday lives. Also got midnight mochi waffles with whipped cream and sprinkles!",
+        "location":"University of Washington", "address":"",
+        "imagelink":"photos/2019/10-12-dubhacks.jpg", "date":"Oct 12, 2019", "year":"2019",
+        "tags":"seattle, uw, university, washington, balloons, hackathon, dubhacks"
+    }
+
+    ,"19-15":{
+        "content":"My roommate and I stayed in City Hostel Seattle. We had lockers for our stuff and we slept in bunk beds, but had to take separate rooms. It was really fun and I roasted a marshmallow and played some card game with a few guys.",
+        "location":"City Hostel Seattle", "address":"",
+        "imagelink":"photos/2019/10-11-cityhostel.jpg", "date":"Oct 11, 2019", "year":"2019",
+        "tags":"seattle, washington, hostel, dubhacks"
+    },"19-14":{
+        "content":"A “sound” is a large sea or ocean inlet, or a ocean sea channel. Puget Sound is breathtaking. I couldn't fully understand in the moment, but I knew that it was so rare and such a blessing that I got to look out over this amazing place twice this year.",
+        "location":"Puget Sound", "address":"",
+        "imagelink":"photos/2019/10-11-pugetsound.jpg", "date":"Oct 11, 2019", "year":"2019",
+        "tags":"seattle, washington, water, pugetsound, dubhacks"
+    },"19-13":{
+        "content":"The walls were really gross but so colorful. Hit this one right off my bucket list.",
+        "location":"Gum Wall", "address":"",
+        "imagelink":"photos/2019/10-11-gumwall.jpg", "date":"Oct 11, 2019", "year":"2019",
+        "tags":"seattle, washington, gumwall, landmark, dubhacks"
+    },"19-12":{
+        "content":"You can see Mount Rainier in the distance.",
+        "location":"Pier 66, Puget Sound", "address":"",
+        "imagelink":"photos/2019/10-11-pier66.jpg", "date":"Oct 11, 2019", "year":"2019",
+        "tags":"seattle, washington, mountrainier, pier, water, pugetsound, dubhacks"
+    },"19-11":{
+        "content":"On the way to Dubhacks 2019 with my roommate! We explored around Pike Place Market, ate some poutine, and talked to some vendors (who we bought stickers from).",
+        "location":"Pike Place Market", "address":"",
+        "imagelink":"photos/2019/10-11-pikeplacemarket.jpg", "date":"Oct 11, 2019", "year":"2019",
+        "tags":"seattle, washington, pikeplace, dubhacks"
+    },"19-10":{
+        "content":"",
+        "location":"Chihuly Gardens", "address":"",
+        "imagelink":"photos/2019/7-13-seattle.jpg", "date":"Jul 13, 2019", "year":"2019",
+        "tags":"seattle, washington, chihuly, spaceneedle, cruise"
+    },"19-9":{
+        "content":"",
+        "location":"Buchart Gardens", "address":"",
+        "imagelink":"photos/2019/7-12-buchartgardens.jpg", "date":"Jul 12, 2019", "year":"2019",
+        "tags":"buchartgardens, brentwoodbay, britishcolumbia, garden, canada, cruise, flowers"
+    },"19-8":{
+        "content":"",
+        "location":"Victoria", "address":"",
+        "imagelink":"photos/2019/7-12-victoria2.jpg", "date":"Jul 12, 2019", "year":"2019",
+        "tags":"victoria, canada, britishcolumbia, cruise, water"
+    },"19-7":{
+        "content":"",
+        "location":"Victoria", "address":"",
+        "imagelink":"photos/2019/7-12-victoria.jpg", "date":"Jul 12, 2019", "year":"2019",
+        "tags":"victoria, canada, britishcolumbia, cruise, water"
+    },"19-6":{
+        "content":"",
+        "location":"Juneau", "address":"",
+        "imagelink":"photos/2019/7-9-juneau2.jpg", "date":"Jul 9, 2019", "year":"2019",
+        "tags":"juneau, alaska, cruise, glacier, water"
+    },"19-5":{
+        "content":"",
+        "location":"Juneau", "address":"",
+        "imagelink":"photos/2019/7-9-juneau.jpg", "date":"Jul 9, 2019", "year":"2019",
+        "tags":"juneau, alaska, cruise, trees"
+    },"19-4":{
+        "content":"",
+        "location":"Ketchikan", "address":"",
+        "imagelink":"photos/2019/7-8-ketchikan2.jpg", "date":"Jul 8, 2019", "year":"2019",
+        "tags":"ketchikan, alaska, cruise, shops"
+    },"19-3":{
+        "content":"",
+        "location":"Ketchikan", "address":"",
+        "imagelink":"photos/2019/7-8-ketchikan.jpg", "date":"Jul 8, 2019", "year":"2019",
+        "tags":"ketchikan, alaska, cruise, burgerqueen"
+    },"19-2":{
+        "content":"",
+        "location":"Seattle", "address":"",
+        "imagelink":"photos/2019/7-6-seattle2.jpg", "date":"Jul 6, 2019", "year":"2019",
+        "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
+    },"19-1":{
+        "content":"",
+        "location":"Seattle", "address":"",
+        "imagelink":"photos/2019/7-6-seattle.jpg", "date":"Jul 6, 2019", "year":"2019",
+        "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
+    }
+
+
+
+
+    ,"placeholder":{
         "content":"",
         "location":"Placeholder", "address":"",
         "imagelink":"", "date":"", "year":"",
