@@ -169,14 +169,15 @@ nav span.show {
   display: none;
 }
 
-.imagelink2 {
-  max-height: 400px;
-}
-
 .imagelink {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.imagelink2 {
+  max-height: 400px;
+  max-width: 560px;
 }
 
 .close {

@@ -75,7 +75,7 @@ $( document ).ready(function() {
                     $(".imagelink2").attr("src", placeholderimg);
                 } else { 
                     $(".imagelink2").attr("src", imagelink[i]);
-                    $(".imagelink2").removeClass("hide") 
+                    $(".imagelink2").removeClass("hide")
                 }
                 $("#entrydetails").addClass("show");
                 dim();
