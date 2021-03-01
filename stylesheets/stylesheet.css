@@ -137,7 +137,10 @@ nav span.show {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-  margin: 0 30px;
+  margin: 0 auto;
+  padding: 0 30px;
+  max-width: 930px;
+  justify-content: flex-start;
 }
 
 .entries {
@@ -301,6 +304,12 @@ p::selection {
 
 /*--- Queries --------------------------------------------------------*/
 
+@media only screen and (max-width: 930px) {
+  #articleGrid {
+    max-width: 640px;
+  }
+}
+
 @media only screen and (max-width: 820px) {
   #entrydetails.show {
     display: block;
@@ -324,6 +333,12 @@ p::selection {
   .imagelink2 {
     max-width: 100%;
     margin: auto;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  #articleGrid {
+    max-width: 350px;
   }
 }
 
