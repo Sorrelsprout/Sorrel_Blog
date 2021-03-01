@@ -38,6 +38,7 @@ $( document ).ready(function() {
             const entryr = ".entries:nth-of-type("+newnum+") .year";
             const entryt = ".entries:nth-of-type("+newnum+") .tags";
             const entryl = ".entries:nth-of-type("+newnum+") .location";
+            const entrya = ".entries:nth-of-type("+newnum+") .locationlink";
 
             $(entryd).text(date[i]);
             $(entryr).text(year[i]);
@@ -48,6 +49,13 @@ $( document ).ready(function() {
                 $(".entries:nth-of-type("+newnum+") .location").addClass("hide"); 
             } else {
                 $(".entries:nth-of-type("+newnum+") .location").innerText = location[i]; 
+            }
+
+            if (addresses[i]===""){ 
+                $(entrya).removeAttr("href");
+            } else {
+                const searchquery = "http://google.com/maps?q=" + addresses[i];
+                $(entrya).attr("href", searchquery);
             }
             
             if (imagelink[i]===""){ 

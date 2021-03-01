@@ -221,6 +221,11 @@ a:hover {
   color: #aaa;
 }
 
+a:not([href]):hover {
+  color:#ddd;
+  cursor: default;
+}
+
 p {
   line-height: 20px;
 }
