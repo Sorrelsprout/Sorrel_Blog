@@ -23,71 +23,101 @@
     
     
     
-    "20-17":{
+    "20-23":{
         "content":"I watched the sun rise from the lake. It was gorgeous and I listened to indie folk music.",
         "location":"Lake Lexington", "address":"",
         "imagelink":"photos/2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
         "tags":"lake, lexington, fog, california"
-    },"20-16":{
+    },"20-22":{
         "content":"I watched the sun rise at Pichetti Ranch and felt serene.",
         "location":"Picchetti Ranch", "address":"",
         "imagelink":"photos/2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
         "tags":"pichetti, ranch, sunrise, california"
-    },"20-15":{
+    },"20-21":{
         "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"",
         "imagelink":"photos/2020/11-27-missionpeak.jpg", "date":"Nov 27, 2020", "year":"2020",
         "tags":"mission, missionpeak, peak, statue, california"
-    },"20-14":{
+    },"20-20":{
         "content":"",
         "location":"Los Trancos Open Space", "address":"",
         "imagelink":"photos/2020/11-21-lostrancospreserve.jpg", "date":"Nov 21, 2020", "year":"2020",
         "tags":"los, trancos, lostrancos, open, space, preserve, california"
-    },"20-13":{
+    },"20-19":{
         "content":"",
         "location":"Sanborn County Park", "address":"",
         "imagelink":"photos/2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"sanborn, county, park, california"
-    },"20-12":{
+    },"20-18":{
+        "content":"I tried to go to Black Mountain Trail but it wasn't open yet. Instead I caught the sunrise at the edge of the entrance.",
+        "location":"Montebello Rd", "address":"",
+        "imagelink":"photos/2020/11-7-montebellord.jpg", "date":"Nov 7, 2020", "year":"2020",
+        "tags":"montebellord, sunrise, montebello, california"
+    },"20-17":{
         "content":"Almost lost my way back and missed lunch!",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
         "tags":"coyote, hills, bayarea, trail, california"
-    },"20-11":{
+    },"20-16":{
         "content":"",
         "location":"Coyote Hills", "address":"",
         "imagelink":"photos/2020/10-31-coyotehills1.JPG", "date":"Oct 31, 2020", "year":"2020", 
         "tags":"coyote, hills, bayarea, trail, california"
-    },"20-10":{
+    },"20-15":{
         "content":"",
         "location":"Windy Hill Open Space", "address":"",
         "imagelink":"photos/2020/10-24-windyhill.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"windy, hill, open, space, preserve, california"
-    },"20-9":{
+    },"20-14":{
         "content":"The first time I drove to the beach alone!",
         "location":"Pescadero State Beach", "address":"",
         "imagelink":"photos/2020/10-24-pescadero.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"pescadero, state, beach, california"
-    },"20-8":{
+    },"20-13":{
+        "content":"",
+        "location":"Saratoga Gap Trail", "address":"",
+        "imagelink":"photos/2020/10-9-saratogagap2.jpg", "date":"Oct 9, 2020", "year":"2020", 
+        "tags":"saratoga, gap, trail, california"
+    },"20-12":{
         "content":"",
         "location":"Saratoga Gap Trail", "address":"",
         "imagelink":"photos/2020/10-9-saratogagap.JPG", "date":"Oct 9, 2020", "year":"2020", 
         "tags":"saratoga, gap, trail, california"
-    },"20-7":{
+    },"20-11":{
+        "content":"",
+        "location":"Saratoga Railroad Tracks", "address":"",
+        "imagelink":"photos/2020/10-2-saratogarailroadtracks.jpg", "date":"Oct 2, 2020", "year":"2020", 
+        "tags":"saratoga, railroad, tracks, california"
+    },"20-10":{
         "content":"",
         "location":"Castle Rock State Park", "address":"",
         "imagelink":"photos/2020/10-2-castlerock.jpg", "date":"Oct 2, 2020", "year":"2020", 
         "tags":"castle, rock, state, park, california"
-    },"20-6":{
-        "content":"Went on a hike to Steven's Creek Reservoir with the React friend I met at HackDavis earlier in the year. He's my hiking buddy now, and I'm glad to socialize during COVID.",
+    },"20-9":{
+        "content":"My hiking buddy and I ended up around the Fremont Older Open Space Preserve and walked till wee could see Hunter's Point a little bit.",
+        "location":"Coyote Ridge Trail", "address":"",
+        "imagelink":"photos/2020/9-20-coyoteridgefremontolder.jpg", "date":"Sep 20, 2020", "year":"2020", 
+        "tags":"coyoteridge, fremont, fremontolder, openspacepreserve, preserve, hike, trail, california"
+    },"20-8":{
+        "content":"Went on a hike to Steven's Creek Reservoir with the HackDavis hiking buddy. I'm glad to socialize during COVID.",
         "location":"Steven's Creek Reservoir", "address":"",
         "imagelink":"photos/2020/9-20-stevenscreekreservoir.jpg", "date":"Sep 20, 2020", "year":"2020", 
         "tags":"stevenscreek, reservoir, water, hike, trail, california"
-    },"20-5":{
+    },"20-7":{
         "content":"The fire from the SCU, August, and LNU Lightning Complexes made the sky completely orange and dusty. It smelled like a campfire and it feels like the apocalypse. I remember a few days ago it was raining and there was lightening at 4AM, and I remember thinking, “it's just a California summer storm, coming and going.” That storm really didn't leave behind much of a trace the next day from what I could see, but then the smokes started.",
         "location":"San Jose", "address":"",
         "imagelink":"photos/2020/9-9-sanjose.jpg", "date":"Sep 9, 2020", "year":"2020", 
         "tags":"sanjose, fires, smoke, park, california"
+    },"20-6":{
+        "content":"Went to Stanford Uni with my React friend that I met earlier this year at HackDavis. He wanted to take a book from one of the dorm libraries, and he played piano for a bit. We were talking about drugs and life and coding and robots and sci-fi.",
+        "location":"Stanford University", "address":"",
+        "imagelink":"photos/2020/8-28-stanforduni.jpg", "date":"Aug 28, 2020", "year":"2020", 
+        "tags":"stanford, university, stanforduniversity, california, paloalto"
+    },"20-5":{
+        "content":"Went to Hunter's Point with my high school friend. He talked about his experiences in Korea and I was just glad he was alive.",
+        "location":"Hunter's Point", "address":"",
+        "imagelink":"photos/2020/3-hunterspoint.jpg", "date":"Mar, 2020", "year":"2020", 
+        "tags":"hunterspoint, hike, california, cupertino"
     },"20-4":{
         "content":"On my way to SacHacks, I stayed at the Sac City Hostel. When I first set off, I took the Amtrak all the way to Davis. I hung out with my old housemates, got boba at Teaspoon, and then one of my housemates drove me to the hostel. It was a massive old mansion and the yard wasn't very well-kept. The inside was fairly clean and pretty well-lit, but compared to the Seattle hostel this one wasn't modern. There was a giant sturdy wood staircase and everything past the entrance looked carpeted. I talked with a few other travelers in the kitchen and they said they saw a rat somewhere in there. When I walked around outside, I saw a rat scurrying across the lawn. I slept in a bunk and locked my backpack in a locker. The next day I had to walk quite a few blocks away so that I'd catch the bus on time. I had to switch buses in-between and I stopped at a convenience store to ask for directions and get more bus money. I also had to walk a LOT to get to the SacHacks location (which moved a few buildings down from the 2018 SacHacks location. Hacking was really fun and my teammates were all dudes though. One was taking a UC Davis cybersecurity boot camp and the other was also interested in that subject. Our project was organizing an esports team's data. We ended up winning best UI/UX and $50 amazon giftcards, so it was quite worth it! I was so excited and I met tons of awesome people. I almost missed my bus back (which also needed to connect to the Amtrak) and it was a LOT of planning. This trip was really an adventure though.",
         "location":"Sacramento Hostel", "address":"",
@@ -112,123 +142,136 @@
     
     
     
-    "19-33":{
+    "19-36":{
         "content":"",
         "location":"The Mirage", "address":"",
         "imagelink":"photos/2019/12-22-themirage.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"themirage, mirage, arizona, page"
-    },"19-32":{
+    },"19-35":{
         "content":"",
         "location":"Lake Powell, Antelope Creek", "address":"",
         "imagelink":"photos/2019/12-22-lakepowellantelopecreek.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"LakePowell, lake, arizona, page"
-    },"19-31":{
+    },"19-34":{
         "content":"",
         "location":"Antelope Canyon", "address":"",
         "imagelink":"photos/2019/12-22-antelopecanyon2.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"antelopecanyon, antelope, valley, page, arizona"
-    },"19-30":{
+    },"19-33":{
         "content":"",
         "location":"Antelope Canyon", "address":"",
         "imagelink":"photos/2019/12-22-antelopecanyon.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"antelopecanyon, antelope, valley, page, arizona"
-    },"19-29":{
+    },"19-32":{
         "content":"",
         "location":"Monument Valley", "address":"",
         "imagelink":"photos/2019/12-21-monumentvalleynavajotribalpark.jpg", "date":"Dec 12, 2019", "year":"2019",
         "tags":"monumentvalley, monument, valley"
-    },"19-28":{
+    },"19-31":{
         "content":"The 4 corners is the only place where four states meet, Arizona, New Mexico, Colorado and Utah.",
         "location":"Four Corners", "address":"",
         "imagelink":"photos/2019/12-21-fourcorners.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"four, corners, fourcorners, navajo, vendors"
-    },"19-27":{
+    },"19-30":{
         "content":"",
         "location":"Arches National Park", "address":"",
         "imagelink":"photos/2019/12-20-archesnationalpark3.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"arches, nationalpark, utah"
-    },"19-26":{
+    },"19-29":{
         "content":"",
         "location":"Arches National Park", "address":"",
         "imagelink":"photos/2019/12-20-archesnationalpark2.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"arches, nationalpark, utah"
-    },"19-25":{
+    },"19-28":{
         "content":"",
         "location":"Arches National Park", "address":"",
         "imagelink":"photos/2019/12-20-archesnationalpark.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"arches, nationalpark, utah"
-    },"19-24":{
+    },"19-27":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark5.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-23":{
+    },"19-26":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark4.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-22":{
+    },"19-25":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark3.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-21":{
+    },"19-24":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark2.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-20":{
+    },"19-23":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"",
         "imagelink":"photos/2019/12-19-capitolreefnationalpark.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-19":{
+    },"19-22":{
         "content":"",
         "location":"Las Vegas", "address":"",
         "imagelink":"photos/2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"vegas, nevada, lasvegas"
-    },"19-18":{
-        "content":"Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc). Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration. On the second night it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
+    },"19-21":{
+        "content":"On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
         "location":"Cal Memorial Stadium", "address":"",
-        "imagelink":"photos/2019/10-26-calhacksberks.jpg", "date":"Oct 26, 2019", "year":"2019",
+        "imagelink":"photos/2019/10-26-calhacks2.jpg", "date":"Oct 26, 2019", "year":"2019",
+        "tags":"berkeley, stairs, california, hackathon, calhacks"
+    },"19-20":{
+        "content":"Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc). Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration.",
+        "location":"Cal Memorial Stadium", "address":"",
+        "imagelink":"photos/2019/10-26-calhacks.jpg", "date":"Oct 26, 2019", "year":"2019",
         "tags":"berkeley, california, hackathon, calhacks"
-    },"19-17":{
+    },"19-19":{
         "content":"My roommate and I hung out a little bit with our teammates and got boba. We saw a little bit of UW and it was really breathtaking. We almost missed our flight back because the Link lightrail was down, and we made our way to our flight back just in time.",
         "location":"University of Washington", "address":"",
         "imagelink":"photos/2019/10-13-uw.jpg", "date":"Oct 13, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, dubhacks"
-    },"19-16":{
+    },"19-18":{
         "content":"Had an all-female hacking team and ate bahn-mi. We made a chrome extension that suggests different ways to be more sustainable in our everyday lives. Also got midnight mochi waffles with whipped cream and sprinkles!",
         "location":"University of Washington", "address":"",
         "imagelink":"photos/2019/10-12-dubhacks.jpg", "date":"Oct 12, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, balloons, hackathon, dubhacks"
-    }
-
-    ,"19-15":{
+    },"19-17":{
         "content":"My roommate and I stayed in City Hostel Seattle. We had lockers for our stuff and we slept in bunk beds, but had to take separate rooms. It was really fun and I roasted a marshmallow and played some card game with a few guys.",
         "location":"City Hostel Seattle", "address":"",
         "imagelink":"photos/2019/10-11-cityhostel.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, hostel, dubhacks"
-    },"19-14":{
+    },"19-16":{
         "content":"A “sound” is a large sea or ocean inlet, or a ocean sea channel. Puget Sound is breathtaking. I couldn't fully understand in the moment, but I knew that it was so rare and such a blessing that I got to look out over this amazing place twice this year.",
         "location":"Puget Sound", "address":"",
         "imagelink":"photos/2019/10-11-pugetsound.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, water, pugetsound, dubhacks"
-    },"19-13":{
+    },"19-15":{
         "content":"The walls were really gross but so colorful. Hit this one right off my bucket list.",
         "location":"Gum Wall", "address":"",
         "imagelink":"photos/2019/10-11-gumwall.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, gumwall, landmark, dubhacks"
-    },"19-12":{
+    },"19-14":{
         "content":"You can see Mount Rainier in the distance.",
         "location":"Pier 66, Puget Sound", "address":"",
         "imagelink":"photos/2019/10-11-pier66.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, mountrainier, pier, water, pugetsound, dubhacks"
-    },"19-11":{
+    },"19-13":{
         "content":"On the way to Dubhacks 2019 with my roommate! We explored around Pike Place Market, ate some poutine, and talked to some vendors (who we bought stickers from).",
         "location":"Pike Place Market", "address":"",
         "imagelink":"photos/2019/10-11-pikeplacemarket.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, pikeplace, dubhacks"
+    },"19-12":{
+        "content":"Ligtning from the tornado",
+        "location":"UC Davis Physics Building", "address":"",
+        "imagelink":"photos/2019/9-28-ucdphysics2.jpg", "date":"Sep 28, 2019", "year":"2019",
+        "tags":"davis, lightening, tornado, physics, ucdavis, california"
+    },"19-11":{
+        "content":"Today was kind of crazy. This is the sky next to a tornado that appeared. I was having a meeting with one of the student orgs and we all got tornado warnings on our phones. The air was staticky, and the wind was blowing something fierce. As soon as we stepped foot out the building, we could see the tornado's tunnel.",
+        "location":"UC Davis Silo", "address":"",
+        "imagelink":"photos/2019/9-28-ucdphysics.jpg", "date":"Sep 28, 2019", "year":"2019",
+        "tags":"davis, tornado, physics, ucdavis, california"
     },"19-10":{
         "content":"",
         "location":"Chihuly Gardens", "address":"",
