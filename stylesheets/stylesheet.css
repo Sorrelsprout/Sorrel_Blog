@@ -237,7 +237,6 @@ p::selection {
 
 .entries > span {
   text-align: right;
-  background: #1a1a1a80;
   display: inline-block;
   position: absolute;
   bottom: 20px;
@@ -263,8 +262,23 @@ p::selection {
   font-family: SFDigital;
 }
 
+.date, .date2{
+  color: #fa7f69;
+  text-shadow:
+		-0.5px -0.5px 0 #540e01,
+		0.5px -0.5px 0 #540e01,
+		-0.5px 0.5px 0 #540e01,
+		0.5px 0.5px 0 #540e01;
+}
+
+.date:hover {
+  color: #ddd;
+  text-shadow: none;
+  background: #1a1a1a80;
+}
+
 .date2 {
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 .year {
