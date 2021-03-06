@@ -62,7 +62,8 @@ $( document ).ready(function() {
                 $(".entries:nth-of-type("+newnum+") .imagelink").addClass("hide"); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", placeholderimg);
             } else { 
-                $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imagelink[i]); 
+                const imgLink = "photos/"+imagelink[i];
+                $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imgLink); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide") 
             }
             
@@ -75,14 +76,15 @@ $( document ).ready(function() {
                     $(".content").css({"display":"none"});
                 } else {
                     $(".content").css({"display":"block"});
-                    $(".content").text(content[i]);
+                    $(".content").html(content[i]);
                     if($(".content").height() >= $(".content_container").height()) { $(".content").addClass("overflown")} 
                     else { $(".content").removeClass("overflown")}
                 }
                 if (imagelink[i]===""){ 
                     $(".imagelink2").attr("src", placeholderimg);
                 } else { 
-                    $(".imagelink2").attr("src", imagelink[i]);
+                    const imgLink = "photos/"+imagelink[i];
+                    $(".imagelink2").attr("src", imgLink);
                     $(".imagelink2").removeClass("hide")
                 }
                 $("#entrydetails").addClass("show");
