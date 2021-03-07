@@ -128,4 +128,15 @@ $( document ).ready(function() {
             for (let i = 0; i < entrynum; i++){ $(".entries:nth-of-type("+i+")").css({"display":"block"}); }
         }
     })
+
+    $("audio")[0].volume = 0.02;
+    $("audio")[0].play();
+    $("#audiogroup").click(() => { 
+        $("#audiogroup").toggleClass("soundoff");
+        if ($("audio")[0].paused == false) {
+            $("audio")[0].pause();
+        } else {
+            $("audio")[0].play();
+        }
+    })
 });

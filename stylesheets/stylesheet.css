@@ -202,21 +202,24 @@ nav span.show {
   margin: 0;
   padding: 60px;
   background: #1a1a1a;
+  text-align: center;
+  font-size: 12px;
+  line-height: 36px;
 }
 
 .footer a {
-  font-size: 12px;
   font-weight: 400;
 }
 
 /*--- Typography  ----------------------------------------------------*/
 
-a {
+a, i{
   text-decoration: none;
   color:#ddd;
+  cursor: pointer;
 }
 
-a:hover, .content a:hover {
+a:hover, .content a:hover, i:hover {
   color: #aaa;
 }
 
@@ -322,6 +325,24 @@ p::selection {
   position: fixed;
   bottom: 30px;
   right: 30px;
+  font-size: 20px;
+}
+
+#audiogroup {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  font-size: 12px;
+}
+
+#audiogroup .fa-volume-down,
+#audiogroup.soundoff .fa-volume-off {
+  display: block;
+}
+
+#audiogroup.soundoff .fa-volume-down,
+#audiogroup .fa-volume-off {
+  display: none;
 }
 
 /*--- Queries --------------------------------------------------------*/
@@ -398,4 +419,3 @@ p::selection {
   }
 }
 
-/*--- OOO ---------------------------------------------------------*/
