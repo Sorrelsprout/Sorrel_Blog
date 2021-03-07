@@ -325,7 +325,7 @@ p::selection {
   position: fixed;
   bottom: 30px;
   right: 30px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 #audiogroup {
