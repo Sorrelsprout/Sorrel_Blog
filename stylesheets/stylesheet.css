@@ -214,10 +214,9 @@ nav span.show {
 a {
   text-decoration: none;
   color:#ddd;
-  font-weight: 600;
 }
 
-a:hover {
+a:hover, .content a:hover {
   color: #aaa;
 }
 
@@ -290,6 +289,10 @@ p::selection {
   max-height: 400px;
   overflow: overlay;
   color: #aaa;
+}
+
+.content a {
+  color: #e7e4da;
 }
 
 .content.overflown {
