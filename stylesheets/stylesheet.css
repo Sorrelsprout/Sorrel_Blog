@@ -335,13 +335,13 @@ p::selection {
   font-size: 12px;
 }
 
-#audiogroup .fa-volume-down,
-#audiogroup.soundoff .fa-volume-off {
+#audiogroup.soundoff .fa-volume-down,
+#audiogroup .fa-volume-off {
   display: block;
 }
 
-#audiogroup.soundoff .fa-volume-down,
-#audiogroup .fa-volume-off {
+#audiogroup .fa-volume-down,
+#audiogroup.soundoff .fa-volume-off {
   display: none;
 }
 
