@@ -211,6 +211,10 @@ nav span.show {
   font-weight: 400;
 }
 
+.footer p, .footer p a {
+  color: #ddda;
+}
+
 /*--- Typography  ----------------------------------------------------*/
 
 a, i{
@@ -330,7 +334,7 @@ p::selection {
 
 #audiogroup {
   position: fixed;
-  bottom: 30px;
+  bottom: 32px;
   left: 30px;
   font-size: 12px;
 }
