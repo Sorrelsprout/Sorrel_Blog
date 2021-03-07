@@ -130,7 +130,6 @@ $( document ).ready(function() {
     })
 
     $("audio")[0].volume = 0.02;
-    $("audio")[0].play();
     $("#audiogroup").click(() => { 
         $("#audiogroup").toggleClass("soundoff");
         if ($("audio")[0].paused == false) {
