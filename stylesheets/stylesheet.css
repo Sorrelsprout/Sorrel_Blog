@@ -392,6 +392,7 @@ p::selection {
 @media only screen and (max-width: 600px) {
   #entrydetails {
     margin: 60px 16px 0 16px;
+    top: 0px;
   }
   .close {
     position: absolute;
@@ -417,9 +418,6 @@ p::selection {
   #hero {
     height: 100%;
     width: auto;
-  }
-  #entrydetails {
-    top: 0px;
   }
   .content {
     max-height: 30vh;
