@@ -414,6 +414,9 @@ p::selection {
     height: 100%;
     width: auto;
   }
+  #entrydetails {
+    top: 0px;
+  }
   .content {
     max-height: 30vh;
   }
