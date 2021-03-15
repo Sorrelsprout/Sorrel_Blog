@@ -442,6 +442,9 @@ i.fa-clone::before {
   #articleGrid {
     max-width: 350px;
   }
+  .imageNav {
+    max-height: 300px;
+  }
 }
 
 @media only screen and (max-width: 600px) {
