@@ -353,14 +353,14 @@ p::selection {
   display: flex;
 }
 
-.fa-clone {
+i.fa-clone {
   display: none;
   position: absolute;
   top: 24px;
   right: 24px;
 }
 
-.multiImg .fa-clone { /* multiple images */
+.multiImg i.fa-clone { /* multiple images */
   display: block;
 }
 

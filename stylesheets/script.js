@@ -59,6 +59,7 @@ $( document ).ready(function() {
                 $(entrya).attr("href", searchquery);
             }
             
+            $(".entries:nth-of-type("+newnum+")").removeClass("multiImg")
             if (imagelink[i]===""){ 
                 $(".entries:nth-of-type("+newnum+") .imagelink").addClass("hide"); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", placeholderimg);
@@ -67,7 +68,7 @@ $( document ).ready(function() {
                 if (Array.isArray(imagelink[i])) { 
                     imgLink = "photos/"+imagelink[i][0]; 
                     $(".entries:nth-of-type("+newnum+")").addClass("multiImg");
-                } else { $(".entries:nth-of-type("+newnum+")").removeClass("multiImg") }
+                }
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imgLink); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide"); 
             }

@@ -1,25 +1,20 @@
 {
-    "21-7":{
+    "21-6":{
         "content":["Today there was a time change and I woke up an hour before I intended to. When I got to the hiking spot, I wondered why it was still dark, and got a matcha latte to pass the time. The sky was also overcast so I didn't get to catch the sunset. Hopefully next time. After the hike I swung by a farmer's market at Princeton Plaza Mall because I saw flowers and snow cones, but didn't end up buying anything."],
         "location":"Santa Teresa County Park", "address":"Santa Teresa County Park, Bernal Rd, San Jose, CA 95120",
-        "imagelink":["2021/3-14-santateresa2.jpg","2021/3-14-santateresa.jpg"], "date":"Mar 14, 2021", "year":"2021",
+        "imagelink":"2021/3-14-santateresa.jpg", "date":"Mar 14, 2021", "year":"2021",
         "tags":"santa, teresa, trail, mountain, clouds, sunbeam, santateresa, california"
-    },"21-6":{
+    },"21-5":{
         "content":["I took the Creekside Trail on the way up. There were quite some trees surrounding me. I listened to a podcast called “Stuff They Don't Want You To Know” (<a href='https://open.spotify.com/show/5N6g8n6084T5D6Q67yGCUX' target='_blank'>STDWYTK</a>), a paranormal and strange-things podcast and I felt a little unnerved because the topic was about cattle mutilations and I was walking past some dense trees, so I stopped listening after a bit. I listened for birds and signs of wildlife as I walked just in case... At one point the birds stopped chirping but the trees were still rustling and I got a bit creeped out, but then the birds started back up again.<br>",
         "<br>I walked to the top of the hill halfway between the Prospect Rd. parking lot and Hunter's Point and I saw three deer eating grass. I also saw two eagles. One flew really close and I could see that it was massive. There was a tiny birdhouse nailed to a post in the middle of the field off the trail, and it was swaying back and forth because of the wind.<br>",
         "<br>I looked out and could see the lights all gradualy come on as the sky got darker. I didn't want to leave, so I could catch all the remnants of the sunset, but had to head back. As I left it got super dark and I had to put on my glasses to see."],
         "location":"Cora Older Trail", "address":"37.289365, -122.058239",
         "imagelink":"2021/3-5-coraolder.jpg", "date":"Mar 5, 2021", "year":"2021",
         "tags":"cora, trail, coraolder, mountain, clouds, sunset, saratoga, california"
-    },"21-5":{
-        "content":"",
-        "location":"Bay Trail", "address":"Sunnyvale Bay Trail",
-        "imagelink":"2021/2-27-baytrail2.jpg", "date":"Feb 27, 2021", "year":"2021",
-        "tags":"baytrail, trail, baylands, water, sunset, california"
     },"21-4":{
         "content":"I walked backwards on the way back to see as much of the sunset as I could. This is by the post office and the recycling plant. After the sky got gradually darker and darker, the surrounding lights of the buildings came on.",
         "location":"Bay Trail", "address":"Sunnyvale Bay Trail",
-        "imagelink":"2021/2-27-baytrail.jpg", "date":"Feb 27, 2021", "year":"2021",
+        "imagelink":["2021/2-27-baytrail.jpg","2021/2-27-baytrail2.jpg"], "date":"Feb 27, 2021", "year":"2021",
         "tags":"baytrail, trail, baylands, water, sunset, california"
     },"21-3":{
         "content":["I went hiking at Steven's Creek County Park for a brief hour or so. My arms and legs are itchy and I'll go to a doc's office next Friday. Before heading to the trail, I picked up some Korean banana milk from the H-Mart in Cupertino (it was my first time trying it and it was really tasty!). The air was so fresh and sweet today, not a biting crisp. It was nice and it's the first time I've been actually hiking in about a month.<br>",
@@ -42,65 +37,57 @@
     
     
     
-    "20-23":{
+    "20-21":{
         "content":"I watched the sun rise from the lake. It was gorgeous and I listened to indie folk music.",
         "location":"Lake Lexington", "address":"Lexington Reservoir",
         "imagelink":"2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
         "tags":"lake, lexington, reservoir, fog, california"
-    },"20-22":{
+    },"20-20":{
         "content":"I watched the sun rise at Pichetti Ranch and felt serene.",
         "location":"Picchetti Ranch", "address":"Picchetti Ranch Preserve",
         "imagelink":"2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
         "tags":"pichetti, ranch, sunrise, california"
-    },"20-21":{
+    },"20-19":{
         "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"Mission Peak Fremont",
         "imagelink":"2020/11-27-missionpeak.jpg", "date":"Nov 27, 2020", "year":"2020",
         "tags":"mission, missionpeak, peak, statue, california"
-    },"20-20":{
+    },"20-18":{
         "content":"",
         "location":"Los Trancos Open Space", "address":"Los Trancos Open Space Preserve",
         "imagelink":"2020/11-21-lostrancospreserve.jpg", "date":"Nov 21, 2020", "year":"2020",
         "tags":"los, trancos, lostrancos, open, space, preserve, california"
-    },"20-19":{
+    },"20-17":{
         "content":"",
         "location":"Sanborn County Park", "address":"Sanborn County Park",
         "imagelink":"2020/11-7-sanborn.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"sanborn, county, park, california"
-    },"20-18":{
+    },"20-16":{
         "content":"I tried to go to Black Mountain Trail but it wasn't open yet. Instead I caught the sunrise at the edge of the entrance.",
         "location":"Page Mill Rd", "address":"4053-4250 Page Mill Rd",
         "imagelink":"2020/11-7-montebellord.jpg", "date":"Nov 7, 2020", "year":"2020",
         "tags":"montebellord, sunrise, montebello, california"
-    },"20-17":{
+    },"20-15":{
         "content":"Almost lost my way back and missed lunch! A friendly biker tried to point me in the right direction. It was a bit tough to talk through masks but he was kind.",
         "location":"Coyote Hills", "address":"Coyote Hills Regional Park",
-        "imagelink":"2020/10-31-coyotehills2.JPG", "date":"Oct 31, 2020",  "year":"2020",
+        "imagelink":["2020/10-31-coyotehills2.JPG","2020/10-31-coyotehills1.JPG"], 
+        "date":"Oct 31, 2020", "year":"2020", 
         "tags":"coyote, hills, bayarea, trail, california"
-    },"20-16":{
-        "content":"",
-        "location":"Coyote Hills", "address":"Coyote Hills Regional Park",
-        "imagelink":"2020/10-31-coyotehills1.JPG", "date":"Oct 31, 2020", "year":"2020", 
-        "tags":"coyote, hills, bayarea, trail, california"
-    },"20-15":{
+    },"20-14":{
         "content":"",
         "location":"Windy Hill Open Space", "address":"Windy Hill Open Space Preserve",
         "imagelink":"2020/10-24-windyhill.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"windy, hill, open, space, preserve, california"
-    },"20-14":{
+    },"20-13":{
         "content":"The first time I drove to the beach alone!",
         "location":"Pescadero State Beach", "address":"Pescadero State Beach",
         "imagelink":"2020/10-24-pescadero.JPG", "date":"Oct 24, 2020", "year":"2020", 
         "tags":"pescadero, state, beach, california"
-    },"20-13":{
-        "content":"",
-        "location":"Saratoga Gap Trail", "address":"Saratoga Gap Trail",
-        "imagelink":"2020/10-9-saratogagap2.jpg", "date":"Oct 9, 2020", "year":"2020", 
-        "tags":"saratoga, gap, trail, california"
     },"20-12":{
         "content":"",
         "location":"Saratoga Gap Trail", "address":"Saratoga Gap Trail",
-        "imagelink":"2020/10-9-saratogagap.JPG", "date":"Oct 9, 2020", "year":"2020", 
+        "imagelink":["2020/10-9-saratogagap.JPG","2020/10-9-saratogagap2.jpg"], 
+        "date":"Oct 9, 2020", "year":"2020", 
         "tags":"saratoga, gap, trail, california"
     },"20-11":{
         "content":"",
@@ -167,187 +154,147 @@
     
     
     
-    "19-36":{
+    "19-26":{
         "content":"",
         "location":"The Mirage", "address":"3400 S Las Vegas Blvd, Las Vegas, NV 89109",
         "imagelink":"2019/12-22-themirage.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"themirage, mirage, arizona, page"
-    },"19-35":{
+    },"19-25":{
         "content":"",
         "location":"Lake Powell, Antelope Creek", "address":"Antelope Creek, Arizona",
         "imagelink":"2019/12-22-lakepowellantelopecreek.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"LakePowell, lake, arizona, page"
-    },"19-34":{
+    },"19-24":{
         "content":"",
         "location":"Antelope Canyon", "address":"Antelope Canyon, Page, AZ",
-        "imagelink":"2019/12-22-antelopecanyon2.jpg", "date":"Dec 22, 2019", "year":"2019",
+        "imagelink":["2019/12-22-antelopecanyon.jpg","2019/12-22-antelopecanyon2.jpg"],
+        "date":"Dec 22, 2019", "year":"2019",
         "tags":"antelopecanyon, antelope, valley, page, arizona"
-    },"19-33":{
-        "content":"",
-        "location":"Antelope Canyon", "address":"Antelope Canyon, Page, AZ",
-        "imagelink":"2019/12-22-antelopecanyon.jpg", "date":"Dec 22, 2019", "year":"2019",
-        "tags":"antelopecanyon, antelope, valley, page, arizona"
-    },"19-32":{
+    },"19-23":{
         "content":"As we were driving in, we saw a bunch of dogs that surrounded the car and were begging for food and whimpering. We tossed some Slim Jims at them and then a few more dogs came. Four. Five. Six. We had to move on though. It was very odd seeing these dogs come up to the car in almost the middle of nowhere, and I thought sad, thinking they were left behind by travelers who didn't want them anymore. I think if I had gone alone, I would have taken at least one of them with me.",
         "location":"Monument Valley", "address":"Indn Route 42, Oljato-Monument Valley, AZ 84536",
         "imagelink":"2019/12-21-monumentvalleynavajotribalpark.jpg", "date":"Dec 12, 2019", "year":"2019",
         "tags":"monumentvalley, monument, valley"
-    },"19-31":{
+    },"19-22":{
         "content":"The 4 corners is the only place where four states meet, Arizona, New Mexico, Colorado and Utah.",
         "location":"Four Corners", "address":"597 NM-597, Teec Nos Pos, AZ 86514",
         "imagelink":"2019/12-21-fourcorners.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"four, corners, fourcorners, navajo, vendors"
-    },"19-30":{
+    },"19-21":{
         "content":"",
         "location":"Arches National Park", "address":"Arches National Park, Utah",
-        "imagelink":"2019/12-20-archesnationalpark3.jpg", "date":"Dec 20, 2019", "year":"2019",
+        "imagelink":["2019/12-20-archesnationalpark.jpg",
+            "2019/12-20-archesnationalpark2.jpg",
+            "2019/12-20-archesnationalpark3.jpg"], 
+        "date":"Dec 20, 2019", "year":"2019",
         "tags":"arches, nationalpark, utah"
-    },"19-29":{
-        "content":"",
-        "location":"Arches National Park", "address":"Arches National Park, Utah",
-        "imagelink":"2019/12-20-archesnationalpark2.jpg", "date":"Dec 20, 2019", "year":"2019",
-        "tags":"arches, nationalpark, utah"
-    },"19-28":{
-        "content":"",
-        "location":"Arches National Park", "address":"Arches National Park, Utah",
-        "imagelink":"2019/12-20-archesnationalpark.jpg", "date":"Dec 20, 2019", "year":"2019",
-        "tags":"arches, nationalpark, utah"
-    },"19-27":{
+    },"19-20":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
-        "imagelink":"2019/12-19-capitolreefnationalpark5.jpg", "date":"Dec 19, 2019", "year":"2019",
+        "imagelink":["2019/12-19-capitolreefnationalpark.jpg",
+            "2019/12-19-capitolreefnationalpark2.jpg",
+            "2019/12-19-capitolreefnationalpark3.jpg",
+            "2019/12-19-capitolreefnationalpark4.jpg",
+            "2019/12-19-capitolreefnationalpark5.jpg"], 
+        "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-26":{
-        "content":"",
-        "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
-        "imagelink":"2019/12-19-capitolreefnationalpark4.jpg", "date":"Dec 19, 2019", "year":"2019",
-        "tags":"capitolreef, nationalpark, utah"
-    },"19-25":{
-        "content":"",
-        "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
-        "imagelink":"2019/12-19-capitolreefnationalpark3.jpg", "date":"Dec 19, 2019", "year":"2019",
-        "tags":"capitolreef, nationalpark, utah"
-    },"19-24":{
-        "content":"",
-        "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
-        "imagelink":"2019/12-19-capitolreefnationalpark2.jpg", "date":"Dec 19, 2019", "year":"2019",
-        "tags":"capitolreef, nationalpark, utah"
-    },"19-23":{
-        "content":"",
-        "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
-        "imagelink":"2019/12-19-capitolreefnationalpark.jpg", "date":"Dec 19, 2019", "year":"2019",
-        "tags":"capitolreef, nationalpark, utah"
-    },"19-22":{
+    },"19-19":{
         "content":"",
         "location":"Las Vegas", "address":"Las Vegas",
         "imagelink":"2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"vegas, nevada, lasvegas"
-    },"19-21":{
-        "content":"On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
-        "location":"Cal Memorial Stadium", "address":"2227 Piedmont Ave, Berkeley, CA 94720",
-        "imagelink":"2019/10-26-calhacks2.jpg", "date":"Oct 26, 2019", "year":"2019",
-        "tags":"berkeley, stairs, california, hackathon, calhacks"
-    },"19-20":{
+    },"19-18":{
         "content":["Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc).<br>",
-        "<br>Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration."],
+        "<br>Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration.<br>",
+        "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table."],
         "location":"Cal Memorial Stadium", "address":"2227 Piedmont Ave, Berkeley, CA 94720",
-        "imagelink":"2019/10-26-calhacks.jpg", "date":"Oct 26, 2019", "year":"2019",
-        "tags":"berkeley, california, hackathon, calhacks"
-    },"19-19":{
+        "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg"], "date":"Oct 26, 2019", "year":"2019",
+        "tags":"berkeley, stairs, california, hackathon, calhacks"
+    },"19-17":{
         "content":"My roommate and I hung out a little bit with our teammates and got boba. We saw a little bit of UW and it was really breathtaking. We almost missed our flight back because the Link lightrail was down, and we made our way to our flight back just in time.",
         "location":"University of Washington", "address":"University of Washington, Seattle, WA",
         "imagelink":"2019/10-13-uw.jpg", "date":"Oct 13, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, dubhacks"
-    },"19-18":{
+    },"19-16":{
         "content":"Had an all-female hacking team and ate bahn-mi. We made a chrome extension that suggests different ways to be more sustainable in our everyday lives. Also got midnight mochi waffles with whipped cream and sprinkles!",
         "location":"University of Washington", "address":"University of Washington, Seattle, WA",
         "imagelink":"2019/10-12-dubhacks.jpg", "date":"Oct 12, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, balloons, hackathon, dubhacks"
-    },"19-17":{
+    },"19-15":{
         "content":"My roommate and I stayed in City Hostel Seattle. We had lockers for our stuff and we slept in bunk beds, but had to take separate rooms. It was really fun and I roasted a marshmallow and played some card game with a few guys.",
         "location":"City Hostel Seattle", "address":"City Hostel Seattle, 2nd Avenue, Seattle, WA",
         "imagelink":"2019/10-11-cityhostel.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, hostel, dubhacks"
-    },"19-16":{
+    },"19-14":{
         "content":"A “sound” is a large sea or ocean inlet, or a ocean sea channel. Puget Sound is breathtaking. I couldn't fully understand in the moment, but I knew that it was so rare and such a blessing that I got to look out over this amazing place twice this year.",
         "location":"Puget Sound", "address":"Pier 66, Alaskan Way, Seattle, WA",
         "imagelink":"2019/10-11-pugetsound.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, water, pugetsound, dubhacks"
-    },"19-15":{
+    },"19-13":{
         "content":"The walls were really gross but so colorful. Hit this one right off my bucket list.",
         "location":"Gum Wall", "address":"Gum Wall, Post Alley, Seattle, WA",
         "imagelink":"2019/10-11-gumwall.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, gumwall, landmark, dubhacks"
-    },"19-14":{
+    },"19-12":{
         "content":"You can see Mount Rainier in the distance.",
         "location":"Pier 66, Puget Sound", "address":"Pier 66, Alaskan Way, Seattle, WA",
         "imagelink":"2019/10-11-pier66.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, mountrainier, pier, water, pugetsound, dubhacks"
-    },"19-13":{
+    },"19-11":{
         "content":"On the way to Dubhacks 2019 with my roommate! We explored around Pike Place Market, ate some poutine, and talked to some vendors (who we bought stickers from).",
         "location":"Pike Place Market", "address":"Pike Place Market, Seattle, WA",
         "imagelink":"2019/10-11-pikeplacemarket.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, pikeplace, dubhacks"
-    },"19-12":{
-        "content":"Ligtning from the tornado",
-        "location":"UC Davis Physics Building", "address":"UC Davis - Department of Physics",
-        "imagelink":"2019/9-28-ucdphysics2.jpg", "date":"Sep 28, 2019", "year":"2019",
-        "tags":"davis, lightening, tornado, physics, ucdavis, california"
-    },"19-11":{
+    },"19-10":{
         "content":"Today was kind of crazy. This is the sky next to a tornado that appeared. I was having a meeting with one of the student orgs and we all got tornado warnings on our phones. The air was staticky, and the wind was blowing something fierce. As soon as we stepped foot out the building, we could see the tornado's tunnel.",
         "location":"UC Davis Silo", "address":"UC Davis Silo market",
-        "imagelink":"2019/9-28-ucdphysics.jpg", "date":"Sep 28, 2019", "year":"2019",
-        "tags":"davis, tornado, physics, ucdavis, california"
-    },"19-10":{
+        "imagelink":["2019/9-28-ucdphysics.jpg","2019/9-28-ucdphysics2.jpg"], "date":"Sep 28, 2019", "year":"2019",
+        "tags":"davis, lightening, tornado, physics, ucdavis, california"
+    },"19-9":{
         "content":"",
         "location":"Chihuly Gardens", "address":"Chihuly Garden and Glass, Harrison Street, Seattle, WA",
         "imagelink":"2019/7-13-seattle.jpg", "date":"Jul 13, 2019", "year":"2019",
         "tags":"seattle, washington, chihuly, spaceneedle, cruise"
-    },"19-9":{
+    },"19-8":{
         "content":"",
         "location":"Buchart Gardens", "address":"Butchart Gardens, Brentwood Bay, BC, Canada",
         "imagelink":"2019/7-12-buchartgardens.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"buchartgardens, brentwoodbay, britishcolumbia, garden, canada, cruise, flowers"
-    },"19-8":{
+    },"19-7":{
         "content":"",
-        "location":"Victoria", "address":"Fisherman's Wharf Park 12 Erie St, Victoria, BC V8V 4X5, Canada",
+        "location":"Fisherman's Wharf, Victoria", "address":"Fisherman's Wharf Park 12 Erie St, Victoria, BC V8V 4X5, Canada",
         "imagelink":"2019/7-12-victoria2.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"victoria, canada, britishcolumbia, cruise, water"
-    },"19-7":{
+    },"19-6":{
         "content":"",
         "location":"Victoria", "address":"Victoria, BC, Canada",
         "imagelink":"2019/7-12-victoria.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"victoria, canada, britishcolumbia, cruise, water"
-    },"19-6":{
+    },"19-5":{
         "content":"",
         "location":"Mendenhall Glacier", "address":"Mendenhall Glacier, Juneau, AK",
         "imagelink":"2019/7-9-juneau2.jpg", "date":"Jul 9, 2019", "year":"2019",
         "tags":"juneau, alaska, cruise, glacier, water"
-    },"19-5":{
+    },"19-4":{
         "content":"",
         "location":"Juneau", "address":"Downtown Juneau",
         "imagelink":"2019/7-9-juneau.jpg", "date":"Jul 9, 2019", "year":"2019",
         "tags":"juneau, alaska, cruise, trees"
-    },"19-4":{
+    },"19-3":{
         "content":["I walked through the crowded Creek Street and it was chilly. The shops were colorful and housed lots of trinkets. I knew this was the tourist trap, yet my brother and I still bought two green calcite rocks as souveniers.<br>",
         "<br>Earlier in the day, my folks bought a bunch of salmon, and we also went on a salmon farm tour. It was interesting, they had these fish in tubs, arranged by age."],
-        "location":"Ketchikan", "address":"Creek Street in Ketchikan",
+        "location":"Creek Street, Ketchikan", "address":"Creek Street in Ketchikan",
         "imagelink":"2019/7-8-ketchikan2.jpg", "date":"Jul 8, 2019", "year":"2019",
         "tags":"ketchikan, alaska, cruise, shops"
-    },"19-3":{
+    },"19-2":{
         "content":"We came across a shop called “Burger Queen,” but we didn't go in.",
         "location":"Ketchikan", "address":"Ketchikan",
         "imagelink":"2019/7-8-ketchikan.jpg", "date":"Jul 8, 2019", "year":"2019",
         "tags":"ketchikan, alaska, cruise, burgerqueen"
-    },"19-2":{
-        "content":"",
-        "location":"Seattle", "address":"2209 Alaskan Way, Seattle, WA 98121",
-        "imagelink":"2019/7-6-seattle2.jpg", "date":"Jul 6, 2019", "year":"2019",
-        "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
     },"19-1":{
         "content":"",
         "location":"Seattle", "address":"2209 Alaskan Way, Seattle, WA 98121",
-        "imagelink":"2019/7-6-seattle.jpg", "date":"Jul 6, 2019", "year":"2019",
+        "imagelink":["2019/7-6-seattle.jpg","2019/7-6-seattle2.jpg"], "date":"Jul 6, 2019", "year":"2019",
         "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
     },
     
