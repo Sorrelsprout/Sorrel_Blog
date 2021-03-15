@@ -1,5 +1,6 @@
 const placeholderimg = "resources/placeholder.jpg"
 let entrynum;
+let currentIndex;
 
 $( document ).ready(function() {
     document.body.className += ' loaded';
@@ -62,13 +63,18 @@ $( document ).ready(function() {
                 $(".entries:nth-of-type("+newnum+") .imagelink").addClass("hide"); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", placeholderimg);
             } else { 
-                const imgLink = "photos/"+imagelink[i];
+                let imgLink = "photos/"+imagelink[i];
+                if (Array.isArray(imagelink[i])) { 
+                    imgLink = "photos/"+imagelink[i][0]; 
+                    $(".entries:nth-of-type("+newnum+")").addClass("multiImg");
+                } else { $(".entries:nth-of-type("+newnum+")").removeClass("multiImg") }
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imgLink); 
-                $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide") 
+                $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide"); 
             }
             
             // Read More -------------------------------------------------------------------------------------------
             $(".entries:nth-of-type("+newnum+")").click(() => {
+                document.querySelectorAll('.successiveImgs').forEach(e => e.remove());
                 $(".date2").text(date[i]);
                 $(".content").text(content[i]);
                 $(".loc").text(location[i]); 
@@ -83,10 +89,15 @@ $( document ).ready(function() {
                 if (imagelink[i]===""){ 
                     $(".imagelink2").attr("src", placeholderimg);
                 } else { 
-                    const imgLink = "photos/"+imagelink[i];
+                    let imgLink = "photos/"+imagelink[i];
+                    if(Array.isArray(imagelink[i])) { 
+                        imgLink = "photos/"+imagelink[i][0]; 
+                        $(".imageNav").removeClass("disabled") 
+                    } else { $(".imageNav").addClass("disabled") }
                     $(".imagelink2").attr("src", imgLink);
                     $(".imagelink2").removeClass("hide")
                 }
+                currentIndex = i;
                 $("#entrydetails").addClass("show");
                 dim();
             })
@@ -96,19 +107,33 @@ $( document ).ready(function() {
         $(".entries:nth-of-type("+(entryLength)+")").css({"display":"none"}); // Removes placeholder
     });
 
-    function dim() {
-        if($("#entrydetails").hasClass("show")){
-            $("header, #articleGrid, footer").addClass("dim");
-        } else {
-            $("header, #articleGrid, footer").removeClass("dim");
+    // Multiple Images ------------------------------------------------------------------------------------
+
+    $(".fa-chevron-left").on("click", function() { navigatePhotos("left"); })
+    $(".fa-chevron-right").on("click", function() { navigatePhotos("right"); })
+
+    let imgIndex = 1;
+    function navigatePhotos(direction) {
+        if (direction === "right"){ //moving right
+            if(imgIndex < (imagelink[currentIndex].length)){ imgIndex += 1; } 
+        } else { //moving left
+            if(imgIndex > 1){ imgIndex -= 1; } 
         }
+        let currentImg = "photos/"+imagelink[currentIndex][imgIndex-1];
+        $(".imagelink2").attr("src", currentImg);
+        console.log(imagelink[currentIndex][imgIndex-1])
+    }
+
+    function dim() {
+        if($("#entrydetails").hasClass("show")){ $("header, #articleGrid, footer").addClass("dim"); } 
+        else { $("header, #articleGrid, footer").removeClass("dim"); }
     }
 
     // Dayglow -------------------------------------------------------------------------------------------
     dayglow(); // Depending on time of day, change from darker image to lighter
     function dayglow() {
         var currentTime = new Date().getHours();
-        if ((6 <= currentTime&&currentTime < 18 )) { //if between 6am and 6pm
+        if ((6 <= currentTime && currentTime < 18 )) { //if between 6am and 6pm
             $("#hero").attr("src", "resources/heroes/day1.jpg");
         } else {
             $("#hero").attr("src", "resources/heroes/night1.jpg");

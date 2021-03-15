@@ -325,12 +325,53 @@ p::selection {
 
 /*--- Images/Media ---------------------------------------------------*/
 
+.imageLinkGroup {
+  position: relative;
+}
+
+.imageLinkGroup:hover .imageNav {
+  opacity: 1;
+}
+
+.imageNav {
+  display: flex;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  align-items: center;
+  justify-content:space-between;
+  padding: 8px;
+  opacity: 0;
+}
+
+.imageNav.disabled {
+  display: none;
+}
+
+.imageLinkGallery {
+  display: flex;
+}
+
+.fa-clone {
+  display: none;
+  position: absolute;
+  top: 24px;
+  right: 24px;
+}
+
+.multiImg .fa-clone { /* multiple images */
+  display: block;
+}
+
 #scrolltotop {
   position: fixed;
   bottom: 30px;
   right: 30px;
   font-size: 16px;
 }
+
+/*--- Audio ---------------------------------------------------*/
 
 #audiogroup {
   position: fixed;
@@ -364,6 +405,10 @@ p::selection {
   .content {
     max-height: 12vh;
     margin: 16px 0 0 0;
+  }
+  .imageLinkGroup {
+    display: flex;
+    width: 100%;
   }
 }
 
