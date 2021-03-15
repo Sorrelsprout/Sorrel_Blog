@@ -436,14 +436,14 @@ i.fa-clone::before {
     max-width: 100%;
     margin: auto;
   }
+  .imageLinkGroup {
+    height: auto;
+  }
 }
 
 @media only screen and (max-width: 640px) {
   #articleGrid {
     max-width: 350px;
-  }
-  .imageNav {
-    max-height: 300px;
   }
 }
 
