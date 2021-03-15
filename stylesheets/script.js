@@ -122,7 +122,6 @@ $( document ).ready(function() {
         }
         let currentImg = "photos/"+imagelink[currentIndex][imgIndex-1];
         $(".imagelink2").attr("src", currentImg);
-        console.log(imagelink[currentIndex][imgIndex-1])
     }
 
     function dim() {
