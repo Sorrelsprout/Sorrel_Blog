@@ -409,6 +409,7 @@ i.fa-clone {
   .imageLinkGroup {
     display: flex;
     width: 100%;
+    height: inherit;
   }
 }
 
