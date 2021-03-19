@@ -446,7 +446,6 @@ i.fa-clone::before {
   .imageLinkGallery{
     display: block;
     margin: 0;
-    background: pink;
   }
   .imageLinkGroup {
     height: auto;
