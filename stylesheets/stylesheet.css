@@ -349,6 +349,7 @@ p::selection {
 
 .imageLinkGallery {
   display: flex;
+  margin: 0;
 }
 
 i.fa-clone {
