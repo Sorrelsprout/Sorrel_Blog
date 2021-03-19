@@ -438,8 +438,7 @@ i.fa-clone::before {
     max-height: 16vh;
   }
   .imagelink2 {
-    max-height: 200px;
-    max-width: 100%;
+    width: 100%;
     height: auto;
     margin: auto;
   }
@@ -473,6 +472,12 @@ i.fa-clone::before {
   .content {
     min-height: 0; /* Troubleshoot */
     max-height: 20vh;
+  }
+  .imagelink2 {
+    max-width: 100%;
+    max-height: auto;
+    height: auto;
+    margin: auto;
   }
 }
 
