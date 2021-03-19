@@ -373,6 +373,11 @@ i.fa-clone::before {
   display: block;
 }
 
+.noArrow {
+  opacity: 0;
+  cursor: default;
+}
+
 #scrolltotop {
   position: fixed;
   bottom: 30px;

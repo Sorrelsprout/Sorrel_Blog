@@ -115,11 +115,17 @@ $( document ).ready(function() {
 
     let imgIndex = 1;
     function navigatePhotos(direction) {
+        $(".fa-chevron-right").removeClass("noArrow");
         if (direction === "right"){ //moving right
-            if(imgIndex < (imagelink[currentIndex].length)){ imgIndex += 1; } 
+            if(imgIndex < (imagelink[currentIndex].length)){ imgIndex += 1; }
         } else { //moving left
-            if(imgIndex > 1){ imgIndex -= 1; } 
-        }
+            if(imgIndex > 1){ imgIndex -= 1; }
+        } 
+
+        if(imgIndex === (imagelink[currentIndex].length)){ $(".fa-chevron-right").addClass("noArrow"); }
+        if(imgIndex === 1) { $(".fa-chevron-left").addClass("noArrow"); } 
+        else { $(".fa-chevron-left").removeClass("noArrow"); }
+
         let currentImg = "photos/"+imagelink[currentIndex][imgIndex-1];
         $(".imagelink2").attr("src", currentImg);
     }
