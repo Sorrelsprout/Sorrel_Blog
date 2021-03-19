@@ -340,7 +340,7 @@ p::selection {
   padding: 8px;
   opacity: 0.35;
   transition: all 150ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
-  transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000);
+  transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000); 
 }
 
 .imageNav.disabled {
@@ -438,15 +438,18 @@ i.fa-clone::before {
     max-height: 16vh;
   }
   .imagelink2 {
-    width: 100%;
-    min-height: 0;
+    max-width: 100%;
     max-height: auto;
     height: auto;
     margin: auto;
   }
-  .imageLinkGroup {
-    max-height: auto;
+  .imageLinkGallery{
+    display: block;
     margin: 0;
+    background: pink;
+  }
+  .imageLinkGroup {
+    height: auto;
   }
 }
 
@@ -472,7 +475,6 @@ i.fa-clone::before {
     cursor: pointer;
   }
   .content {
-    min-height: 0; /* Troubleshoot */
     max-height: 20vh;
   }
 }
