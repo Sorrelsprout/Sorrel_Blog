@@ -472,6 +472,7 @@ i.fa-clone::before {
     cursor: pointer;
   }
   .content {
+    min-height: 0; /* Troubleshoot */
     max-height: 20vh;
   }
 }
