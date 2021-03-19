@@ -341,10 +341,7 @@ p::selection {
   padding: 8px;
   opacity: 0.35;
   transition: all 150ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
-  transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000); 
-
-  margin: 20px;
-  background: pink;
+  transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000);
 }
 
 .imageNav.disabled {
@@ -353,6 +350,8 @@ p::selection {
 
 .imageLinkGallery {
   display: flex;
+  margin: 20px;
+  background: red;
 }
 
 i.fa-clone {
