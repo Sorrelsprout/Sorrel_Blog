@@ -445,7 +445,8 @@ i.fa-clone::before {
     margin: auto;
   }
   .imageLinkGroup {
-    height: auto;
+    height: 100%;
+    margin: 0;
   }
 }
 
