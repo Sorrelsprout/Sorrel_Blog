@@ -439,6 +439,7 @@ i.fa-clone::before {
   }
   .imagelink2 {
     max-width: 100%;
+    max-height: none;
     height: auto;
     margin: 0;
   }
