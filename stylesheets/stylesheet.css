@@ -179,6 +179,7 @@ nav span.show {
 }
 
 .imagelink2 {
+  background: pink;
   max-height: 400px;
   max-width: 560px;
 }
@@ -439,6 +440,7 @@ i.fa-clone::before {
   }
   .imagelink2 {
     width: 100%;
+    height: auto;
     margin: auto;
   }
   .imageLinkGroup {
