@@ -342,6 +342,9 @@ p::selection {
   opacity: 0.35;
   transition: all 150ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
   transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000); 
+
+  margin: 20px;
+  background: pink;
 }
 
 .imageNav.disabled {
@@ -443,7 +446,7 @@ i.fa-clone::before {
     margin: auto;
   }
   .imageLinkGroup {
-    height: 100%;
+    max-height: auto;
     margin: 0;
   }
 }
