@@ -438,10 +438,8 @@ i.fa-clone::before {
     max-height: 16vh;
   }
   .imagelink2 {
-    max-width: none;
-    max-height: none;
     width: 100%;
-    margin: 0;
+    margin: auto;
   }
   .imageLinkGroup {
     max-height: auto;
