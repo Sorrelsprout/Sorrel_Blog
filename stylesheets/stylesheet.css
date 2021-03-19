@@ -350,8 +350,6 @@ p::selection {
 
 .imageLinkGallery {
   display: flex;
-  background: pink;
-  margin: 0;
 }
 
 i.fa-clone {
