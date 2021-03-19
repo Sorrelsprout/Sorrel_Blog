@@ -323,7 +323,6 @@ p::selection {
 
 .imageLinkGroup {
   position: relative;
-  background: blue;
 }
 
 .imageLinkGroup:hover .imageNav {
@@ -350,8 +349,6 @@ p::selection {
 
 .imageLinkGallery {
   display: flex;
-  margin: 20px;
-  background: red;
 }
 
 i.fa-clone {
@@ -442,7 +439,7 @@ i.fa-clone::before {
   }
   .imagelink2 {
     max-width: 100%;
-    margin: auto;
+    margin: 0;
   }
   .imageLinkGroup {
     max-height: auto;
