@@ -441,7 +441,6 @@ i.fa-clone::before {
     max-width: none;
     max-height: none;
     width: 100%;
-    height: auto;
     margin: 0;
   }
   .imageLinkGroup {
