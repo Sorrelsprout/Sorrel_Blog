@@ -1,6 +1,7 @@
 const placeholderimg = "resources/placeholder.jpg"
 let entrynum;
 let currentIndex;
+let imgIndex = 1;
 
 $( document ).ready(function() {
     document.body.className += ' loaded';
@@ -90,8 +91,11 @@ $( document ).ready(function() {
                 if (imagelink[i]===""){ 
                     $(".imagelink2").attr("src", placeholderimg);
                 } else { 
+                    imgIndex = 1;
                     let imgLink = "photos/"+imagelink[i];
                     if(Array.isArray(imagelink[i])) { 
+                        $(".fa-chevron-left").addClass("noArrow");
+                        $(".fa-chevron-right").removeClass("noArrow");
                         imgLink = "photos/"+imagelink[i][0]; 
                         $(".imageNav").removeClass("disabled") 
                     } else { $(".imageNav").addClass("disabled") }
@@ -113,7 +117,6 @@ $( document ).ready(function() {
     $(".fa-chevron-left").on("click", function() { navigatePhotos("left"); })
     $(".fa-chevron-right").on("click", function() { navigatePhotos("right"); })
 
-    let imgIndex = 1;
     function navigatePhotos(direction) {
         $(".fa-chevron-right").removeClass("noArrow");
         if (direction === "right"){ //moving right
@@ -160,6 +163,7 @@ $( document ).ready(function() {
         }
     })
 
+    // Audio -------------------------------------------------------------------------------------------
     $("audio")[0].volume = 0.02;
     $("#audiogroup").click(() => { 
         $("#audiogroup").toggleClass("soundoff");
