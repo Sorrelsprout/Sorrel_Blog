@@ -159,33 +159,33 @@
     
     
     
-    "19-26":{
+    "19-29":{
         "content":"",
         "location":"The Mirage", "address":"3400 S Las Vegas Blvd, Las Vegas, NV 89109",
         "imagelink":"2019/12-22-themirage.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"themirage, mirage, arizona, page"
-    },"19-25":{
+    },"19-28":{
         "content":"",
         "location":"Lake Powell, Antelope Creek", "address":"Antelope Creek, Arizona",
         "imagelink":"2019/12-22-lakepowellantelopecreek.jpg", "date":"Dec 22, 2019", "year":"2019",
         "tags":"LakePowell, lake, arizona, page"
-    },"19-24":{
+    },"19-27":{
         "content":"",
         "location":"Antelope Canyon", "address":"Antelope Canyon, Page, AZ",
         "imagelink":["2019/12-22-antelopecanyon.jpg","2019/12-22-antelopecanyon2.jpg"],
         "date":"Dec 22, 2019", "year":"2019",
         "tags":"antelopecanyon, antelope, valley, page, arizona"
-    },"19-23":{
+    },"19-26":{
         "content":"As we were driving in, we saw a bunch of dogs that surrounded the car and were begging for food and whimpering. We tossed some Slim Jims at them and then a few more dogs came. Four. Five. Six. We had to move on though. It was very odd seeing these dogs come up to the car in almost the middle of nowhere, and I thought sad, thinking they were left behind by travelers who didn't want them anymore. I think if I had gone alone, I would have taken at least one of them with me.",
         "location":"Monument Valley", "address":"Indn Route 42, Oljato-Monument Valley, AZ 84536",
         "imagelink":"2019/12-21-monumentvalleynavajotribalpark.jpg", "date":"Dec 12, 2019", "year":"2019",
         "tags":"monumentvalley, monument, valley"
-    },"19-22":{
+    },"19-25":{
         "content":"The 4 corners is the only place where four states meet, Arizona, New Mexico, Colorado and Utah.",
         "location":"Four Corners", "address":"597 NM-597, Teec Nos Pos, AZ 86514",
         "imagelink":"2019/12-21-fourcorners.jpg", "date":"Dec 20, 2019", "year":"2019",
         "tags":"four, corners, fourcorners, navajo, vendors"
-    },"19-21":{
+    },"19-24":{
         "content":"",
         "location":"Arches National Park", "address":"Arches National Park, Utah",
         "imagelink":["2019/12-20-archesnationalpark.jpg",
@@ -193,7 +193,7 @@
             "2019/12-20-archesnationalpark3.jpg"], 
         "date":"Dec 20, 2019", "year":"2019",
         "tags":"arches, nationalpark, utah"
-    },"19-20":{
+    },"19-23":{
         "content":"",
         "location":"Capitol Reef National Park", "address":"Capitol Reef National Park",
         "imagelink":["2019/12-19-capitolreefnationalpark.jpg",
@@ -203,104 +203,151 @@
             "2019/12-19-capitolreefnationalpark5.jpg"], 
         "date":"Dec 19, 2019", "year":"2019",
         "tags":"capitolreef, nationalpark, utah"
-    },"19-19":{
+    },"19-22":{
         "content":"",
         "location":"Las Vegas", "address":"Las Vegas",
         "imagelink":"2019/12-19-vegas.jpg", "date":"Dec 19, 2019", "year":"2019",
         "tags":"vegas, nevada, lasvegas"
-    },"19-18":{
+    },"19-21":{
         "content":["Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc).<br>",
         "<br>Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration.<br>",
         "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table."],
         "location":"Cal Memorial Stadium", "address":"2227 Piedmont Ave, Berkeley, CA 94720",
         "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg"], "date":"Oct 26, 2019", "year":"2019",
         "tags":"berkeley, stairs, california, hackathon, calhacks"
-    },"19-17":{
+    },"19-20":{
         "content":"My roommate and I hung out a little bit with our teammates and got boba. We saw a little bit of UW and it was really breathtaking. We almost missed our flight back because the Link lightrail was down, and we made our way to our flight back just in time.",
         "location":"University of Washington", "address":"University of Washington, Seattle, WA",
         "imagelink":"2019/10-13-uw.jpg", "date":"Oct 13, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, dubhacks"
-    },"19-16":{
+    },"19-19":{
         "content":"Had an all-female hacking team and ate bahn-mi. We made a chrome extension that suggests different ways to be more sustainable in our everyday lives. Also got midnight mochi waffles with whipped cream and sprinkles!",
         "location":"University of Washington", "address":"University of Washington, Seattle, WA",
         "imagelink":"2019/10-12-dubhacks.jpg", "date":"Oct 12, 2019", "year":"2019",
         "tags":"seattle, uw, university, washington, balloons, hackathon, dubhacks"
-    },"19-15":{
+    },"19-18":{
         "content":"My roommate and I stayed in City Hostel Seattle. We had lockers for our stuff and we slept in bunk beds, but had to take separate rooms. It was really fun and I roasted a marshmallow and played some card game with a few guys.",
         "location":"City Hostel Seattle", "address":"City Hostel Seattle, 2nd Avenue, Seattle, WA",
         "imagelink":"2019/10-11-cityhostel.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, hostel, dubhacks"
-    },"19-14":{
+    },"19-17":{
         "content":"A “sound” is a large sea or ocean inlet, or a ocean sea channel. Puget Sound is breathtaking. I couldn't fully understand in the moment, but I knew that it was so rare and such a blessing that I got to look out over this amazing place twice this year.",
         "location":"Puget Sound", "address":"Pier 66, Alaskan Way, Seattle, WA",
         "imagelink":"2019/10-11-pugetsound.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, water, pugetsound, dubhacks"
-    },"19-13":{
+    },"19-16":{
         "content":"The walls were really gross but so colorful. Hit this one right off my bucket list.",
         "location":"Gum Wall", "address":"Gum Wall, Post Alley, Seattle, WA",
         "imagelink":"2019/10-11-gumwall.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, gumwall, landmark, dubhacks"
-    },"19-12":{
+    },"19-15":{
         "content":"You can see Mount Rainier in the distance.",
         "location":"Pier 66, Puget Sound", "address":"Pier 66, Alaskan Way, Seattle, WA",
         "imagelink":"2019/10-11-pier66.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, mountrainier, pier, water, pugetsound, dubhacks"
-    },"19-11":{
+    },"19-14":{
         "content":"On the way to Dubhacks 2019 with my roommate! We explored around Pike Place Market, ate some poutine, and talked to some vendors (who we bought stickers from).",
         "location":"Pike Place Market", "address":"Pike Place Market, Seattle, WA",
         "imagelink":"2019/10-11-pikeplacemarket.jpg", "date":"Oct 11, 2019", "year":"2019",
         "tags":"seattle, washington, pikeplace, dubhacks"
-    },"19-10":{
+    },"19-13":{
         "content":"Today was kind of crazy. This is the sky next to a tornado that appeared. I was having a meeting with one of the student orgs and we all got tornado warnings on our phones. The air was staticky, and the wind was blowing something fierce. As soon as we stepped foot out the building, we could see the tornado's tunnel.",
         "location":"UC Davis Silo", "address":"UC Davis Silo market",
         "imagelink":["2019/9-28-ucdphysics.jpg","2019/9-28-ucdphysics2.jpg"], "date":"Sep 28, 2019", "year":"2019",
         "tags":"davis, lightening, tornado, physics, ucdavis, california"
-    },"19-9":{
+    },"19-12":{
         "content":"",
         "location":"Chihuly Gardens", "address":"Chihuly Garden and Glass, Harrison Street, Seattle, WA",
         "imagelink":"2019/7-13-seattle.jpg", "date":"Jul 13, 2019", "year":"2019",
         "tags":"seattle, washington, chihuly, spaceneedle, cruise"
-    },"19-8":{
+    },"19-11":{
         "content":"",
         "location":"Buchart Gardens", "address":"Butchart Gardens, Brentwood Bay, BC, Canada",
         "imagelink":"2019/7-12-buchartgardens.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"buchartgardens, brentwoodbay, britishcolumbia, garden, canada, cruise, flowers"
-    },"19-7":{
+    },"19-10":{
         "content":"",
         "location":"Fisherman's Wharf, Victoria", "address":"Fisherman's Wharf Park 12 Erie St, Victoria, BC V8V 4X5, Canada",
         "imagelink":"2019/7-12-victoria2.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"victoria, canada, britishcolumbia, cruise, water"
-    },"19-6":{
+    },"19-9":{
         "content":"",
         "location":"Victoria", "address":"Victoria, BC, Canada",
         "imagelink":"2019/7-12-victoria.jpg", "date":"Jul 12, 2019", "year":"2019",
         "tags":"victoria, canada, britishcolumbia, cruise, water"
-    },"19-5":{
+    },"19-8":{
         "content":"",
         "location":"Mendenhall Glacier", "address":"Mendenhall Glacier, Juneau, AK",
         "imagelink":"2019/7-9-juneau2.jpg", "date":"Jul 9, 2019", "year":"2019",
         "tags":"juneau, alaska, cruise, glacier, water"
-    },"19-4":{
+    },"19-7":{
         "content":"",
         "location":"Juneau", "address":"Downtown Juneau",
         "imagelink":"2019/7-9-juneau.jpg", "date":"Jul 9, 2019", "year":"2019",
         "tags":"juneau, alaska, cruise, trees"
-    },"19-3":{
+    },"19-6":{
         "content":["I walked through the crowded Creek Street and it was chilly. The shops were colorful and housed lots of trinkets. I knew this was the tourist trap, yet my brother and I still bought two green calcite rocks as souveniers.<br>",
         "<br>Earlier in the day, my folks bought a bunch of salmon, and we also went on a salmon farm tour. It was interesting, they had these fish in tubs, arranged by age."],
         "location":"Creek Street, Ketchikan", "address":"Creek Street in Ketchikan",
         "imagelink":"2019/7-8-ketchikan2.jpg", "date":"Jul 8, 2019", "year":"2019",
         "tags":"ketchikan, alaska, cruise, shops"
-    },"19-2":{
+    },"19-5":{
         "content":"We came across a shop called “Burger Queen,” but we didn't go in.",
         "location":"Ketchikan", "address":"Ketchikan",
         "imagelink":"2019/7-8-ketchikan.jpg", "date":"Jul 8, 2019", "year":"2019",
         "tags":"ketchikan, alaska, cruise, burgerqueen"
-    },"19-1":{
+    },"19-4":{
         "content":"",
         "location":"Seattle", "address":"2209 Alaskan Way, Seattle, WA 98121",
         "imagelink":["2019/7-6-seattle.jpg","2019/7-6-seattle2.jpg"], "date":"Jul 6, 2019", "year":"2019",
         "tags":"seattle, pugetsound, cruise, spaceneedle, waterfront"
+    },"19-3":{
+        "content":"Saw work from Jeff Koons and Yayoi Kusama, crossed these off my bucket list.",
+        "location":"The Broad Museum", "address":"221 S Grand Ave, Los Angeles, CA 90012",
+        "imagelink":["2019/5-14-broadmuseum.jpg","2019/5-14-broadmuseum2.jpg","2019/5-14-broadmuseum3.jpg"], "date":"May 14, 2019", "year":"2019",
+        "tags":"broad, broadmuseum, museum, art, artmuseum, california, la, losangeles"
+    },"19-2":{
+        "content":"LA Chinatown with my housemates! Two of them went to see a BTS concert and my other housemate and I went to see the art museums during our spring break. I got a rose matcha tea with golden boba at BubbleU!",
+        "location":"Los Angeles Chinatown", "address":"LA Chinatown",
+        "imagelink":"2019/5-14-chinatownla.jpg", "date":"May 14, 2019", "year":"2019",
+        "tags":"chinatown, la, losangeles, california"
+    },"19-1":{
+        "content":"Bruce Nauman's Blue and Yellow Corridor",
+        "location":"Manetti Shrem Museum", "address":"254 Old Davis Rd, Davis, CA 95616",
+        "imagelink":["2019/3-1-shrem.jpg","2019/3-1-shrem2.jpg","2019/3-1-shrem3.jpg","2019/3-1-shrem4.jpg"], "date":"Mar 1, 2019", "year":"2019",
+        "tags":"chinatown, la, losangeles, lanterns, california"
+    },
+
+    "18-6":{
+        "content":"Chicago for SOFA with my teammates and professors!",
+        "location":"Navy Pier", "address":"600 E Grand Ave, Chicago, IL 60611",
+        "imagelink":["2018/18-11-4-sofa.jpg","2018/18-11-4-sofa2.jpg"], "date":"Nov 4, 2018", "year":"2018",
+        "tags":""
+    },"18-5":{
+        "content":"",
+        "location":"Cloud Gate", "address":"201 E Randolph St, Chicago, IL 60602",
+        "imagelink":["2018/18-11-2-bean.jpg","2018/18-11-2-bean2.jpg"], "date":"Nov 2, 2018", "year":"2018",
+        "tags":"chicago, illinois, bean, cloudgate, sculpture, sofachicago"
+    },"18-4":{
+        "content":"Happy Halloween from Chicago!",
+        "location":"Navy Pier", "address":"600 E Grand Ave, Chicago, IL 60611",
+        "imagelink":["2018/18-10-31-chicagoharbor.jpg","2018/18-10-31-chicagoharbor2.jpg","2018/18-10-31-chicagoharbor3.jpg"], "date":"Oct 31, 2018", "year":"2018",
+        "tags":"chicago, illinois, harbor, water, sofachicago"
+    },"18-3":{
+        "content":"",
+        "location":"Chicago, Illinois", "address":"Chicago, Illinois",
+        "imagelink":["2018/18-10-30-chicago.jpg","2018/18-10-30-chicago2.jpg","2018/18-10-30-chicago3.jpg","2018/18-10-30-chicago4.jpg"], "date":"Oct 30, 2018", "year":"2018",
+        "tags":"chicago, illinois, sofachicago"
+    },"18-2":{
+        "content":"Also crossed the Isabella Stewart Gardner Museum off my bucket list. To be honest I'd never thought I'd actually make it here. The gardens were gorgeous, even moreso than the art in my opinion. We were in Boston for my mom's business trip.",
+        "location":"Gardner Art Museum", "address":"25 Evans Way, Boston, MA 02115",
+        "imagelink":"2018/18-6-24-gardnermuseum.jpg", "date":"Jun 24, 2018", "year":"2018",
+        "tags":"isabella, stewart, gardnerart, gardner, artmuseum, art, museum, boston, massachusetts"
+    },"18-1":{
+        "content":"Biked with my roommate and got boba. It was a beautiful day and I felt peaceful.",
+        "location":"West Village, Davis", "address":"1580 Jade St, Davis, CA 95616",
+        "imagelink":"2018/18-4-29-bikingwithmaggie.jpg", "date":"Apr 29, 2018", "year":"2018",
+        "tags":"westvillage, davis, california, clouds, sun, biking"
     },
     
     
