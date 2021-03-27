@@ -1,5 +1,11 @@
 {
-    "21-7":{
+    "21-8":{
+        "content":["Went here with my hiking buddy for a masked hike, after trying to go to Hunter's Point (but it was too crowded). Across railroad tracks and two fences, we found a power plant. We also came across a graveyard and fake swans.<br>",
+        "<br>It was the best adventure I've had for a while, and I was glad to talk with a friend. It made me remember the Sunnyvale summer nights and the air, the energy and excitement of an exploration, walking never-before-seen city streets. When the only awake beings were me and my high school buddies and I was still young enough to not wonder about the rest of my life."],
+        "location":"Rancho San Antonio Preserve", "address":"Rancho San Antonio Preserve",
+        "imagelink":["2021/3-26-rancho.jpg","2021/3-26-rancho2.jpg"], "date":"Mar 27, 2021", "year":"2021",
+        "tags":"moon, electric, rancho, sanantonio, ranchosanantonio, sunset, dusk, california"
+    },"21-7":{
         "content":["It was rainy and foggy, but oddly cozy. The dark clouds rolled over the mountains and I played hopscotch at the elementary school."],
         "location":"Downtown Saratoga", "address":"14486 Big Basin Way",
         "imagelink":["2021/3-18-saratoga.jpg","2021/3-18-saratoga2.jpg"], "date":"Mar 18, 2021", "year":"2021",
@@ -412,37 +418,37 @@
         "content":"Grand Opening of the Shrem!",
         "location":"Manetti Shrem Museum", "address":"254 Old Davis Rd, Davis, CA 95616",
         "imagelink":"2016-15/16-11-13-shrem.jpg", "date":"Jul 2, 2016", "year":"Archive",
-        "tags":""
+        "tags":"manettishrem, shremmuseum, shrem, museum, art, design, davis, california"
     },"16-5":{
         "content":"",
         "location":"Great Fountain Geyser", "address":"Yellowstone National Park, Firehole Lake Dr, Mammoth, WY 82190",
         "imagelink":["2016-15/16-7-1-geyser.jpg","2016-15/16-7-1-greatfountaingeyser.jpg"], "date":"Jul 1, 2016", "year":"Archive",
-        "tags":""
+        "tags":"greatfountain, fountain, geyser, greatfountaingeyser, yellowstone, yellowstonegeyser, nationalpark"
     },"16-4":{
         "content":"",
         "location":"Artist Point", "address":"Artist Point, Yellowstone National Park, Wyoming 82190",
         "imagelink":"2016-15/16-7-1-artistpoint.jpg", "date":"Jul 1, 2016", "year":"Archive",
-        "tags":""
+        "tags":"artist, point, artistpoint, yellowstone, nationalpark, wyoming"
     },"16-3":{
         "content":"",
         "location":"Grand Teton National Park", "address":"Grand Teton National Park",
         "imagelink":"2016-15/16-6-30-grandteton.jpg", "date":"Jun 30, 2016", "year":"Archive",
-        "tags":""
+        "tags":"teton, grand, grandteton, nationalpark"
     },"16-2":{
         "content":"",
         "location":"Idaho Falls Regional Airport", "address":"2140 N Skyline Dr, Idaho Falls, ID 83402",
         "imagelink":"2016-15/16-6-30-idahoairport.jpg", "date":"Jun 30, 2016", "year":"Archive",
-        "tags":""
+        "tags":"idaho, idahofalls, airport, field, yellowstone"
     },"16-1":{
         "content":"After my high school graduation I bought balloons to celebrate! Hung around the park with my friend.",
         "location":"De Anza Park", "address":"1150 Lime Dr, Sunnyvale, CA 94087",
         "imagelink":"2016-15/16-6-13-graduation.jpg", "date":"Jun 13, 2016", "year":"Archive",
-        "tags":""
+        "tags":"deanza, park, deanzapark, citypark, sunnyvale, california, balloons"
     },"15-1":{
         "content":"",
         "location":"Bryce Canyon National Park", "address":"Bryce Canyon National Park",
         "imagelink":"2016-15/15-12-20-brycecanyon.jpg", "date":"Dec 20, 2015", "year":"Archive",
-        "tags":""
+        "tags":"bryce, brycecanyon, canyon, nationalpark, utah"
     },
 
 
