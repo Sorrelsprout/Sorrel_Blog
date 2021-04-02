@@ -117,9 +117,15 @@
         "imagelink":"2020/9-20-coyoteridgefremontolder.jpg", "date":"Sep 20, 2020", "year":"2020", 
         "tags":"coyoteridge, fremont, fremontolder, openspacepreserve, preserve, hike, trail, california"
     },"20-8":{
-        "content":"Went on a hike to Steven's Creek Reservoir with the HackDavis hiking buddy. I'm glad to socialize during COVID.",
+        "content":["Went on a hike to Steven's Creek Reservoir with the HackDavis hiking buddy. I'm glad to socialize during COVID.<br>",
+        "<br><b>• Update - March 31, 2021 •</b><br>",
+        "<br>The second-to-last image is at the same location, at a slightly different overlook. Got bit by a mosquito but before I went hiking I got matcha-ube icecream at Somi Somi. I was feeling like life was a bit pointless and wanted to clear my head."],
         "location":"Steven's Creek Reservoir", "address":"Steven's Creek Reservoir",
-        "imagelink":"2020/9-20-stevenscreekreservoir.jpg", "date":"Sep 20, 2020", "year":"2020", 
+        "imagelink":[
+            "2020/9-20-stevenscreekreservoir.jpg",
+            "2021/3-31-stevenscreekreservoir.jpg",
+            "2021/3-31-somisomi.jpg"], 
+        "date":"Sep 20, 2020", "year":"2020", 
         "tags":"stevenscreek, reservoir, water, hike, trail, california"
     },"20-7":{
         "content":"The fire from the SCU, August, and LNU Lightning Complexes made the sky completely orange and dusty. It smelled like a campfire and it feels like the apocalypse. I remember a few days ago it was raining and there was lightening at 4AM, and I remember thinking, “it's just a California summer storm, coming and going.” That storm really didn't leave behind much of a trace the next day from what I could see, but then the smokes started.",
@@ -157,9 +163,16 @@
         "imagelink":"2020/1-4-almadenquicksilver.jpg", "date":"Jan 4, 2020", "year":"2020", 
         "tags":"almaden, quicksilver, trail, california"
     },"20-1":{
-        "content":"Walked around here with my family for New Years Day. It was mildly smoky",
+        "content":["Walked around here with my family for New Years Day. It was mildly smoky.<br>",
+        "<br><b>• Update - April 1, 2021 •</b><br>",
+        "<br>Last 3 images were from watching the sunset at the same location. I listened to <a href='https://open.spotify.com/episode/1SG1NyBl04h2T53szbK6ay?si=NHcGziGkQXWGcXmIGxkLgg' target='_blank'>STDWYTK</a>'s podcast about sleep paralysis. It was peaceful."],
         "location":"Stanford Dish", "address":"Stanford Dish, 400 Reservoir Rd, Stanford, CA 94305",
-        "imagelink":"2020/1-1-stanforddish.jpg", "date":"Jan 1, 2020", "year":"2020", 
+        "imagelink":[
+            "2020/1-1-stanforddish.jpg",
+            "2021/4-1-stanforddish.jpg",
+            "2021/4-1-stanforddish2.jpg",
+            "2021/4-1-stanforddish3.jpg"], 
+        "date":"Jan 1, 2020", "year":"2020", 
         "tags":"stanford, dish, trail, california"
     },
     

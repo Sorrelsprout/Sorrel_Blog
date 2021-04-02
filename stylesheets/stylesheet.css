@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400;500&display=swap');
 @font-face {
   font-family: SFDigital;
   src: url(../resources/SFDigitalReadout-Heavy.ttf);
@@ -241,6 +241,10 @@ p {
 p::selection {
   background: #8885;
   color:#fff;
+}
+
+b {
+  font-weight: 500;
 }
 
 .entries > span {
