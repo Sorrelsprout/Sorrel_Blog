@@ -1,5 +1,14 @@
 {
-    "21-12":{
+    "21-13":{
+        "content":"I went to Jury Duty today, and afterwards went to Calero County Park. Talked to a father and daughter named Duane and Khalia as I had a mini picnic on a bench near a pond. At the peak, I've never seen so many poppies in one place. It was a very bright and sunny day, and the oak trees and acorns reminded me of Corvallis. The acorns were longer at Calero though.",
+        "location":"Calero County Park", "address":"Calero County Park, McKean Road, San Jose, CA",
+        "imagelink":[
+            "2021/4-15-calero.jpg",
+            "2021/4-15-calero2.jpg",
+            "2021/4-15-calero3.jpg"], 
+        "date":"Apr 15, 2021", "year":"2021",
+        "tags":"calero, caleropark, calerocountypark, california, sky, flowers, lake, pond"
+    },"21-12":{
         "content":["Finally found Franklin Point, which is the beach that my family used to go to all the time when I was younger! My dad and I used to go to the tidepools and see some sealife, and I really wanted to see some sea stars. It was super windy, but the tide pool area was shielded by giant rocks. I saw only one purple ochre seastar, but there were tons of anemone and also sea urchins. I also saw a woollybear caterpillar on the way to the beach (haven't seen one of those since Corvallis).<br>",
         "<br>On the way home along Highway 1, there was a traffic accident. We were completely at a standstill. Everyone came out of their cars and were just waiting by them. I also exited, and sat on the hood of the car and finished a fruit-by-the-foot. Thankfully the accident was resolved after about half an hour, but I didn't want to risk another standstill, so I took the San Gregorio mountain route back. It was a really nice trip."],
         "location":"Franklin Point Beach", "address":"Franklin Point Trail, California 1, Pescadero, CA",
@@ -94,7 +103,9 @@
         "date":"Feb 7, 2021", "year":"2021",
         "tags":"stevens, creek, county, park, boulder, trees, trail, california"
     },"21-2":{
-        "content":"Went with family to Almaden Lake. Might be planning a trip to Asia with my mom after COVID. Really excited! 2nd picture from 3/20/21.",
+        "content":["Went with family to Almaden Lake. Might be planning a trip to Asia with my mom after COVID. Really excited!<br>",
+        "<br><b>• Update - March 20, 2021 •</b><br>",
+        "<br>2nd picture was taken on another family walk."],
         "location":"Almaden Lake", "address":"Almaden Lake",
         "imagelink":["2021/1-16-almadenlake.jpg","2021/3-20-almadenlake.jpg"], "date":"Jan 16, 2021", "year":"2021",
         "tags":"almaden, quicksilver, wood, california"
