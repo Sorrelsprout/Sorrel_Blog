@@ -14,7 +14,6 @@ html {
 body {
   margin: auto;
   font-family: sans-serif;
-  background: #222;
   color:#ddd;
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
@@ -24,22 +23,28 @@ body {
 
 .container {
   display: flex;
-  max-width: 960px;
   flex-direction: column;
-  margin: 0 auto 30px auto;
+  padding-bottom: 30px;
   align-items: center;
+  background: #222;
 }
 
 .header, .footer {
   max-width: 100%;
 }
 
+header, nav, #articleGrid, footer {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 header, section, article, footer {
   position: relative;
 }
 
-.dim {
+.dim, #hero.dim, .nighttime #hero.dim {
   opacity: 0.3;
+  pointer-events: none;
 }
 
 ::-webkit-scrollbar {
@@ -58,22 +63,39 @@ header, section, article, footer {
 
 /*--- Header ---------------------------------------------------------*/
 
+.header {
+  background: none;
+  padding-bottom: 0px;
+}
+
 header {
   width: 100%;
   height: 320px;
-  overflow: hidden;
-  background: #000;
 }
 
 #hero {
+  position: fixed;
   width: 100%;
+  height: 320px;
   object-fit: cover;
   opacity: 0.4;
   transform: translate3d(0,0,0) scale(1.25);
+  z-index: -1;
 }
 
-#hero[src*=day] {
-  margin-top: -25%;
+.nighttime #hero {
+  opacity: 0.8;
+}
+
+.nighttime .header::before { /* Makes text more legible */
+  content: '';
+  position: absolute;
+  display: block;
+  width: 100vw;
+  height: 320px;
+  top: 0;
+  left: 0;
+  background-image: radial-gradient(#0005, #0000);
 }
 
 body.loaded #hero {
@@ -106,7 +128,7 @@ header p {
 
 nav {
   display: flex;
-  margin: 30px 0;
+  margin: 60px 0 30px 0;
 }
 
 nav span {

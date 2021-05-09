@@ -134,8 +134,8 @@ $( document ).ready(function() {
     }
 
     function dim() {
-        if($("#entrydetails").hasClass("show")){ $("header, #articleGrid, footer").addClass("dim"); } 
-        else { $("header, #articleGrid, footer").removeClass("dim"); }
+        if($("#entrydetails").hasClass("show")){ $("header, #hero, nav, #articleGrid, footer").addClass("dim"); } 
+        else { $("header, #hero, nav, #articleGrid, footer").removeClass("dim"); }
     }
 
     // Dayglow -------------------------------------------------------------------------------------------
@@ -144,10 +144,10 @@ $( document ).ready(function() {
         var currentTime = new Date().getHours();
         if ((6 <= currentTime && currentTime < 18 )) { //if between 6am and 6pm
             $("#hero").attr("src", "resources/heroes/day1.jpg");
-            $("#hero").css({"opacity":"0.4"})
+            $("body").removeClass("nighttime");
         } else {
             $("#hero").attr("src", "resources/heroes/night1.jpg");
-            $("#hero").css({"opacity":"0.65"})
+            $("body").addClass("nighttime");
         }
     }  
 
