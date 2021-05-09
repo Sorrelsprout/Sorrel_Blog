@@ -166,7 +166,7 @@ $( document ).ready(function() {
     })
 
     // Audio -------------------------------------------------------------------------------------------
-    $("audio")[0].volume = 0.02;
+    $("audio")[0].volume = 0.03;
     $("#audiogroup").click(() => { 
         $("#audiogroup").toggleClass("soundoff");
         if ($("audio")[0].paused == false) {
