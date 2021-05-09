@@ -144,8 +144,10 @@ $( document ).ready(function() {
         var currentTime = new Date().getHours();
         if ((6 <= currentTime && currentTime < 18 )) { //if between 6am and 6pm
             $("#hero").attr("src", "resources/heroes/day1.jpg");
+            $("#hero").css({"opacity":"0.4"})
         } else {
             $("#hero").attr("src", "resources/heroes/night1.jpg");
+            $("#hero").css({"opacity":"0.65"})
         }
     }  
 
