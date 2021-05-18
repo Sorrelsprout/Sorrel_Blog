@@ -513,8 +513,7 @@ i.fa-clone::before {
     align-items: center;
   }
   #hero {
-    height: 100%;
-    width: auto;
+    max-height: 320px;
   }
   .content {
     max-height: 30vh;
