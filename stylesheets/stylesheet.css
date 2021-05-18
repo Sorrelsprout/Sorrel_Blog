@@ -78,13 +78,9 @@ header {
   width: 100%;
   height: 320px;
   object-fit: cover;
-  opacity: 0.4;
+  opacity: 0.8;
   transform: translate3d(0,0,0) scale(1.25);
   z-index: -1;
-}
-
-.nighttime #hero {
-  opacity: 0.8;
 }
 
 .nighttime .header::before { /* Makes text more legible */

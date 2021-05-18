@@ -138,7 +138,7 @@ $( document ).ready(function() {
         else { $("header, #hero, nav, #articleGrid, footer").removeClass("dim"); }
     }
 
-    // Dayglow -------------------------------------------------------------------------------------------
+    // Hero -------------------------------------------------------------------------------------------
     dayglow(); // Depending on time of day, change from darker image to lighter
     function dayglow() {
         var currentTime = new Date().getHours();
@@ -150,6 +150,22 @@ $( document ).ready(function() {
             $("body").addClass("nighttime");
         }
     }  
+
+    var blurOnScroll = function(evt) {
+        if ($(this).scrollTop() > 50) {
+            let calcBlur = "blur("+ (($(this).scrollTop()**1.4)/5000) +"rem)";
+            let calcOpacity = (300-$(this).scrollTop())/320 + "";
+            $("#hero").css({
+                "filter":calcBlur,
+                "opacity":calcOpacity
+            });
+            
+        } else { $("#hero").css({
+            "filter":"none",
+            "opacity":"0.8"
+        }); }
+    };
+    window.addEventListener("scroll", blurOnScroll);
 
     // Tags -------------------------------------------------------------------------------------------
     $("nav span").on("click", function() {
