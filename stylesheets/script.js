@@ -154,7 +154,7 @@ $( document ).ready(function() {
     var blurOnScroll = function(evt) {
         if ($(this).scrollTop() > 50) {
             let calcBlur = "blur("+ (($(this).scrollTop()**1.4)/5000) +"rem)";
-            let calcOpacity = (300-$(this).scrollTop())/320 + "";
+            let calcOpacity = (320-$(this).scrollTop())/320 + "";
             $("#hero").css({
                 "filter":calcBlur,
                 "opacity":calcOpacity
@@ -182,7 +182,7 @@ $( document ).ready(function() {
     })
 
     // Audio -------------------------------------------------------------------------------------------
-    $("audio")[0].volume = 0.03;
+    $("audio")[0].volume = 0.15; //0.03 for Ghosts
     $("#audiogroup").click(() => { 
         $("#audiogroup").toggleClass("soundoff");
         if ($("audio")[0].paused == false) {
