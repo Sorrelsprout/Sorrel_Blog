@@ -152,9 +152,9 @@ $( document ).ready(function() {
     }  
 
     var blurOnScroll = function(evt) {
-        if ($(this).scrollTop() > 50) {
+        if ($(this).scrollTop() > 0) {
             let calcBlur = "blur("+ (($(this).scrollTop()**1.4)/5000) +"rem)";
-            let calcOpacity = (300-$(this).scrollTop())/320 + "";
+            let calcOpacity = (300-$(this).scrollTop())/400 + "";
             $("#hero").css({
                 "filter":calcBlur,
                 "opacity":calcOpacity
