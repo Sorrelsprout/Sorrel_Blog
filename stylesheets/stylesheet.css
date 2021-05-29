@@ -361,8 +361,14 @@ b {
   justify-content:space-between;
   padding: 8px;
   opacity: 0.35;
-  transition: all 150ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
+  transition: all 250ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
   transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000); 
+}
+
+.imageNav i {
+  background: #0007;
+  padding: 3px 5px;
+  border-radius: 2px;
 }
 
 .imageNav.disabled {
