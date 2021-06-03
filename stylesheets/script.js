@@ -4,7 +4,7 @@ let currentIndex;
 let imgIndex = 1;
 
 $( document ).ready(function() {
-    document.body.className += ' loaded';
+    document.body.className += 'loaded';
 
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
     let content = [];

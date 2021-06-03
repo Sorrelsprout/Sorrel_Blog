@@ -1,5 +1,13 @@
 {
-    "21-15":{
+    "21-16":{
+        "content":"I met a cat on the hike and pet it, but got a splinter form some seeds stuck on its fur. I also met a man looking for turkeys.",
+        "location":"Picchetti Ranch", "address":"Picchetti Ranch Preserve",
+        "imagelink":[
+            "2021/6-2-picchetti.jpg",
+            "2021/6-2-picchetti2.jpg"], 
+        "date":"Jun 2, 2021", "year":"2021",
+        "tags":"picchetti, ranch, cat, california"
+    },"21-15":{
         "content":"I tried to manage my anxiety by going to the San Jose Rose Garden and eating custard-filled donuts from Krispy Kreme. The full flower blooms and donuts made me feel better and calmer. 🍩",
         "location":"Municipal Rose Garden", "address":"Rose Garden, San Jose, CA",
         "imagelink":[
@@ -144,10 +152,10 @@
         "imagelink":"2020/12-19-lakelexington.jpg", "date":"Dec 19, 2020", "year":"2020",
         "tags":"lake, lexington, reservoir, fog, california"
     },"20-20":{
-        "content":"I watched the sun rise at Pichetti Ranch and felt serene.",
+        "content":"I watched the sun rise at Picchetti Ranch and felt serene.",
         "location":"Picchetti Ranch", "address":"Picchetti Ranch Preserve",
         "imagelink":"2020/12-5-picchetti.jpg", "date":"Dec 5, 2020", "year":"2020",
-        "tags":"pichetti, ranch, sunrise, california"
+        "tags":"picchetti, ranch, sunrise, california"
     },"20-19":{
         "content":"Went here on Thanksgiving with my brother and dad.",
         "location":"Mission Peak", "address":"Mission Peak Fremont",
