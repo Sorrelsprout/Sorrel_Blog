@@ -182,7 +182,7 @@ $( document ).ready(function() {
     })
 
     // Audio -------------------------------------------------------------------------------------------
-    $("audio")[0].volume = 0.15; //0.03 for Ghosts
+    $("audio")[0].volume = 0.03; //0.15 for Novo
     $("#audiogroup").click(() => { 
         $("#audiogroup").toggleClass("soundoff");
         if ($("audio")[0].paused == false) {
