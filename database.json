@@ -1,5 +1,31 @@
 {
-    "21-17":{
+    "21-19":{
+        "content":"Ate a Chipotle burrito while looking out over the ocean. The ocean and sky were so blue, and the kelp in the water looked reddish in the sunlight. After that I stopped by Mystery Spot for a tour. It was a bit difficult keeping social distancing, but it worked out and the guide was entertaining.",
+        "location":"Wilder Ranch State Park", "address":"Wilder Ranch State Park",
+        "imagelink":[
+            "2021/6-12-wilderranch.jpg",
+            "2021/6-12-wilderranch2.jpg",
+            "2021/6-12-wilderranch3.jpg",
+            "2021/6-12-mysteryspot.jpg",
+            "2021/6-12-mysteryspot2.jpg",
+            "2021/6-12-mysteryspot3.jpg"], 
+        "date":"Jun 12, 2021", "year":"2021",
+        "tags":"wilderranch, wilder, ranch, beach, statepark, santacruz, santa, cruz, california"
+    },"21-18":{
+        "content":"Hiked over 8 miles and saw some neat wildlife! Saw two banana slugs and got some damselfly closeups. Also found some more wildflowers.",
+        "location":"Henry Cowell State Park", "address":"Henry Cowell Redwoods State Park, North Big Trees Park Road, Felton, CA",
+        "imagelink":[
+            "2021/6-12-henrycowell.jpg",
+            "2021/6-12-henrycowell2.jpg",
+            "2021/6-12-henrycowell3.jpg",
+            "2021/6-12-henrycowell4.jpg",
+            "2021/6-12-henrycowell5.jpg",
+            "2021/6-12-henrycowell6.jpg",
+            "2021/6-12-henrycowell7.jpg",
+            "2021/6-12-santacruzmountains.jpg"], 
+        "date":"Jun 12, 2021", "year":"2021",
+        "tags":"henrycowell, henry, cowell, statepark, redwood, redwoods, santacruz, california"
+    },"21-17":{
         "content":"",
         "location":"Purisima Creek Redwoods", "address":"Purisima Creek Redwoods Preserve",
         "imagelink":[
@@ -118,7 +144,7 @@
         "tags":"santa, teresa, trail, mountain, clouds, sunbeam, santateresa, california"
     },"21-5":{
         "content":["I took the Creekside Trail on the way up. There were quite some trees surrounding me. I listened to a podcast called “Stuff They Don't Want You To Know” (<a href='https://open.spotify.com/show/5N6g8n6084T5D6Q67yGCUX' target='_blank'>STDWYTK</a>), a paranormal and strange-things podcast and I felt a little unnerved because the topic was about cattle mutilations and I was walking past some dense trees, so I stopped listening after a bit. I listened for birds and signs of wildlife as I walked just in case... At one point the birds stopped chirping but the trees were still rustling and I got a bit creeped out, but then the birds started back up again.<br>",
-        "<br>I walked to the top of the hill halfway between the Prospect Rd. parking lot and Hunter's Point and I saw three deer eating grass. I also saw two eagles. One flew really close and I could see that it was massive. There was a tiny birdhouse nailed to a post in the middle of the field off the trail, and it was swaying back and forth because of the wind.<br>",
+        "<br>I walked to the top of the hill halfway between the Prospect Rd. parking lot and Hunter's Point and I saw three deer eating grass. I also saw two hawks. One flew really close and I could see that it was massive. There was a tiny birdhouse nailed to a post in the middle of the field off the trail, and it was swaying back and forth because of the wind.<br>",
         "<br>I looked out and could see the lights all gradualy come on as the sky got darker. I didn't want to leave, so I could catch all the remnants of the sunset, but had to head back. As I left it got super dark and I had to put on my glasses to see."],
         "location":"Cora Older Trail", "address":"37.289365, -122.058239",
         "imagelink":"2021/3-5-coraolder.jpg", "date":"Mar 5, 2021", "year":"2021",
