@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: sorrelsprout.com
-Token: 5ff051bdc73855322bacc2b1b01842275915a1e28e4b0e4ebf9ef24943d7d3e2
