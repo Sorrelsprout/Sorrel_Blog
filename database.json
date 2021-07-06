@@ -1,5 +1,23 @@
 {
-    "21-22":{
+    "21-23":{
+        "content":"Foraged black raspberries and saw a gorgeous view. Ate avocado-cucumber rice rolls with my family at the junction of Craig Britton Trail and Harkins Ridge Trail.",
+        "location":"Craig Britton Trail", "address":"Craig Britton Trail, Redwood City, CA",
+        "imagelink":[
+            "2021/7-3-craigbritton.jpg",
+            "2021/7-3-craigbritton2.jpg",
+            "2021/7-3-craigbritton3.jpg"], 
+        "date":"Jul 3, 2021", "year":"2021",
+        "tags":"craigbritton, craigbrittontrail, redwoods, redwood, redwoodcity, berries, foraging, trees, california"
+    },"21-22":{
+        "content":"Hiked at Purisima for my parents' 25-year anniversary. It was mildly foggy and we saw over 27 banana slugs! It was an 8.8-mile hike and saw some awesome insects and a tiny snake.",
+        "location":"Purisima Creek Trail", "address":"Purisima Creek Trail, Higgins Road Trailhead, Half Moon Bay, CA",
+        "imagelink":[
+            "2021/7-3-purisima.jpg",
+            "2021/7-3-purisima2.jpg",
+            "2021/7-3-purisima3.jpg"], 
+        "date":"Jul 3, 2021", "year":"2021",
+        "tags":"purisima, creek, redwood, redwoods, redwoodcity, bananaslug, bananaslugs, california"
+    },"21-21":{
         "content":"",
         "location":"Nisene Marks State Park", "address":"The Forest of Nisene Marks State Park",
         "imagelink":[
