@@ -191,4 +191,9 @@ $( document ).ready(function() {
             $("audio")[0].play();
         }
     })
+    
+    /* Upcoming -------------------------------------------------------------------------------------------
+    •  Upload Movies
+    •  Embed songs + videos
+    */
 });
