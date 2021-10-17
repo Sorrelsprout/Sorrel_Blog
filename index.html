@@ -41,13 +41,19 @@
     <div class="container" id="modules">
 
         <div id="articleGrid">
-            <article id="entry1" class="entries">
-                    <img class="imagelink" src="resources/placeholder.jpg" alt="Image of the Day" loading="lazy">
-                    <span class="dateyear">
+            <article id="entry1" class="entries atropos">
+                <div class="atropos-scale">
+                <div class="atropos-rotate">
+                <div class="atropos-inner">
+                    <img class="imagelink" data-atropos-offset="-5" src="resources/placeholder.jpg" alt="Image of the Day" loading="lazy">
+                    <span class="dateyear" data-atropos-offset="-2">
                         <span class="date">Date</span>
                         <span class="year"></span>
                     </span>
-                    <i class="fas fa-clone multiImgIcon" title="Multiple Photos"></i>
+                    <i class="fas fa-clone multiImgIcon" title="Multiple Photos" data-atropos-offset="-2"></i>
+                </div>
+                </div>
+                </div>
                 <a class="locationlink" target="_blank"><p class="location">Location</p></a>
                 <p class="tags">Brief Filler Text</p>
             </article>
@@ -82,6 +88,15 @@
         <i class="fas fa-volume-off"></i>
     </span>
     <a href="#top" id="scrolltotop" title="Back to top">&#9652;</a>
+
+    <script src="./atropos/atropos.min.js"></script>
+    <script>
+    document.querySelectorAll('.entries').forEach((element) => {
+    Atropos({
+        el: element,
+    });
+    })
+    </script>
 </body>
 
 </html>
