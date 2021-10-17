@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400;500&display=swap');
+@import "../node_modules/atropos/atropos.css";
 @font-face {
   font-family: SFDigital;
   src: url(../resources/SFDigitalReadout-Heavy.ttf);
@@ -235,7 +236,7 @@ nav span.show {
 
 /*--- Typography  ----------------------------------------------------*/
 
-a, i, i.fa-clone:hover {
+a, i, .multiImgIcon:hover {
   text-decoration: none;
   color:#ddd;
   cursor: pointer;
@@ -265,12 +266,12 @@ b {
   font-weight: 500;
 }
 
-.entries > span {
+.dateyear {
   text-align: right;
   display: inline-block;
   position: absolute;
-  bottom: 20px;
-  right: 20px;
+  bottom: 0.5rem;
+  right: 0.5rem;
   word-spacing: -6px;
   letter-spacing: 3px;
   font-family: SFDigital;
@@ -379,16 +380,16 @@ b {
   display: flex;
 }
 
-i.fa-clone {
+.multiImgIcon {
   display: none;
   position: absolute;
-  top: 24px;
-  right: 24px;
+  top: 0.5rem;
+  right: 0.5rem;
   border-radius: 20px;
   box-shadow:0px 0px 4px #0005;
 }
 
-i.fa-clone::before {
+.multiImgIcon::before {
   display: block;
   position: relative;
   top: 0;
@@ -397,7 +398,7 @@ i.fa-clone::before {
   background: #0003;
 }
 
-.multiImg i.fa-clone { /* multiple images */
+.multiImg .multiImgIcon { /* multiple images */
   display: block;
 }
 
