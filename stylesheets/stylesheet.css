@@ -525,3 +525,10 @@ b {
   }
 }
 
+
+/*--- Atropos Formatting ---------------------------------------------*/
+
+.atropos-scale .atropos-rotate .atropos-inner {
+  width: inherit;
+  height: inherit;
+}
