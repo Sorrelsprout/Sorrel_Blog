@@ -385,8 +385,8 @@ b {
 .multiImgIcon {
   display: none;
   position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
+  top: 1.5rem;
+  right: 1.5rem;
   border-radius: 20px;
   box-shadow:0px 0px 4px #0005;
 }
@@ -523,12 +523,4 @@ b {
   .content {
     max-height: 30vh;
   }
-}
-
-
-/*--- Atropos Formatting ---------------------------------------------*/
-
-.atropos-scale .atropos-rotate .atropos-inner {
-  width: inherit;
-  height: inherit;
 }
