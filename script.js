@@ -36,7 +36,8 @@ $( document ).ready(function() {
             const newentry = entry.cloneNode(true);
             newentry.id = "entry" + (i+2);
             document.getElementById("articleGrid").appendChild(newentry);
-            
+            addAtropos(".atropos");
+
             let newnum = i+1;
             const entryd = ".entries:nth-of-type("+newnum+") .date";
             const entryr = ".entries:nth-of-type("+newnum+") .year";
@@ -205,13 +206,9 @@ $( document ).ready(function() {
 
 
     /* Atropos ------------------------------------------------------------------------------------------ */
-    if($(document.body).hasClass("loaded")){ addAtropos(); }
-    function addAtropos() {
-        document.querySelectorAll('.entries').forEach((element) => {
-            Atropos({
-                el: element,
-                highlight: false
-            });
+    function addAtropos(element) {
+        document.querySelectorAll(element).forEach((e) => {
+            Atropos({ el: e, highlight: false });
         });
     }
 
