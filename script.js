@@ -7,6 +7,7 @@ $( document ).ready(function() {
     $("#preloader").delay(1500).fadeOut("slow")
     $(document.body).delay(1500).addClass("loaded");
 
+
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
     let content = [];
     let date = [];
@@ -113,6 +114,7 @@ $( document ).ready(function() {
         $(".entries:nth-of-type("+(entryLength)+")").css({"display":"none"}); // Removes placeholder
     });
 
+
     // Multiple Images ------------------------------------------------------------------------------------
 
     $(".fa-chevron-left").on("click", function() { navigatePhotos("left"); })
@@ -138,6 +140,7 @@ $( document ).ready(function() {
         if($("#entrydetails").hasClass("show")){ $("header, #hero, nav, #articleGrid, footer").addClass("dim"); } 
         else { $("header, #hero, nav, #articleGrid, footer").removeClass("dim"); }
     }
+
 
     // Hero -------------------------------------------------------------------------------------------
     dayglow(); // Depending on time of day, change from darker image to lighter
@@ -173,6 +176,7 @@ $( document ).ready(function() {
     };
     window.addEventListener("scroll", blurOnScroll);
 
+    
     // Tags -------------------------------------------------------------------------------------------
     $("nav span").on("click", function() {
         $("nav span").removeClass("show");
@@ -187,6 +191,7 @@ $( document ).ready(function() {
         }
     })
 
+
     // Audio -------------------------------------------------------------------------------------------
     $("audio")[0].volume = 0.03; //0.15 for Novo
     $("#audiogroup").click(() => { 
@@ -197,6 +202,19 @@ $( document ).ready(function() {
             $("audio")[0].play();
         }
     })
+
+
+    /* Atropos ------------------------------------------------------------------------------------------ */
+    if($(document.body).hasClass("loaded")){ addAtropos(); }
+    function addAtropos() {
+        document.querySelectorAll('.entries').forEach((element) => {
+            Atropos({
+                el: element,
+                highlight: false
+            });
+        });
+    }
+
     
     /* Upcoming -------------------------------------------------------------------------------------------
     •  Upload Movies
