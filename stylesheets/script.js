@@ -12,7 +12,7 @@ $( document ).ready(function() {
     let year = [];
     let tags = [];
     let location = [];
-    let addresses = []; //<<<<< Not used yet
+    let addresses = [];
     let imagelink = [];
     $.getJSON("./database.json", function(json) {
         let entryLength = Object.values(json).length;
@@ -146,7 +146,12 @@ $( document ).ready(function() {
             $("#hero").attr("src", "resources/heroes/day1.jpg");
             $("body").removeClass("nighttime");
         } else {
-            $("#hero").attr("src", "resources/heroes/night1.jpg");
+            let nightImages = [
+                "resources/heroes/night1.jpg",
+                "resources/heroes/night2.jpg"
+            ]
+            let hero = nightImages[Math.floor(Math.random()*nightImages.length)];
+            $("#hero").attr("src", hero);
             $("body").addClass("nighttime");
         }
     }  
