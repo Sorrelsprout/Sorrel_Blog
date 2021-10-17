@@ -1,5 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400;500&display=swap');
+@import "./reset.css";
+@import "./preloader.css";
 @import "../node_modules/atropos/atropos.css";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400;500&display=swap');
 @font-face {
   font-family: SFDigital;
   src: url(../resources/SFDigitalReadout-Heavy.ttf);

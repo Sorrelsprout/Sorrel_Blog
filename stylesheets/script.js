@@ -4,7 +4,8 @@ let currentIndex;
 let imgIndex = 1;
 
 $( document ).ready(function() {
-    document.body.className += 'loaded';
+    $("#preloader").delay(1500).fadeOut("slow")
+    $(document.body).delay(1500).addClass("loaded");
 
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
     let content = [];

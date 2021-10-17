@@ -1,0 +1,82 @@
+/* Thank you to Ihatetomatoes on YouTube for this preloader demo! */
+/* Please check out his video here: https://www.youtube.com/watch?v=fS6zuJ5Crxc */
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background: #333;
+}
+
+#loader {
+    display: block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 10rem;
+    height: 10rem;
+    margin: -5rem 0 0 -5rem;
+}
+
+#loader::before,
+#loader::after {
+    content: '';
+    position: absolute;
+}
+
+#loader,
+#loader::before,
+#loader::after {
+    border: 3px solid transparent;
+    border-top-color: rgb(141, 141, 182);
+    border-radius: 100%;
+
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+#loader::before {
+    top: 0.5rem;
+    bottom: 0.5rem;
+    left: 0.5rem;
+    right: 0.5rem;
+    border-top-color: rgb(171, 171, 201);
+
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
+}
+
+#loader::after {
+    top: 1.25rem;
+    bottom: 1.25rem;
+    left: 1.25rem;
+    right: 1.25rem;
+    border-top-color: rgb(199, 199, 224);
+
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes spin {
+    0% { 
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% { 
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes spin {
+    0% { 
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% { 
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
