@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "adventures",
   "main": "script.js",
+  "type": "commonjs",
   "dependencies": {
     "atropos": "^0.11.2"
   },
