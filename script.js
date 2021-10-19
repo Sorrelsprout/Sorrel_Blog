@@ -208,7 +208,7 @@ $( document ).ready(function() {
     /* Atropos ------------------------------------------------------------------------------------------ */
     function addAtropos(element) {
         document.querySelectorAll(element).forEach((e) => {
-            Atropos({ el: e, highlight: false });
+            Atropos({ el: e, highlight: false, rotateTouch: "scroll-y" });
         });
     }
 
