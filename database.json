@@ -1,10 +1,19 @@
 {
-    "21-30":{
+    "21-31":{
+        "content":"Went to Half Moon Bay and the Purisima Creek Redwoods with my hackathon buddy! It was really chill and we ate Chipotle and walked a LOT. We saw so many sea jellies at Half Moon Bay, and so many banana slugs earlier in the day. We met up at 7am and went home at 8pm, and although it felt like rainy weather, we were lucky to only experience a few drops.",
+        "location":"Half Moon Bay", "address":"Half Moon Bay State Beach, California",
+        "imagelink":[
+            "2021/10-23-halfmoonbay.jpg",
+            "2021/10-23-halfmoonbay2.jpg",
+            "2021/10-23-halfmoonbay3.jpg"], 
+        "date":"Oct 23, 2021", "year":"2021",
+        "tags":"halfmoon, halfmoonbay, beach, fog, hiking, bay, california"
+    },"21-30":{
         "content":["Caught the most spectacular sunset! Also met a man named Cal. I was eating a Chipotle burrito and drinking the Star Drink from Starbucks, and Cal just kept talking to me. He was born in Thailand, studied computer science back in 2001-ish before all the IOS and app dev stuff started. Now he works at UPS, but wants to quit his job to travel. He hiked 9 miles this morning and said he's going to hike Mission Peak tomorrow, and that he was going to ice his feet to recover a bit.<br>",
         "<br>He mentioned that he met a bunch of digital nomads while traveling on the weekends, and that he was driving 6 hours to the Sierra Nevadas just to visit every weekend, since he fell in love with the scenery. He had a bed setup in his SUV with enough room that a future partner could sleep there with him. He also wanted to build a shelf so cooking and organizing would be easier.<br>",
         "<br>Cal talked about how high rent was, and that there are places that people can look to sleep in their car for rent-free, on government land. He talked about a beautiful place to visit called <a href='https://www.google.com/maps/place/Lee+Vining,+CA+93541/@38.056538,-119.7691028,9.58z/data=!4m5!3m4!1s0x80963656dc3b47d9:0xd033576091571beb!8m2!3d37.957592!4d-119.119943'>Lee Vining</a>, and how he's headed to Utah soon to visit. He said he went to Zion before, and wants to go back.<br>",
         "<br>Even though it was a bit tiring and I just wanted to eat my burrito in peace and get on with my hike, it was really nice talking to Cal and hearing about his travels, insights, and mindset. It kind of confirms my belief that life is just too short and you should do whatever the fuck you want to do. I don't know if I could, but I often dream about doing the same as Cal, just buying an SUV, modding it with a bed and shelving, then hitting the road to wherever. My job is remote anyways, so it would be really neat. But then I worry about retirement and the future, and what my family would think. I've still so much to learn and think on. The most important thing he said to me, was to not waste my youth.<br>",
-        "<br>After talking with Cal, I went to the top of Mt. Diablo and meditated a bit, and it was very serene. No sounds, just sunlight, and yellow grasses, and the bay view.<br>"],
+        "<br>After talking with Cal, I went to the top of Mt. Diablo and meditated a bit, and it was very serene. No sounds, just sunlight, and yellow grasses, and the bay view."],
         "location":"Mt Diablo", "address":"Mt Diablo, California 94598",
         "imagelink":[
             "2021/10-16-mtdiablo.jpg",
@@ -78,13 +87,17 @@
         "date":"Jul 3, 2021", "year":"2021",
         "tags":"craigbritton, craigbrittontrail, redwoods, redwood, redwoodcity, berries, foraging, trees, california"
     },"21-22":{
-        "content":"Hiked at Purisima for my parents' 25-year anniversary. It was mildly foggy and we saw over 27 banana slugs in the 4th pic! It was an 8.8-mile hike and saw some awesome insects and a tiny snake.",
+        "content":["Hiked at Purisima for my parents' 25-year anniversary. It was mildly foggy and we saw over 27 banana slugs in the 4th pic! It was an 8.8-mile hike and saw some awesome insects and a tiny snake.<br>",
+        "<br><b>• Update - Oct 23, 2021 •</b><br>",
+        "<br>Went hiking here with my hackathon friend and we saw a lot of banana slugs! We ended up walking super far down the Purisima Creek Trail and saw tons of banana slugs (the last two pictures)!"],
         "location":"Purisima Creek Trail", "address":"Purisima Creek Trail, Higgins Road Trailhead, Half Moon Bay, CA",
         "imagelink":[
             "2021/7-3-purisima.jpg",
             "2021/7-3-purisima2.jpg",
             "2021/7-3-purisima3.jpg",
-            "2021/7-3-purisima4.jpg"], 
+            "2021/7-3-purisima4.jpg",
+            "2021/10-23-purisima.jpg",
+            "2021/10-23-purisima2.jpg"], 
         "date":"Jul 3, 2021", "year":"2021",
         "tags":"purisima, creek, redwood, redwoods, redwoodcity, bananaslug, bananaslugs, california"
     },"21-21":{
