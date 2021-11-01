@@ -1,7 +1,26 @@
 {
-    "21-31":{
+    "21-33":{
+        "content":["Spent Halloween with my uni friend hiking the Ocean Beach Coastal Trail (6.4mi out-and-back) and Land's End (3.4mi)! My professor always talked about this place, but this is my first time visiting. We also saw the Sutro Baths (3rd pic), which my professor also talked about as a possible redesign opportunity.<br>",
+        "<br>I've never driven so close to SF before, and we saw 2 Chicken of the Woods in the 4th pic. At the beach we also saw a lot of broken sand dollars, and I got my sock wet. We grabbed a very late lunch at <a href='https://www.orderpizzajointmenu.com/'>Pizza Joint</a> and dinner at <a href='https://www.mendocinofarms.com/locations/san-mateo'>Mendocino Farms</a>, where they had an Impossible plant-based burger. Both places were pretty tasty.<br>"],
+        "location":"Land's End", "address":"Lands End, Point Lobos Avenue, San Francisco, CA",
+        "imagelink":[
+            "2021/10-31-landsend.jpg",
+            "2021/10-31-landsend2.jpg",
+            "2021/10-31-sutrobaths.jpg",
+            "2021/10-31-landsend3.jpg"], 
+        "date":"Oct 31, 2021", "year":"2021",
+        "tags":"landsend, sanfrancisco, francisco, ocean, beach, oceanbeach, fog, hiking, bay, california"
+    },"21-32":{
+        "content":"",
+        "location":"Ocean Beach", "address":"Ocean Beach, San Francisco, CA",
+        "imagelink":[
+            "2021/10-31-oceanbeach.jpg",
+            "2021/10-31-oceanbeach2.jpg"], 
+        "date":"Oct 31, 2021", "year":"2021",
+        "tags":"halloween, sanfrancisco, oceanbeach, ocean, oceanst, francisco, beach, fog, hiking, bay, california"
+    },"21-31":{
         "content":["Went to Half Moon Bay and the Purisima Creek Redwoods with my hackathon buddy! It was really chill and we ate Chipotle in San Mateo and walked a 15.4 miles the entire day!<br>",
-        "<br>We saw so many sea jellies on the Half Moon Bay Coastal Trail, and so many banana slugs earlier in the day. Two of the jellies pulsated, and they had a purple tint inside. We met up at 7am and went home at 8pm, and although it felt like rainy weather, we were lucky to only experience a few drops.<br>"],
+        "<br>We saw so many sea jellies on the Half Moon Bay Coastal Trail, and so many banana slugs earlier in the day. Two of the jellies pulsated, and they had a purple tint inside. We met up at 7am and went home at 8pm, and although it felt like rainy weather, we were lucky to only experience a few drops."],
         "location":"Half Moon Bay", "address":"Half Moon Bay State Beach, California",
         "imagelink":[
             "2021/10-23-halfmoonbay.jpg",
@@ -289,7 +308,7 @@
         "<br>I stopped in the middle of a shaded section of a descending part of the trail though. I felt a bit scared to continue. I didn't hear any wildlife and as I turned to head back the wind started to blow. I'm not sure if my fear was because I listened to <a href='https://www.youtube.com/channel/UChXKAI83IuqSneWe92F97jQ' target='_blank'>Missing 411</a> stories and was just scaring myself, or if it was a gut instinct.<br>",
         "<br>I headed back and immediately felt better as I hit the sunlit patch of the trail. I thought I could find myself out in there on the trails, but the more I hike, the more I feel as if the trees don't want me there.<br>",
         "<br><b>• Update - April 8, 2021 •</b><br>",
-        "<br>Somehow found my way to this viewpoint again. I ended up going past the shaded section this time around and ended up at a different road. There was a small creek and it was very warm. The trail was strenuous but I got some good exercise. I did feel a bit creeped out again, but not as much as last time. I wonder if there might be mountain lions or some kind of natural predator out and about, which might have given me those feelings.<br>"],
+        "<br>Somehow found my way to this viewpoint again. I ended up going past the shaded section this time around and ended up at a different road. There was a small creek and it was very warm. The trail was strenuous but I got some good exercise. I did feel a bit creeped out again, but not as much as last time. I wonder if there might be mountain lions or some kind of natural predator out and about, which might have given me those feelings."],
         "location":"Steven's Creek County Park", "address":"Steven's Creek County Park",
         "imagelink":[
             "2021/2-7-stevenscreekcountypark.jpg",
