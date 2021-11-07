@@ -1,5 +1,28 @@
 {
-    "21-33":{
+    "21-35":{
+        "content":["Went to Sam McDonald County Park (which is part of San Mateo County). It was really nice, but I was very anxious because I didn't have enough quarters to pay the full $6 cash-only entrance fee. I was so worried a park ranger would slap on a ticket. It's best to avoid San Mateo County parks unless you've got cash I suppose.<br>",
+        "<br>Saw a couple of banana slugs, and some unique fungi! Also came across a Jack Brook horse camp where a couple deer were eating grass.</br>",
+        "<br>From a friend's recommendation, I went to <a href='https://www.equatorcoffees.com'>Equator Coffees</a> in Sausalito in the morning, and got a chai latte with whipped cream. It was very tasty.<br>",
+        "<br>I was originally trying to go to the Muir Woods around Sausalito today, but they needed reservations so I went to Bolinas instead. I drove around but couldn't find parking, and a surfer's dog almost ran into the car, luckily no one was hurt. I also stopped by Stinson Beach and walked along the seashore to dip my feet in the water, and to finish the chai latte. After the beach I went to <a href='http://www.tomosushi.us'>Tomo Sushi</a>, and met a waitress who recently moved to Daly City from Myanmar."],
+        "location":"Sam McDonald", "address":"Sam McDonald Park, Pescadero Creek Road, Loma Mar, CA",
+        "imagelink":[
+            "2021/11-6-sammcdonald.jpg",
+            "2021/11-6-sammcdonald2.jpg",
+            "2021/11-6-sammcdonald3.jpg"], 
+        "date":"Nov 6, 2021", "year":"2021",
+        "tags":"sammcdonald, pescadero, countypark, hiking, forest, california"
+    },"21-34":{
+        "content":["Can't believe I witnessed the sunrise on the Golden Gate Bridge! Right before the sun rose, I was driving over the bridge to try and see the Marin Headlands (didn't actually end up going). It was so beautiful, and as soon as the light orange-gold color started lighting up the sky, I burst into tears and couldn't stop crying because it was so beautiful. This was one definitely of those life-changing moments."],
+        "location":"Golden Gate Bridge", "address":"Golden Gate Bridge, San Francisco, CA",
+        "imagelink":[
+            "2021/11-6-goldengate2-1.jpg",
+            "2021/11-6-goldengate2-2.jpg",
+            "2021/11-6-goldengate2-3.jpg",
+            "2021/11-6-goldengate2.jpg",
+            "2021/11-6-goldengate3.jpg"], 
+        "date":"Nov 6, 2021", "year":"2021",
+        "tags":"goldengate, goldengatebridge, bridge, sanfrancisco, francisco, ocean, beach, oceanbeach, bay, california"
+    },"21-33":{
         "content":["Spent Halloween with my uni friend hiking the Ocean Beach Coastal Trail (6.4mi out-and-back) and Land's End (3.4mi)! My professor always talked about this place, but this is my first time visiting. We also saw the Sutro Baths (3rd pic), which my professor also talked about as a possible redesign opportunity.<br>",
         "<br>I've never driven so close to SF before, and we saw 2 Chicken of the Woods in the 4th pic. At the beach we also saw a lot of broken sand dollars, and I got my sock wet. We grabbed a very late lunch at <a href='https://www.orderpizzajointmenu.com/'>Pizza Joint</a> and dinner at <a href='https://www.mendocinofarms.com/locations/san-mateo'>Mendocino Farms</a>, where they had an Impossible plant-based burger. Both places were pretty tasty.<br>"],
         "location":"Land's End", "address":"Lands End, Point Lobos Avenue, San Francisco, CA",
@@ -9,7 +32,7 @@
             "2021/10-31-sutrobaths.jpg",
             "2021/10-31-landsend3.jpg"], 
         "date":"Oct 31, 2021", "year":"2021",
-        "tags":"landsend, sanfrancisco, francisco, ocean, beach, oceanbeach, fog, hiking, bay, california"
+        "tags":"landsend, goldengate, goldengatebridge, bridge, sanfrancisco, francisco, ocean, beach, oceanbeach, fog, hiking, bay, california"
     },"21-32":{
         "content":"",
         "location":"Ocean Beach", "address":"Ocean Beach, San Francisco, CA",
