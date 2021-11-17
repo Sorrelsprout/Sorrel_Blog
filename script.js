@@ -73,16 +73,12 @@ $( document ).ready(function() {
                     imgLink = "photos/"+imagelink[i][0]; 
                     $(".entries:nth-of-type("+newnum+")").addClass("multiImg");
                 }
+                
                 /*
-                    let imgLink = "photos/"+imagelink[i];
-                    if (jQuery.isEmptyObject(imagelink[i])) { 
-                        $(".entries:nth-of-type("+newnum+")").addClass("multiImg");
-                        imgLink = "photos/"+imagelink[i]; 
-                    } else {
-                        imgLink = "photos/"+imagelink[i][0]; 
-                        console.log(imgLink)
-                    }
-                */
+                if (jQuery.isEmptyObject(imagelink[i])) { 
+                    $(".entries:nth-of-type("+newnum+")").removeClass("multiImg");
+                }*/
+                
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imgLink); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide"); 
             }
