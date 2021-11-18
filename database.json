@@ -1,14 +1,27 @@
 {
-    "21-37":{
-        "content":"",
+    "21-38":{
+        "content":["After hiking Henry Cowell State Park, we also visited the Santa Cruz Beach Boardwalk. It's strange thiking that in just a few more decades, there will be no more boardwalk. The waters at night were so surreal... it was my first time seeing the ocean at night. It looked like a silent film created back when films were first created. The waves were so serene, so dark and atmospheric, but so present. Like no time existed, and the sky was a void, and the moon was shining like a lamp directly in the face of a person getting interrogated in a dark room, and it was only the grey on the waves and the sound of them. It was like the Tron Legacy movie after Kevin Flynn imploded the digital world, or at the very end of the game <a href='https://cdn-www.mandatory.com/assets/uploads/2016/07/Inside-Ending-Explained-6.png'>INSIDE</a>, when the boy ends up at the edge of the sea.<br>",
+        "<br>We had to head back after that because the parking was pre-paid, but we walked back through the boardwalk. It was super strange seeing everything closed and covered with the night. Seeing the Fireball and the Giant Dipper at night totally reminded me of <a href='https://sabukaru.online/articles/liminal-spaces-the-era-of-realizing-false-promises'>liminal spaces</a>."],
         "location":"Santa Cruz Beach Boardwalk", "address":"400 Beach St, Santa Cruz, CA 95060",
         "imagelink":[
-            "2021/11-13-boardwalk2.jpeg",
-            "2021/11-13-boardwalk1.jpeg",
-            "2021/11-13-boardwalk3.jpeg",
-            "2021/11-13-boardwalk4.jpeg"], 
+            "2021/11-13-boardwalk1.jpg",
+            "2021/11-13-boardwalk2.jpg",
+            "2021/11-13-boardwalk3.jpg",
+            "2021/11-13-boardwalk4.jpg"], 
         "date":"Nov 6, 2021", "year":"2021",
         "tags":"santacruz, beach, night, ocean, santacruzbeach, boardwalk, santacruzboardwalk, santa, cruz, amusementpark, seal, california"
+    },"21-37":{
+        "content":["Came here with my friend and we were on the move for nearly the entire day (definitely over 10 miles). It was really awesome hanging out and the weather was so nice too. We crossed a river twice in our underpants! It was the most wild thing. The first time I reached the river it didn't seem as deep, but I also wasn't sure if crossing the river was the right way to go. But we did it this time and it was wild.<br>",
+        "<br>After we got lost a few times then had to cross the river back again, we decided to climb straight up the side of the mountain/hill/dirt side. It was crazy, but the craziest part is that we actually made it back onto the trail! Never have I EVER thought about crossing the river, not once but TWICE, AND also climbing no-trail up the side of the mountain all in one day.<br>",
+        "<br>We saw so many mushrooms and fungi too! So many different species and organic shapes. I recently watched a <a href='https://www.youtube.com/watch?v=v3ZJdgXV4fk&ab_channel=MothLightMedia'>documentary video</a> talking about prototaxites, which are fungi that grew to the size of trees 400 million years ago. It would have been so awesome to see them in person... But I wonder if they would be taken for granted, just like any other native tree species here, all common and forgotten. After the hike though, we ate chipotle burritos."],
+        "location":"Henry Cowell State Park", "address":"Henry Cowell Redwoods State Park, North Big Trees Park Road, Felton, CA",
+        "imagelink":[
+            "2021/11-13-hencow.jpg",
+            "2021/11-13-hencow2.jpg",
+            "2021/11-13-hencow3.jpg",
+            "2021/11-13-hencow4.jpg"], 
+        "date":"Nov 6, 2021", "year":"2021",
+        "tags":"henrycowell, henry, cowell, statepark, redwood, redwoods, santacruz, california"
     },"21-36":{
         "content":"",
         "location":"Saratoga", "address":"Starbucks, Argonaut Shopping Center, Saratoga Sunnyvale Road, Saratoga, California",
@@ -474,7 +487,7 @@
         "imagelink":"2020/2-22-sacramentohostel.jpg", "date":"Feb 22, 2020", "year":"2020", 
         "tags":"sachacks, hostel, sacramento, california"
     },"20-3":{
-        "content":["Attended HackDavis and met up with some old friends! Went into a work meeting to wrap things up beforehand, and also stayed at my supervisor's house. My coworkers were watching “Say Yes to the Dress” and I played with their cat.<br>",
+        "content":["Attended HackDavis and met up with some old friends! Went into a work meeting to wrap things up beforehand, and also stayed at my supervisor Abigail's house. My coworkers were watching “Say Yes to the Dress” and I played with their cat.<br>",
         "<br>At HackDavis I worked with two of my design friends and another guy who was from my high school. I also met another person who I met through a campus organization the day before, and we talked about arts and robots and sci-fi. He really liked working with the JS framework React."],
         "location":"UC Davis ARC Pavillion", "address":"UC Davis ARC Pavillion",
         "imagelink":"2020/1-18-hackdavis.jpg", "date":"Jan 18, 2020", "year":"2020", 
