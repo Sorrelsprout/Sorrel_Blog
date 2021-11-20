@@ -159,8 +159,7 @@ $( document ).ready(function() {
         } else {
             let nightImages = [
                 "resources/heroes/night1.jpg",
-                "resources/heroes/night2.jpg",
-                "resources/heroes/night3.jpg"
+                "resources/heroes/night2.jpg"
             ]
             let hero = nightImages[Math.floor(Math.random()*nightImages.length)];
             $("#hero").attr("src", hero);
