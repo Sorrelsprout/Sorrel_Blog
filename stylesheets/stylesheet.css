@@ -382,7 +382,7 @@ b {
   display: flex;
 }
 
-.multiImgIcon {
+.multiImg .multiImgIcon {
   display: none;
   position: absolute;
   top: 0.5rem;
