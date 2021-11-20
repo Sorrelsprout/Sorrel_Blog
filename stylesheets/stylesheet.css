@@ -166,6 +166,8 @@ nav span.show {
 
 .entries {
   max-width: 260px;
+  width: 100%;
+  min-height: 100%;
   margin: 0 15px 30px 15px;
   padding: 16px;
   border-radius: 4px;;
