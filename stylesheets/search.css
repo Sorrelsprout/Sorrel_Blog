@@ -15,16 +15,14 @@
     padding: 0.5rem;
     border-radius: 4px;
     border: 1px solid #fff0;
-    box-shadow: 0 0 0.5rem #0000;
     transition: all 200ms cubic-bezier(0.500, 0.000, 0.500, 1.000); 
     transition-timing-function: cubic-bezier(0.500, 0.000, 0.500, 1.000); 
 }
 
 #searchbar:hover #search {
     width: 10rem;
-    background: #222e;
-    border: 1px solid #fff3;
-    box-shadow: 0 0 0.2rem #0008;
+    background: #282828ee;
+    border: 1px solid #fff2;
 }
 
 #searchbar:hover #search::selection {
@@ -33,5 +31,9 @@
 }
 
 #searchbar .fa-search {
-    color: #fff8;
+    color: #fffa;
+}
+
+#badsearch {
+    margin-bottom: 2rem;
 }

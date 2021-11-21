@@ -73,16 +73,10 @@ $( document ).ready(function() {
                     imgLink = "photos/"+imagelink[i][0]; 
                     $(".entries:nth-of-type("+newnum+")").addClass("multiImg");
                 }
-                
-                /*
-                if (jQuery.isEmptyObject(imagelink[i])) { 
-                    $(".entries:nth-of-type("+newnum+")").removeClass("multiImg");
-                }*/
-                
                 $(".entries:nth-of-type("+newnum+") .imagelink").attr("src", imgLink); 
                 $(".entries:nth-of-type("+newnum+") .imagelink").removeClass("hide"); 
             }
-            
+
             // Read More -------------------------------------------------------------------------------------------
             $(".entries:nth-of-type("+newnum+")").click(() => {
                 document.querySelectorAll('.successiveImgs').forEach(e => e.remove());
@@ -184,19 +178,46 @@ $( document ).ready(function() {
     window.addEventListener("scroll", blurOnScroll);
 
     
-    // Tags -------------------------------------------------------------------------------------------
+    // Date Tags -------------------------------------------------------------------------------------------
     $("nav span").on("click", function() {
         $("nav span").removeClass("show");
         $(this).toggleClass("show"); 
         for (let i = 0; i < entrynum; i++) {
             const matchYear = $(".entries:nth-of-type("+i+") .year").text();
-            if(matchYear === $(this).text()) { $(".entries:nth-of-type("+i+")").css({"display":"block"});
-            } else { $(".entries:nth-of-type("+i+")").css({"display":"none"}); }
+            if(matchYear === $(this).text()) { $(".entries:nth-of-type("+i+")").removeClass("hidden");
+            } else { $(".entries:nth-of-type("+i+")").addClass("hidden"); }
         }
         if ($(this).text() === "All") {
-            for (let i = 0; i < entrynum; i++){ $(".entries:nth-of-type("+i+")").css({"display":"block"}); }
+            for (let i = 0; i < entrynum; i++){ $(".entries:nth-of-type("+i+")").removeClass("hidden"); }
         }
     })
+
+
+    // Search -------------------------------------------------------------------------------------------
+    $( "#search" ).change(function() {
+        let inputTag = $("#search").val(); 
+        if(!/\S/.test(inputTag)) { 
+            $("#badsearch").addClass("hidden");
+            for (let i = 0; i < entrynum; i++) { // show all entries
+                $(".entries:nth-of-type("+i+")").removeClass("hidden");
+            }
+         } else {
+            for (let i = 0; i < entrynum; i++) {
+                const matchTag = $(".entries:nth-of-type("+i+") .tags").text();
+                if(matchTag.indexOf(inputTag) >= 0) { 
+                    $(".entries:nth-of-type("+i+")").removeClass("hidden");
+                } else { 
+                    $(".entries:nth-of-type("+i+")").addClass("hidden");
+                }
+            }
+            if(($(".entries").length - 2) === $(".entries.hidden").length)   {
+                $("#badsearch").removeClass("hidden");
+                $("#badsearch span").html(inputTag);
+            } else {
+                $("#badsearch").addClass("hidden");
+            }
+        }
+    });
 
 
     // Audio -------------------------------------------------------------------------------------------
@@ -217,7 +238,7 @@ $( document ).ready(function() {
             Atropos({ el: e, highlight: false, rotateTouch: "scroll-y" });
         });
     }
-
+    
     
     /* Upcoming -------------------------------------------------------------------------------------------
     •  Upload Movies
