@@ -1,5 +1,6 @@
 @import "./reset.css";
 @import "./preloader.css";
+@import "./search.css";
 @import "../atropos/atropos.min.css";
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@300;400;500&display=swap');
 @font-face {
