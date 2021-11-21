@@ -180,6 +180,7 @@ $( document ).ready(function() {
     
     // Date Tags -------------------------------------------------------------------------------------------
     $("nav span").on("click", function() {
+        $("#badsearch").addClass("hidden");
         $("nav span").removeClass("show");
         $(this).toggleClass("show"); 
         for (let i = 0; i < entrynum; i++) {
