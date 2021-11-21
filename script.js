@@ -195,9 +195,9 @@ $( document ).ready(function() {
 
     // Search -------------------------------------------------------------------------------------------
     $( "#search" ).change(function() {
+        $("#badsearch").addClass("hidden");
         let inputTag = $("#search").val(); 
-        if(!/\S/.test(inputTag)) { 
-            $("#badsearch").addClass("hidden");
+        if(!/\S/.test(inputTag)) {
             for (let i = 0; i < entrynum; i++) { // show all entries
                 $(".entries:nth-of-type("+i+")").removeClass("hidden");
             }
@@ -210,7 +210,7 @@ $( document ).ready(function() {
                     $(".entries:nth-of-type("+i+")").addClass("hidden");
                 }
             }
-            if(($(".entries").length - 2) === $(".entries.hidden").length)   {
+            if(($(".entries").length - 2) === $(".entries.hidden").length) { // When search term can't be found
                 $("#badsearch").removeClass("hidden");
                 $("#badsearch span").html(inputTag);
             } else {
