@@ -198,14 +198,16 @@ $( document ).ready(function() {
     $( "#search" ).change(function() {
         $("#badsearch").addClass("hidden");
         let inputTag = $("#search").val(); 
-        if(!/\S/.test(inputTag)) {
+        if(!/\S/.test(inputTag)) { // when a whitespace character is searched
             for (let i = 0; i < entrynum; i++) { // show all entries
                 $(".entries:nth-of-type("+i+")").removeClass("hidden");
             }
          } else {
             for (let i = 0; i < entrynum; i++) {
                 const matchTag = $(".entries:nth-of-type("+i+") .tags").text();
-                if(matchTag.indexOf(inputTag) >= 0) { 
+                let tagTest = inputTag.toLowerCase();
+                tagTest = tagTest.replace(/\s+/g, '');
+                if(matchTag.indexOf(tagTest) >= 0) { 
                     $(".entries:nth-of-type("+i+")").removeClass("hidden");
                 } else { 
                     $(".entries:nth-of-type("+i+")").addClass("hidden");
