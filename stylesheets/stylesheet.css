@@ -414,6 +414,13 @@ b { font-weight: 500; }
 
 /*--- Queries --------------------------------------------------------*/
 
+@media only screen and (min-width: 1220px) {
+  #articleGrid {
+    max-width: 1220px;
+  }
+}
+
+
 @media only screen and (max-width: 930px) {
   #articleGrid {
     max-width: 640px;
@@ -478,7 +485,7 @@ b { font-weight: 500; }
     padding: 2px 6px 4px 6px;
     border-radius: 4px;
     top: -30px;
-    right: 0px;
+    right: calc(100% - 1.3rem);
     font-size: 18px;
     font-weight: bold;
     cursor: pointer;

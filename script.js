@@ -196,6 +196,7 @@ $( document ).ready(function() {
 
     // Search -------------------------------------------------------------------------------------------
     $( "#search" ).change(function() {
+        $("#entrydetails").removeClass("show"); dim();
         $("#badsearch").addClass("hidden");
         let inputTag = $("#search").val(); 
         if(!/\S/.test(inputTag)) { // when a whitespace character is searched
