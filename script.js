@@ -7,11 +7,8 @@ $( document ).ready(function() {
     $("#preloader").delay(1500).fadeOut("slow")
     $(document.body).delay(1500).addClass("loaded");
     
-    jQuery.event.special.touchstart = {
-        setup: function( _, ns, handle ) {
-            this.addEventListener("touchstart", handle, { passive: !ns.includes("noPreventDefault") });
-        }
-    };
+    jQuery.event.special.touchstart = { setup: function( _, ns, handle ) { this.addEventListener('touchstart', handle, { passive: !ns.includes('noPreventDefault') }); }};
+    jQuery.event.special.touchmove = { setup: function( _, ns, handle ) { this.addEventListener('touchmove', handle, { passive: !ns.includes('noPreventDefault') }); }};
 
 
     // Load Popup Contents ------------------------------------------------------------------------------------------- 
