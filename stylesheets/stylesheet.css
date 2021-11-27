@@ -6,6 +6,9 @@
 @font-face {
   font-family: SFDigital;
   src: url(../resources/SFDigitalReadout-Heavy.ttf);
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
 }
 
 html {

@@ -60,7 +60,7 @@ $( document ).ready(function() {
             }
 
             if (addresses[i]===""){ 
-                $(entrya).removeAttr("href");
+                $(entrya).attr("href", "#"); //Keep HREF for SEO, but make it blank
             } else {
                 const searchquery = "http://google.com/maps?q=" + addresses[i];
                 $(entrya).attr("href", searchquery);
@@ -145,6 +145,30 @@ $( document ).ready(function() {
         else { $("header, #hero, nav, #articleGrid, footer").removeClass("dim"); }
     }
 
+
+    // Preload Images -------------------------------------------------------------------------------------------
+    /* function preloadImages(array) {
+        if (!preloadImages.list) {
+            preloadImages.list = [];
+        }
+        var list = preloadImages.list;
+        for (var i = 0; i < array.length; i++) {
+            var img = new Image();
+            img.onload = function() {
+                var index = list.indexOf(this);
+                if (index !== -1) {
+                    // remove image from the array once it's loaded
+                    // for memory consumption reasons
+                    list.splice(index, 1);
+                }
+            }
+            list.push(img);
+            img.src = array[i];
+        }
+    }
+    for (let i = 0; i < imagelink.length; i++) {
+        preloadImages(imagelink[i]);
+    } */
 
     // Hero -------------------------------------------------------------------------------------------
     dayglow(); // Depending on time of day, change from darker image to lighter
