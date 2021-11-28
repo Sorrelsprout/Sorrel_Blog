@@ -22,7 +22,7 @@
 #searchbar:hover #search {
     width: 10rem;
     background: #282828ee;
-    border: 1px solid #fff2;
+    border: 1px solid #fff1;
 }
 
 #searchbar:hover #search::selection {
