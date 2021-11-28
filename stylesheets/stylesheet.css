@@ -33,7 +33,7 @@ body {
   flex-direction: column;
   padding-bottom: 30px;
   align-items: center;
-  background: #222;
+  background: #1a1a1a;
 }
 
 .header, .footer {
@@ -148,7 +148,7 @@ nav span:last-child {
 }
 
 nav span:hover {
-  background: #111;
+  background: #222;
 }
 
 nav span.show {
@@ -169,14 +169,20 @@ nav span.show {
 }
 
 .entries {
-  max-width: 260px;
+  max-width: 274px;
   width: 100%;
   min-height: 100%;
-  margin: 0 15px 3rem 15px;
-  padding: 0.65rem;
-  border-radius: 4px;
-  background: #1118;
+  margin: 0 8px 3rem 8px;
+  padding: 0;
   cursor: pointer;
+}
+
+.entries,
+.atropos-scale,
+.atropos-rotate,
+.atropos-inner,
+.entries img {
+  border-radius: 0.2rem;
 }
 
 #entrydetails {
@@ -281,7 +287,7 @@ b { font-weight: 500; }
 
 .location {
   display: inline-block;
-  margin: 4px 4px 0 0;
+  margin: 0 0 0 0;
   padding: 4px;
   background: #000;
   letter-spacing: 2px;
