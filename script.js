@@ -206,16 +206,15 @@ $( document ).ready(function() {
 
     
     // Date Tags -------------------------------------------------------------------------------------------
-    $("nav span").on("click", function() {
+    $("#navDateSelect").change(function() {
         $("#badsearch").addClass("hidden");
-        $("nav span").removeClass("show");
-        $(this).toggleClass("show"); 
+        let selectedYear = $(this).val();
         for (let i = 0; i < entrynum; i++) {
             const matchYear = $(".entries:nth-of-type("+i+") .year").text();
-            if(matchYear === $(this).text()) { $(".entries:nth-of-type("+i+")").removeClass("hidden");
+            if(matchYear === selectedYear) { $(".entries:nth-of-type("+i+")").removeClass("hidden");
             } else { $(".entries:nth-of-type("+i+")").addClass("hidden"); }
         }
-        if ($(this).text() === "All") {
+        if (selectedYear === "All") {
             for (let i = 0; i < entrynum; i++){ $(".entries:nth-of-type("+i+")").removeClass("hidden"); }
         }
     })

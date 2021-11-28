@@ -130,29 +130,38 @@ header p {
 /*--- Navigation -----------------------------------------------------*/
 
 nav {
+  position: relative;
   display: flex;
   margin: 60px 0 30px 0;
 }
 
-nav span {
+#navDateSelect {
   display: block;
-  padding: 8px;
-  border-radius: 4px;
-  background: #1118;
+  padding: 0.5rem 1.8rem 0.5rem 0.5rem;
+  border-radius: 0.2rem;
+  background: #111;
   cursor: pointer;
-  margin-right: 16px;
+  color: #ddd;
+  outline: none;
+  border: none;
+  -moz-appearance:none; /* Firefox */
+  -webkit-appearance:none; /* Safari and Chrome */
+  appearance:none;
 }
 
-nav span:last-child {
-  margin-right: 0px;
+#navDateSelect:hover {
+  background: #000a;
 }
 
-nav span:hover {
-  background: #222;
-}
-
-nav span.show {
-  background: #333;
+nav::after {
+  content: "➤";
+  position: absolute;
+  display: block;
+  position: absolute;
+  transform: rotate(90deg);
+  right: 0.5rem;
+  top: 0.5rem;
+  color: #ddd8;
 }
 
 
@@ -169,10 +178,10 @@ nav span.show {
 }
 
 .entries {
-  max-width: 274px;
+  max-width: 270px;
   width: 100%;
   min-height: 100%;
-  margin: 0 8px 3rem 8px;
+  margin: 0 10px 3rem 10px;
   padding: 0;
   cursor: pointer;
 }
@@ -287,8 +296,8 @@ b { font-weight: 500; }
 
 .location {
   display: inline-block;
-  margin: 0 0 0 0;
-  padding: 4px;
+  margin: -0.25rem 0 0 0;
+  padding: 0.5rem 0.25rem 0.25rem 0.25rem;
   background: #000;
   letter-spacing: 2px;
   font-family: SFDigital;
