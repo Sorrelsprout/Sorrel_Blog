@@ -189,11 +189,12 @@ nav span.show {
   position: fixed;
   top: 60px;
   display: none;
-  max-width: 768px;
+  max-width: 1024px;
   margin: 0 60px;
   padding: 16px;
-  border-radius: 4px;
+  border-radius: 0.25rem;
   background: #1a1a1a;
+  box-shadow:0px 0px 1rem #0005;
 }
 
 #entrydetails.show {
@@ -212,8 +213,8 @@ nav span.show {
 }
 
 .imagelink2 {
-  max-height: 400px;
-  max-width: 560px;
+  max-height: 600px;
+  max-width: 650px;
 }
 
 .close {
@@ -429,6 +430,12 @@ b { font-weight: 500; }
   }
 }
 
+@media only screen and (max-width: 960px) {
+  .imagelink2 {
+    max-height: 400px;
+    max-width: 500px;
+  }
+}
 
 @media only screen and (max-width: 930px) {
   #articleGrid {
@@ -449,18 +456,6 @@ b { font-weight: 500; }
     width: 100%;
     height: inherit;
   }
-}
-
-@media only screen and (max-width: 768px) {
-  #hero[src*=day] {
-    margin-top: 0;
-  }
-}
-
-@media only screen and (max-width: 700px) {
-  .content {
-    max-height: 16vh;
-  }
   .imagelink2 {
     max-width: 100%;
     max-height: auto;
@@ -473,6 +468,18 @@ b { font-weight: 500; }
   }
   .imageLinkGroup {
     height: auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #hero[src*=day] {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .content {
+    max-height: 16vh;
   }
 }
 
