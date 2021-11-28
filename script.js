@@ -147,15 +147,15 @@ $( document ).ready(function() {
 
 
     // Preload Images -------------------------------------------------------------------------------------------
-    /* function preloadImages(array) {
+    function preloadImages(array) {
         if (!preloadImages.list) {
             preloadImages.list = [];
         }
-        var list = preloadImages.list;
-        for (var i = 0; i < array.length; i++) {
-            var img = new Image();
+        let list = preloadImages.list;
+        for (let i = 0; i < array.length; i++) {
+            let img = new Image();
             img.onload = function() {
-                var index = list.indexOf(this);
+                let index = list.indexOf(this);
                 if (index !== -1) {
                     // remove image from the array once it's loaded
                     // for memory consumption reasons
@@ -168,7 +168,7 @@ $( document ).ready(function() {
     }
     for (let i = 0; i < imagelink.length; i++) {
         preloadImages(imagelink[i]);
-    } */
+    }
 
     // Hero -------------------------------------------------------------------------------------------
     dayglow(); // Depending on time of day, change from darker image to lighter
