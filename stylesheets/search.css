@@ -21,8 +21,9 @@
 
 #searchbar:hover #search {
     width: 10rem;
-    background: #282828ee;
-    border: 1px solid #fff1;
+    background: #222e;
+    border: 1px solid #8881;
+    box-shadow:0px 0px 4rem #0008;
 }
 
 #searchbar:hover #search::selection {
