@@ -165,8 +165,7 @@ $( document ).ready(function() {
             img.onload = function() {
                 let index = list.indexOf(this);
                 if (index !== -1) {
-                    // remove image from the array once it's loaded
-                    // for memory consumption reasons
+                    // remove image from the array once it's loaded for memory consumption reasons
                     list.splice(index, 1);
                 }
             }
@@ -195,6 +194,13 @@ $( document ).ready(function() {
             $("body").addClass("nighttime");
         }
     }  
+
+    setHeroText();
+    $(window).on('resize', function(){ setHeroText(); });
+    function setHeroText() {
+        if ($(window).width() < 640) { $("header img").attr("src", "./resources/heroes/travellog-mobile.png"); }
+        else { $("header img").attr("src", "./resources/heroes/travellog.png"); }
+    }
 
     var blurOnScroll = function(evt) {
         if ($(this).scrollTop() > 0) {

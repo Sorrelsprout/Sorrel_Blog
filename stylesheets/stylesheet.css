@@ -112,21 +112,20 @@ header span {
   top: 70px;
   width: 100%;
   padding: 30px;
-  color: #fff;
-  text-shadow: 0 0 4.5rem #000;
+  /* background: radial-gradient(#14090122, #14090111, #0000, #0000, #0000); */ /* In case drop shadow is needed */
 }
 
-header h1 {
-  text-align: center;
-  font-size: 60px;
-  margin-bottom: 30px;
-  font-family: 'Syncopate', sans-serif;
-  text-transform: uppercase;
+header img {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  width: 70%;
 }
 
 header p {
   text-align: center;
   font-size: 16px;
+  color: #fff;
+  text-shadow: 0 0 4.5rem #000;
 }
 
 /*--- Navigation -----------------------------------------------------*/
@@ -514,6 +513,10 @@ b { font-weight: 500; }
 @media only screen and (max-width: 640px) {
   #articleGrid {
     max-width: 350px;
+  }
+  header img {
+    margin: -1.25rem auto 1.5rem auto;
+    width: 300px;
   }
 }
 
