@@ -415,7 +415,7 @@ b { font-weight: 500; }
   display: block;
 }
 
-.noArrow {
+.imageNav span.noArrow, .imageNav span.noArrow:hover {
   opacity: 0;
   cursor: default;
 }
