@@ -2,7 +2,7 @@
 @import "./preloader.css";
 @import "./search.css";
 @import "../atropos/atropos.min.css";
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 @font-face {
   font-family: SFDigital;
   src: url(../resources/SFDigitalReadout-Heavy.ttf);
@@ -20,7 +20,6 @@ html {
 
 body {
   margin: auto;
-  font-family: sans-serif;
   color:#eee;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
