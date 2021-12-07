@@ -149,8 +149,8 @@ $( document ).ready(function() {
     }
 
     function dim() {
-        if($("#entrydetails").hasClass("show")){ $("header, #hero, nav, #articleGrid, footer, #searchbar").addClass("dim"); } 
-        else { $("header, #hero, nav, #articleGrid, footer, #searchbar").removeClass("dim"); }
+        if($("#entrydetails").hasClass("show")){ $("header, #hero, nav, #articleGrid, footer, .headerLink").addClass("dim"); } 
+        else { $("header, #hero, nav, #articleGrid, footer, .headerLink").removeClass("dim"); }
     }
 
 

@@ -256,6 +256,11 @@ nav::after {
 
 /*--- Typography  ----------------------------------------------------*/
 
+#error h1 {
+  font-size: 2em;
+  margin: 4rem auto 2rem auto;
+}
+
 .hidden { display: none; }
 
 a, i, .multiImgIcon:hover {
