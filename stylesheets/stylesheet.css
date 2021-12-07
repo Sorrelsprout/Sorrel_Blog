@@ -244,7 +244,7 @@ nav::after {
 .footer {
   margin: 0;
   padding: 60px;
-  background: #1a1a1a;
+  background: #222;
   text-align: center;
   font-size: 12px;
   line-height: 36px;
@@ -254,12 +254,19 @@ nav::after {
 
 .footer p, .footer p a { color: #eeea; }
 
-/*--- Typography  ----------------------------------------------------*/
+/*--- Error  ---------------------------------------------------------*/
+
+#error {
+  min-height: 260px;
+  color: #eeea;
+}
 
 #error h1 {
   font-size: 2em;
-  margin: 4rem auto 2rem auto;
+  margin: 5rem auto 2rem auto;
 }
+
+/*--- Typography  ----------------------------------------------------*/
 
 .hidden { display: none; }
 
