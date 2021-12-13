@@ -20,9 +20,9 @@ html {
 
 body {
   margin: auto;
-  color:#eee;
+  color:#ddd;
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 13.5px;
   font-weight: 300;
   overflow: overlay;
 }
@@ -141,7 +141,7 @@ nav {
   border-radius: 0.2rem;
   background: #111;
   cursor: pointer;
-  color: #eee;
+  color: #ddd;
   outline: none;
   border: none;
   -moz-appearance:none; /* Firefox */
@@ -161,7 +161,7 @@ nav::after {
   transform: rotate(90deg);
   right: 0.5rem;
   top: 0.5rem;
-  color: #eee8;
+  color: #ddd8;
 }
 
 
@@ -252,13 +252,13 @@ nav::after {
 
 .footer a { font-weight: 600; }
 
-.footer p, .footer p a { color: #eeea; }
+.footer p, .footer p a { color: #ddda; }
 
 /*--- Error  ---------------------------------------------------------*/
 
 #error {
   min-height: 260px;
-  color: #eeea;
+  color: #ddda;
 }
 
 #error h1 {
