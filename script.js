@@ -245,11 +245,14 @@ $( document ).ready(function() {
                 $(".entries:nth-of-type("+i+")").removeClass("hidden");
             }
          } else {
-            for (let i = 0; i < entrynum; i++) {
+            for (let i = 1; i < entrynum; i++) {
                 const matchTag = $(".entries:nth-of-type("+i+") .tags").text();
+                let detailedTag = matchTag + ", " + location[i-1].toLowerCase();
+                detailedTag = detailedTag.replace(/\s+/g, '');
+                
                 let tagTest = inputTag.toLowerCase();
                 tagTest = tagTest.replace(/\s+/g, '');
-                if(matchTag.indexOf(tagTest) >= 0) { 
+                if(detailedTag.indexOf(tagTest) >= 0) { 
                     $(".entries:nth-of-type("+i+")").removeClass("hidden");
                 } else { 
                     $(".entries:nth-of-type("+i+")").addClass("hidden");
