@@ -1,5 +1,25 @@
 {
-    "21-47":{
+    "21-49":{
+        "content":["This was a really nice hike. As much as I like forests, there's something crisp in the air that open space preserves offer that the redwoods don't quite hit. I felt more at peace and less anxious... could organize my thoughts better. I think in forests, I always try to look for mushrooms or banana slugs and get really easily distracted, but in a place like this it's just the grasses and the clouds and the sky.<br>",
+        "<br>"],
+        "location":"Russian Ridge Open Space Preserve", "address":"Russian Ridge Open Space Preserve, Redwood City, CA",
+        "imagelink":[
+            "2021/12-19-russianridge.jpg",
+            "2021/12-19-russianridge2.jpg",
+            "2021/12-19-russianridge3.jpg",
+            "2021/12-19-russianridge4.jpg"], 
+        "date":"Dec 19, 2021", "year":"2021",
+        "tags":"hills, hike, california"
+    },"21-48":{
+        "content":"Right after I arrived, found so many mushrooms! It was a bit hard finding a trailhead, but I hiked the Upper Escape Road and had to loop back along the Lower Escape trail since the route to Coyote Ridge trail was blocked. Everytime there's rain on a trail near a creek or river, I remember Leslie from Bridge to Terabithia. Also because of the rains likely, all the campsites were closed.",
+        "location":"Portola Redwoods State Park", "address":"Portola Redwoods State Park, Portola State Park Road, La Honda, CA",
+        "imagelink":[
+            "2021/12-19-portola.jpg",
+            "2021/12-19-portola2.jpg",
+            "2021/12-19-portola3.jpg"], 
+        "date":"Dec 19, 2021", "year":"2021",
+        "tags":"california"
+    },"21-47":{
         "content":"",
         "location":"Coyote Lake", "address":"Coyote Lake Harvey Bear Ranch County Park",
         "imagelink":[
