@@ -1,5 +1,11 @@
 {
-    "21-49":{
+    "21-50":{
+        "content":"A draft beer after a solo conversation on Christmas Eve. Met two folks named Joe and Ralph. Joe deals parts and services at Toyota, and Ralph was planning to go to his Sister's place to make tamales for the holidays. Ralph wanted to get lucky and tried to give me lottery tickets, but I said no. It wasn't possible to be a silent stranger in a nearly empty pub I suppose, so I quickly chugged my drink, paid, then left. Silence is better kept with purchased drinks and a swift getaway.",
+        "location":"Murphy's Law", "address":"Murphy's Law Irish Pub, South Murphy Avenue, Sunnyvale, CA",
+        "imagelink":"2021/12-24-murphyslaw.jpg", 
+        "date":"Dec 24, 2021", "year":"2021",
+        "tags":"pub, california"
+    },"21-49":{
         "content":"This was a really nice hike. As much as I like forests, there's something crisp in the air that open space preserves offer that the redwoods don't quite hit. I felt more at peace and less anxious... could organize my thoughts better. I think in forests, I always try to look for mushrooms or banana slugs and get really easily distracted, but in a place like this it's just the grasses and the clouds and the sky, and it's easier to think.",
         "location":"Russian Ridge Open Space Preserve", "address":"Russian Ridge Open Space Preserve, Redwood City, CA",
         "imagelink":[
@@ -256,6 +262,8 @@
         "location":"Shoreline Lake", "address":"Shoreline Lake, Mountain View, CA",
         "imagelink":[
             "2021/7-13-shoreline3.jpg",
+            "2021/12-24-shoreline.jpg",
+            "2021/12-24-shoreline2.jpg",
             "2021/7-13-shoreline.jpg",
             "2021/7-13-shoreline2.jpg"], 
         "date":"Jul 13, 2021", "year":"2021",
