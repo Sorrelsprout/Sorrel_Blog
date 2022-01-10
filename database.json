@@ -1,4 +1,42 @@
 {
+    "22-4":{
+        "content":"After hiking at the Summit Meadows Trail, we went to Henry Cowell State Park and had a rice roll picnic. There weren't as many mushrooms, but the looming redwoods were very meditative and calming. Since we had access to all state parks through the day, we went to Wilder Ranch and watched the sunset. We saw seals from high up on the cliff face too! They were so flubbery and they <b>b o u n c e d</b>, just all chilling on the beach. To be a seal on the sandy beach, not worrying about work or life or problems in the future... To be a seabird, living fast and dying fast but able to be free, that's really a dream isn't it?",
+        "location":"Wilder Ranch State Park", "address":"Wilder Ranch State Park, Coast Road, Santa Cruz, CA",
+        "imagelink":[
+            "2022/1-8-wilder3.jpg",
+            "2022/1-8-wilder2.jpg",
+            "2022/1-8-wilder.jpg"], 
+        "date":"Jan 8, 2021", "year":"2022",
+        "tags":"beach, santacruz, santa, cruz, california"
+    },"22-3":{
+        "content":"Saw the most breathtaking sunrise with a coffee in good company! Above the cloudline before 7AM, We took the Summit Meadows Trail to Big Basin Way. It was such a beautiful day and there were so many fungi. The sun was warm and the only sounds were those of the birds, distant cars, and fascinating conversations.",
+        "location":"Sempervirens Point", "address":"Sempervirens Point Parking, Boulder Creek, CA",
+        "imagelink":[
+            "2022/1-8-sempervirens.jpg",
+            "2022/1-8-sempervirens2.jpg",
+            "2022/1-8-sempervirens3.jpg"], 
+        "date":"Jan 8, 2021", "year":"2022",
+        "tags":"clouds, sunrise, paloalto, bayarea, california"
+    },"22-2":{
+        "content":"",
+        "location":"Bedwell Bayfront Park", "address":"Bedwell Bayfront Park, Marsh Road, Menlo Park, CA",
+        "imagelink":"2022/1-2-bedwellbayfront.jpg", 
+        "date":"Jan 2, 2021", "year":"2022",
+        "tags":"menlopark, bayarea, baylands, california"
+    },"22-1":{
+        "content":["Saw a magnificent sunrise! It was so cold. There were patches of the trail that were icy enough to slide across. At the top of the Bella Vista Trail there was a viewpoint that spanned the <b>entire</b> bay area.<br>",
+        "<br>I thought, albeit morbidly, that it would be ok to die there while just taking in the view. Just feeling the crisp cold air and having that be the very last moment alive. To be in tune with all the surroundings, feeling small and insignificant, marveling at the grand scale of the hills and land. It felt like such a pinnacle to experience the lonely silence... just the air and the trees and the distant birds. What a beautiful way to start off the new year."],
+        "location":"Monte Bello Open Space Preserve", "address":"Monte Bello Open Space Preserve, Page Mill Road, Los Altos, CA",
+        "imagelink":[
+            "2022/1-2-montebello3.jpg",
+            "2022/1-2-montebello.jpg",
+            "2022/1-2-montebello2.jpg"], 
+        "date":"Jan 2, 2021", "year":"2022",
+        "tags":"sunrise, paloalto, bayarea, california"
+    },
+    
+    
+
     "21-51":{
         "content":"It was raining on and off, and there was snow on the peaks past the Fremont mountains! Climbed all the way to the top, and it was super muddy. Also saw a bull itch itself on a bench. For lunch, went to <a href='https://rawasf.com'>RāwASF</a> and got a tasty vegan avocado truffle burger. Then went to Ed Levin County Park where it got dark.",
         "location":"Mission Peak", "address":"Mission Peak Fremont",
@@ -323,7 +361,7 @@
     },"21-19":{
         "content":["Ate a Chipotle burrito while looking out over the ocean. The ocean and sky were so blue, and the kelp in the water looked reddish in the sunlight.<br>",
         "<br>After that I stopped by Mystery Spot for a tour. It was a bit difficult keeping social distancing, but it worked out and the guide was entertaining, even if it's just a house that's formed on an angle."],
-        "location":"Wilder Ranch State Park", "address":"Wilder Ranch State Park",
+        "location":"Wilder Ranch State Park", "address":"Wilder Ranch State Park, Coast Road, Santa Cruz, CA",
         "imagelink":[
             "2021/6-12-wilderranch.jpg",
             "2021/6-12-wilderranch2.jpg",

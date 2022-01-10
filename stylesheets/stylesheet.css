@@ -288,12 +288,12 @@ a:not([href]):hover {
 
 p { line-height: 20px; }
 
-p::selection {
+p::selection, b::selection {
   background: #8885;
   color:#fff;
 }
 
-b { font-weight: 500; }
+b { font-weight: 600; color: #ccc; }
 
 .dateyear {
   text-align: right;
