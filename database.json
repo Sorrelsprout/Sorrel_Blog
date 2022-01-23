@@ -1,14 +1,34 @@
 {
-    "22-5":{
-        "content":[
-            "Fun fact there's been no photoediting done on the sunsets! Nature really gave a visual treat-- the sky looked like it was straight up on fire.<br>",
-            "<br>When the sky turns purple and the red of the sun blends with the blue of the sky, for a moment, so brief, the world stands just that bit more still, and you live just that bit longer in the moment."],
+    "22-7":{
+        "content":["Hiked 6.76mi at El Corte De Madera Open Space Preserve, and caught the sunrise on the way up! I wish I could catch every sunrise. During the hike though, it was hard to feel in-the-moment, and also couldn't focus well on my thoughts.<br>",
+        "<br>For lunch, went to <a href='https://locations.ikessandwich.com/ca/paloalto/sandwich-shop-ik003.html' target='_blank'>Ike's Sandwiches</a> in Palo Alto and got a “Shrek.” Also grabbed a chai latte from <a href='https://www.vervecoffee.com/pages/university-ave' target='_blank'>Verve</a> which was pretty good, then had a trunk picnic next to some corporate buildings, which was pretty peaceful.<br>",
+        "<br>In the afternoon, I thought it's been a while since I biked and the weather was still so nice, and it felt like late springtime. So I went on a 15.11mi ride on the San Francisco Bay Trail, then took the Steven's Creek Trail back."],
+        "location":"El Corte De Madera", "address":"El Corte de Madera Creek Preserve, Skyline Boulevard, Redwood City, CA",
+        "imagelink":[
+            "2022/1-22-elcortedemadera.jpg",
+            "2022/1-22-elcortedemadera2.jpg"], 
+        "date":"Jan 22, 2021", "year":"2022",
+        "tags":"bayarea, bay, sunrise, clouds, california"
+    },"22-6":{
+        "content":"Went to test out a Nikon Coolpix L105 camera that my brother gave me, and it works well for animals but not for scenery or mushrooms. The small snippet of trail next to the lake was closed for construction on one side, but I found a shortcut and was able to sit alone and enjoy the birds for a while. Two hares also bravely came out of hiding! Went to the Newark Baylands with my family in the afternoon.",
+        "location":"Shoreline Lake", "address":"Shoreline Lake, Mountain View, CA",
+        "imagelink":[
+            "2022/1-16-shoreline.jpg",
+            "2022/1-16-shoreline2.jpg"], 
+        "date":"Jan 16, 2021", "year":"2022",
+        "tags":"bayarea, bay, sunrise, clouds, california"
+    },"22-5":{
+        "content":["Fun fact there's been no photoediting done on the sunsets! Nature really gave a visual treat-- the sky looked like it was straight up on fire.<br>",
+        "<br>When the sky turns purple and the red of the sun blends with the blue of the sky, for a moment, so brief, the world stands just that bit more still, and you live just that bit longer in the moment.<br>",
+        "<br><b>• Update - Jan 19, 2022 •</b><br>",
+        "<br>The last photo was walking across the downtown bridge at dusk."],
         "location":"Sunnyvale", "address":"Libby's Water Tower, West California Avenue, Sunnyvale, CA",
         "imagelink":[
             "2022/1-13-sunnyvale1.jpg",
             "2022/1-13-sunnyvale2.jpg",
             "2022/1-12-stevenscreek1.jpg",
-            "2022/1-12-stevenscreek2.jpg"], 
+            "2022/1-12-stevenscreek2.jpg",
+            "2022/1-19-sunnyvale.jpg"], 
         "date":"Jan 13, 2021", "year":"2022",
         "tags":"sunnyvale, sunset, clouds, california"
     },"22-4":{
@@ -50,7 +70,7 @@
     
 
     "21-51":{
-        "content":"It was raining on and off, and there was snow on the peaks past the Fremont mountains! Climbed all the way to the top, and it was super muddy. Also saw a bull itch itself on a bench. For lunch, went to <a href='https://rawasf.com'>RāwASF</a> and got a tasty vegan avocado truffle burger. Then went to Ed Levin County Park where it got dark.",
+        "content":"It was raining on and off, and there was snow on the peaks past the Fremont mountains! Climbed all the way to the top, and it was super muddy. Also saw a bull itch itself on a bench. For lunch, went to <a href='https://rawasf.com' target='_blank'>RāwASF</a> and got a tasty vegan avocado truffle burger. Then went to Ed Levin County Park where it got dark.",
         "location":"Mission Peak", "address":"Mission Peak Fremont",
         "imagelink":[
             "2021/12-26-missionpeak.jpg",
@@ -98,7 +118,7 @@
     },"21-46":{
         "content":["It was so beautiful here! The rocks were all glistening black, with white marbled patterns so contrasting that it felt unreal. Not unreal in a way that feels fake, but so extraordinary that we could actually SENSE everything. My hacking friend found a seastar that washed up. It wasn't even in a tidepool or anything, just straight up on the beach! There were corals and beautiful shells that were all smoothed out by the ocean, and spotted pieces of crustaceans and sea urchins that had died and lost their spines. I wanted to take back one of the beautiful marbled rocks for my brother, along with a bright-salmon-colored seashell, but it felt so wrong to take from such a precious and seemingly untouched environment (even though plenty of people have come and gone from there)... so I didn't.<br>",
         "<br>Even though the beach felt sacred, there was an old rusted car that had washed up, and it had one lone wheel still looked sturdy and new. Even the car though, felt like a relic. I wonder how long it spent just sitting in the ocean, the things it's been through and the sea life that surrounded it. What ocean creatures were curious about it? What creatures called it home? The ocean was freezing, but now I can say I've been in the Pacific at the Lost Coast.<br>",
-        "<br>I've seen so many people post about the Lost Coast on Reddit before on <a href='https://www.reddit.com/r/backpacking/search/?q=lost%20coast'>r/backpacking</a> and I still can't wrap my head around the fact that we did it. Making that journey like the other folks, it felt like a pilgrimage in a way. We did that journey too. We were the weekend warriors who made it and experienced the freshness of the air, the rain that pattered then soaked our heads, and gazed across the Pacific ocean with no end in sight. The Tree Musketeers. We were at the edge of the world for a bit there, and it feels like we'll experience more of it soon. But in the meantime, I'm missing the forest again."],
+        "<br>I've seen so many people post about the Lost Coast on Reddit before on <a href='https://www.reddit.com/r/backpacking/search/?q=lost%20coast' target='_blank'>r/backpacking</a> and I still can't wrap my head around the fact that we did it. Making that journey like the other folks, it felt like a pilgrimage in a way. We did that journey too. We were the weekend warriors who made it and experienced the freshness of the air, the rain that pattered then soaked our heads, and gazed across the Pacific ocean with no end in sight. The Tree Musketeers. We were at the edge of the world for a bit there, and it feels like we'll experience more of it soon. But in the meantime, I'm missing the forest again."],
         "location":"Lost Coast", "address":"40.066500, -124.080472",
         "imagelink":[
             "2021/12-11-lostcoast.jpg",
@@ -128,7 +148,7 @@
         "date":"Dec 11, 2021", "year":"2021",
         "tags":"kingrangenationalconservationarea, whitehorn, california, campfire, carcamping, sunrise, trees, forest, friends, treemusketeers"
     },"21-43":{
-        "content":["We stopped here to take a break from driving. The night got foggier and it looked strangely peaceful and a bit eerie. We were parked on the outskirts of the town, and were able to look down from the elevated street to some closed shops. It reminded me of the game <a href='https://puppetcombo.fandom.com/wiki/Bloodwash'>Bloodwash</a> by Puppet Combo. Something about the fog and the chill, and the streetlamps, and lone mildly lit shops.<br>",
+        "content":["We stopped here to take a break from driving. The night got foggier and it looked strangely peaceful and a bit eerie. We were parked on the outskirts of the town, and were able to look down from the elevated street to some closed shops. It reminded me of the game <a href='https://puppetcombo.fandom.com/wiki/Bloodwash' target='_blank'>Bloodwash</a> by Puppet Combo. Something about the fog and the chill, and the streetlamps, and lone mildly lit shops.<br>",
         "<br>We went into a bar called Stone Junction, which was playing super loud music and was fairly crowded. People were looking at us strangely, probably because we looked like 3 oddballs all bundled up, and who don't belong at a bar. I saw a photobooth and wanted to take a photo in it, but when my friends came out of the men's restroom, they said they saw two folks doing coke. We then left and continued driving towards the campground."],
         "location":"Garberville", "address":"Stone Junction, Redwood Drive, Garberville, CA",
         "imagelink":[
@@ -177,8 +197,8 @@
         "date":"Nov 20, 2021", "year":"2021",
         "tags":"drawbridge, fremont, ghosttown, baylands, california"
     },"21-38":{
-        "content":["After hiking Henry Cowell State Park, we also visited the Santa Cruz Beach Boardwalk. It's strange thinking that in just a few more decades, there will be no more boardwalk. The waters at night were so surreal... it was my first time seeing the ocean at night. It looked like a silent film created back when films were first created. The waves were so serene, so dark and atmospheric, but so present. Like no time existed, and the sky was a void, and the moon was shining like a lamp directly in the face of a person getting interrogated in a dark room, and it was only the grey on the waves and the sound of them. It was like the Tron Legacy movie after Kevin Flynn imploded the digital world, or at the very end of the game <a href='https://cdn-www.mandatory.com/assets/uploads/2016/07/Inside-Ending-Explained-6.png'>INSIDE</a>, when the boy ends up at the edge of the sea.<br>",
-        "<br>We had to head back after that because the parking was pre-paid, but we walked back through the boardwalk. It was super strange seeing everything closed and covered with the night. Seeing the Fireball and the Giant Dipper at night totally reminded me of <a href='https://sabukaru.online/articles/liminal-spaces-the-era-of-realizing-false-promises'>liminal spaces</a>."],
+        "content":["After hiking Henry Cowell State Park, we also visited the Santa Cruz Beach Boardwalk. It's strange thinking that in just a few more decades, there will be no more boardwalk. The waters at night were so surreal... it was my first time seeing the ocean at night. It looked like a silent film created back when films were first created. The waves were so serene, so dark and atmospheric, but so present. Like no time existed, and the sky was a void, and the moon was shining like a lamp directly in the face of a person getting interrogated in a dark room, and it was only the grey on the waves and the sound of them. It was like the Tron Legacy movie after Kevin Flynn imploded the digital world, or at the very end of the game <a href='https://cdn-www.mandatory.com/assets/uploads/2016/07/Inside-Ending-Explained-6.png' target='_blank'>INSIDE</a>, when the boy ends up at the edge of the sea.<br>",
+        "<br>We had to head back after that because the parking was pre-paid, but we walked back through the boardwalk. It was super strange seeing everything closed and covered with the night. Seeing the Fireball and the Giant Dipper at night totally reminded me of <a href='https://sabukaru.online/articles/liminal-spaces-the-era-of-realizing-false-promises' target='_blank'>liminal spaces</a>."],
         "location":"Santa Cruz Beach Boardwalk", "address":"400 Beach St, Santa Cruz, CA 95060",
         "imagelink":[
             "2021/11-13-boardwalk1.jpg",
@@ -190,7 +210,7 @@
     },"21-37":{
         "content":["Came here with my friend and we were on the move for nearly the entire day (Google says over 12 miles). It was really awesome hanging out and the weather was so nice too. We crossed a river twice in our underpants! It was the craziest thing. The first time I reached the river it didn't seem as deep, but I also wasn't sure if crossing the river was the right way to go. But we did it this time and it was wild.<br>",
         "<br>After we got lost a few times then had to cross the river back again, we decided to climb straight up the side of the mountain/hill/dirt side. It was crazy, but the craziest part is that we actually made it back onto the trail! Never have I EVER thought we'd crossing the river, not once but TWICE, AND also climbing no-trail up the side of the mountain all in one day.<br>",
-        "<br>We saw so many mushrooms and fungi too (5th image)! So many different species and organic shapes. I recently watched a <a href='https://www.youtube.com/watch?v=v3ZJdgXV4fk&ab_channel=MothLightMedia'>documentary video</a> talking about prototaxites, which are fungi that grew to the size of trees 400 million years ago. It would have been so awesome to see them in person... But I wonder if they would be taken for granted, just like any other native tree species here, all common and forgotten. After the hike though, we ate chipotle burritos."],
+        "<br>We saw so many mushrooms and fungi too (5th image)! So many different species and organic shapes. I recently watched a <a href='https://www.youtube.com/watch?v=v3ZJdgXV4fk&ab_channel=MothLightMedia' target='_blank'>documentary video</a> talking about prototaxites, which are fungi that grew to the size of trees 400 million years ago. It would have been so awesome to see them in person... But I wonder if they would be taken for granted, just like any other native tree species here, all common and forgotten. After the hike though, we ate chipotle burritos."],
         "location":"Henry Cowell State Park", "address":"Henry Cowell Redwoods State Park, North Big Trees Park Road, Felton, CA",
         "imagelink":[
             "2021/11-13-hencow.jpg",
@@ -209,8 +229,8 @@
     },"21-35":{
         "content":["Went to Sam McDonald County Park (which is part of San Mateo County). It was really nice, but I was very anxious because I didn't have enough quarters to pay the full $6 cash-only entrance fee. I was so worried a park ranger would slap on a ticket. It's best to avoid San Mateo County parks unless you've got cash I suppose.<br>",
         "<br>Saw a couple of banana slugs, and some unique fungi! Also came across a Jack Brook horse camp where a couple deer were eating grass.</br>",
-        "<br>From a friend's recommendation, I went to <a href='https://www.equatorcoffees.com'>Equator Coffees</a> in Sausalito in the morning, and got a chai latte with whipped cream. It was very tasty.<br>",
-        "<br>I was originally trying to go to the Muir Woods around Sausalito today, but they needed reservations so I went to Bolinas instead. I drove around but couldn't find parking, and a surfer's dog almost ran into the car, luckily no one was hurt. I also stopped by Stinson Beach and walked along the seashore to dip my feet in the water, and to finish the chai latte. After the beach I went to <a href='http://www.tomosushi.us'>Tomo Sushi</a>, and met a waitress who recently moved to Daly City from Myanmar."],
+        "<br>From a friend's recommendation, I went to <a href='https://www.equatorcoffees.com' target='_blank'>Equator Coffees</a> in Sausalito in the morning, and got a chai latte with whipped cream. It was very tasty.<br>",
+        "<br>I was originally trying to go to the Muir Woods around Sausalito today, but they needed reservations so I went to Bolinas instead. I drove around but couldn't find parking, and a surfer's dog almost ran into the car, luckily no one was hurt. I also stopped by Stinson Beach and walked along the seashore to dip my feet in the water, and to finish the chai latte. After the beach I went to <a href='http://www.tomosushi.us' target='_blank'>Tomo Sushi</a>, and met a waitress who recently moved to Daly City from Myanmar."],
         "location":"Sam McDonald", "address":"Sam McDonald Park, Pescadero Creek Road, Loma Mar, CA",
         "imagelink":[
             "2021/11-6-sammcdonald.jpg",
@@ -231,7 +251,7 @@
         "tags":"goldengatebridge, bridge, sanfrancisco, francisco, ocean, beach, oceanbeach, bay, california"
     },"21-33":{
         "content":["Spent Halloween with my uni friend hiking the Ocean Beach Coastal Trail (6.4mi out-and-back) and Land's End (3.4mi)! My professor always talked about this place, but this is my first time visiting. We also saw the Sutro Baths (3rd pic), which my professor also talked about as a possible redesign opportunity. I liked the class but ever since thinking about the relationship between design, marketing, and consumerism, I feel uncomfortable enjoying designed (or even human-touched) environments as muuch as I used to. And the Sutro Baths, the old relics that they are, they've got a place in history. They still look good and people still take walks and spend time there. So why change it?<br>",
-        "<br>I've never driven so close to SF before, and we saw 2 Chicken of the Woods in the 4th pic. At the beach we also saw a lot of broken sand dollars, and I got my sock wet. We grabbed a very late lunch at <a href='https://www.orderpizzajointmenu.com/'>Pizza Joint</a> and dinner at <a href='https://www.mendocinofarms.com/locations/san-mateo'>Mendocino Farms</a>, where they had an Impossible plant-based burger. Both places were pretty tasty.<br>"],
+        "<br>I've never driven so close to SF before, and we saw 2 Chicken of the Woods in the 4th pic. At the beach we also saw a lot of broken sand dollars, and I got my sock wet. We grabbed a very late lunch at <a href='https://www.orderpizzajointmenu.com/' target='_blank'>Pizza Joint</a> and dinner at <a href='https://www.mendocinofarms.com/locations/san-mateo' target='_blank'>Mendocino Farms</a>, where they had an Impossible plant-based burger. Both places were pretty tasty.<br>"],
         "location":"Land's End", "address":"Lands End, Point Lobos Avenue, San Francisco, CA",
         "imagelink":[
             "2021/10-31-landsend.jpg",
@@ -261,7 +281,7 @@
     },"21-30":{
         "content":["Caught the most spectacular sunset! Also met a man named Cal. I was eating a Chipotle burrito and drinking the Star Drink from Starbucks, and Cal just kept talking to me. He was born in Thailand, studied computer science back in 2001-ish before all the IOS and app dev stuff started. Now he works at UPS, but wants to quit his job to travel. He hiked 9 miles this morning and said he's going to hike Mission Peak tomorrow, and that he was going to ice his feet to recover a bit.<br>",
         "<br>He mentioned that he met a bunch of digital nomads while traveling on the weekends, and that he was driving 6 hours to the Sierra Nevadas just to visit every weekend, since he fell in love with the scenery. He had a bed setup in his SUV with enough room that a future partner could sleep there with him. He also wanted to build a shelf so cooking and organizing would be easier.<br>",
-        "<br>Cal talked about how high rent was, and that there are places that people can look to sleep in their car for rent-free, on government land. He talked about a beautiful place to visit called <a href='https://www.google.com/maps/place/Lee+Vining,+CA+93541/@38.056538,-119.7691028,9.58z/data=!4m5!3m4!1s0x80963656dc3b47d9:0xd033576091571beb!8m2!3d37.957592!4d-119.119943'>Lee Vining</a>, and how he's headed to Utah soon to visit. He said he went to Zion before, and wants to go back.<br>",
+        "<br>Cal talked about how high rent was, and that there are places that people can look to sleep in their car for rent-free, on government land. He talked about a beautiful place to visit called <a href='https://www.google.com/maps/place/Lee+Vining,+CA+93541/@38.056538,-119.7691028,9.58z/data=!4m5!3m4!1s0x80963656dc3b47d9:0xd033576091571beb!8m2!3d37.957592!4d-119.119943' target='_blank'>Lee Vining</a>, and how he's headed to Utah soon to visit. He said he went to Zion before, and wants to go back.<br>",
         "<br>Even though it was a bit tiring and I just wanted to eat my burrito in peace and get on with my hike, it was really nice talking to Cal and hearing about his travels, insights, and mindset. It kind of confirms my belief that life is just too short and you should do whatever the fuck you want to do. I don't know if I could, but I often dream about doing the same as Cal, just buying an SUV, modding it with a bed and shelving, then hitting the road to wherever. My job is remote anyways, so it would be really neat. But then I worry about retirement and the future, and what my family would think. I've still so much to learn and think on. The most important thing he said to me, was to not waste my youth.<br>",
         "<br>After talking with Cal, I went to the top of Mt. Diablo and meditated a bit, and it was very serene. No sounds, just sunlight, and yellow grasses, and the bay view."],
         "location":"Mt Diablo", "address":"Mt Diablo, California 94598",
