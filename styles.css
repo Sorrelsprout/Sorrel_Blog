@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+	color: #333;
+    font-family: 'Open Sans', sans-serif;
+}
+#hero {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+#travelLogTitle {
+    position: absolute;
+    display: block;
+    margin: 10vh auto 1.5rem auto;
+    width: 80%;
+    max-width: 40rem;
+}
+.box {
+	border-radius: 3px;
+	background: #1113; margin: auto; padding: 12px;
+}
+.lightbox {
+    display: flex;
+    justify-content: center;
+	zoom: 1.5;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(10, 10, 10, 0.5);
+	text-align: center;
+	margin: auto;
+}
+div.horizontal {
+	display: flex;
+	justify-content: center;
+	height: 100%;
+}
+div.vertical {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+}
+#password {
+    display: inline-block;
+    background: none;
+    padding: 4px;
+    background: #252525cc;
+    color: #C9E4CAcc;
+}
+::-webkit-input-placeholder {
+    color: #C9E4CA80;
+    text-align: center;
+}
+::-moz-placeholder {
+    color: #C9E4CA80;
+    text-align: center;
+}
+:-ms-input-placeholder {
+    color: #C9E4CA80;
+    text-align: center;
+}
+#password, #password:focus, #loginbutton, #loginbutton:focus{
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 10px;
+}
+#loginbutton {
+    background: #252525cc;
+    color: #C9E4CA80;
+    padding: 4px 8px;
+}
+#loginbutton:hover {
+    opacity: 0.8;
+}
+h1 {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin-top: -200px;
+    color: #fff;
+}
+
+@media only screen and (max-width: 460px) {
+    h1 {
+        margin-top: -140px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    #travelLogTitle {
+        margin: 10vh auto 1.5rem auto;
+        width: 50%;
+    }
+}

@@ -1,105 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="UTF-8">
+	<meta charset="UTF-8">
     <meta name="description" content="Adventures and travel photos">
     <meta name="keywords" content="HTML, CSS, JavaScript, travelsite, travel, travelblog, blog, travellog, log, photos, photoblog, photolog, sorrel, sorrelsprout, sorrelsprouts">
     <meta name="author" content="Sorrel">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="origin">
-    <title>Peaks</title>
-    <link rel="icon" href="resources/heroes/mountain.png" type="image/x-icon" />
-    <link href="stylesheets/stylesheet.css" rel="stylesheet">
+    <title>Peaks</title><!-- dragonfly -->
+    <link rel="icon" href="https://sorrelsprout.com/resources/heroes/mountain.png" type="image/x-icon" />
+	<link href="styles.css" rel="stylesheet">
 </head>
 
 <body>
-    <script src="https://js.linkz.ai/?key=618dfb452573a5006f53bfd8"></script>
-    <div id="preloader"><div id="loader"></div></div>
+	<img id="hero" src="https://sorrelsprout.com/resources/heroes/night1.jpg" alt="Hero Background"></img>
+	<div id="loginbox" class="lightbox" >
+        <img src="./travellog.png" alt="Travel Log" id="travelLogTitle">
+		<div class="horizontal">
+			<div class="vertical">
+				<div class="box">
+					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
+					<button id="loginbutton" type="button">Enter</button>
+					<p id="wrongPassword" style="display: none">wrong password</p>
+				</div>
+			</div>
+		</div>
+	</div>
 
-    <img alt="Background Hero Image" id="hero">
-    <div class="container header">
-        <header>
-            <span>
-                <img src="./resources/heroes/travellog.png" alt="Travel Log">
-                <p title="Je pars à l'aventure!">I'm going on an adventure!</p>
-            </span>
-        </header>
-    </div>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script type="text/javascript" src="https://rawcdn.githack.com/chrisveness/crypto/7067ee62f18c76dd4a9d372a00e647205460b62b/sha1.js"></script>
+	<script type="text/javascript">
+	"use strict";
 
-    <div class="container" id="top">
-        <nav>
-            <label for="navDateSelect" style="display: none;">Select a Date:</label>
-            <select name="navDateSelect" id="navDateSelect">
-                <option value="All">All</option>
-                <option value="Archive">Archive</option>
-                <option value="2019">2019</option>
-                <option value="2020">2020</option>
-                <option value="2021">2021</option>
-                <option value="2022">2022</option>
-            </select>
-        </nav>
-    </div>
 
-    <div class="container" id="modules">
-        <div id="articleGrid">
-            <article id="entry1" class="entries atropos">
-                <div class="atropos-scale">
-                <div class="atropos-rotate">
-                <div class="atropos-inner">
-                    <img class="imagelink" data-atropos-offset="-3" src="./resources/placeholder.jpg" alt="Image of the Day" loading="lazy">
-                    <span class="dateyear" data-atropos-offset="3">
-                        <span class="date">Date</span>
-                        <span class="year"></span>
-                    </span>
-                    <i class="fas fa-clone multiImgIcon" title="Multiple Photos" data-atropos-offset="3"></i>
-                </div>
-                </div>
-                </div>
-                <a class="locationlink" target="_blank" rel="noreferrer"><p class="location">Location</p></a>
-                <p class="tags">Brief Filler Text</p>
-            </article>
-            <p id="badsearch" class="hidden">No photos relating to "<span></span>"</p>
-        </div>
-    
-        <div id="entrydetails">
-            <span class="close">x</span>
-            <span class="imageLinkGroup">
-                <span id="imageLinkGallery" class="imageLinkGallery">
-                    <img id="imagelink2-1" src="./resources/placeholder.jpg" class="imagelink2" alt="Image of the Day" loading="lazy">
-                </span>
-                <span class="imageNav"><span>➤</span><span>➤</span></span>
-            </span>
-            <p class="posted"><span class="date2">-</span> : <span class="loc">-</span></p>
-            <span class="content_container"><p class="content">Content</p></span>
-        </div>
-    </div>
+	function loadPage(pwd) {
+		var hash= pwd;
+		hash= Sha1.hash(pwd);
+		var url= hash + "/index.html";
+		$.ajax({
+			url : url,
+			dataType : "html",
+			success : function(data) {
+				window.location= url;
+			},
+			error : function(xhr, ajaxOptions, thrownError) {
+				parent.location.hash= hash;
+				$("#password").attr("placeholder","wrong password");
+				$("#password").val("");
+			}
+		});
+	}
 
-    <div class="container footer">
-        <footer>
-            <p>Sorrel 🌱</p>
-            <p>Song: <a href="https://soundcloud.com/ikson/iksonghosts" target="_blank" rel="noreferrer">Ghosts</a> - <a href="https://www.iksonmusic.com" target="_blank" rel="noreferrer">Ikson</a></p>
-        </footer>
-    </div>
-    
-    <span id="audiogroup" title="Song: Ghosts, by Ikson">
-        <audio src="./resources/music/Ghosts-Ikson.wav" type="audio/mpeg" loop="loop"></audio>
-        <i class="fas fa-volume-down"></i>
-        <i class="fas fa-volume-off"></i>
-    </span>
-    <a href="#top" id="scrolltotop" title="Back to top">➤</a>
-    <div id="searchbar" class="headerLink">
-        <label for="search" style="display:none;">Search the site:</label>
-        <input type="search" id="search" name="search" aria-label="Search through site" placeholder="Search for an Image">
-        <i class="fas fa-search"></i>
-    </div>
-    <a href="https://fungi.sorrelsprout.com" target="_blank" rel="noreferrer" id="fungi" class="headerLink" title="Mushrooms + Fungi Collection"><i class="fas fa-leaf"></i></a>
-    <a href="https://insects.sorrelsprout.com" target="_blank" rel="noreferrer" id="insects" class="headerLink" title="Insects Collection"><i class="fas fa-bug"></i></a>
+	$("#loginbutton").on("click", function() {
+		loadPage($("#password").val());
+	});
+	$("#password").keypress(function(e) {
+		if (e.which == 13) {
+			loadPage($("#password").val());
+		}
+	});
+	$("#password").focus();
 
-    <script src="./stylesheets/jquery-3.6.0.min.js"></script>
-    <script src="https://kit.fontawesome.com/7d54d2caeb.js" crossorigin="anonymous"></script>
-    <script src="./atropos/atropos.min.js"></script>
-    <script src="script.js"></script>
+    setHeroText();
+    window.addEventListener('resize', function(event) { setHeroText(); });
+    function setHeroText() {
+        if (window.innerWidth < 640) { document.getElementById("travelLogTitle").setAttribute("src", "./travellog-mobile.png"); }
+        else { document.getElementById("travelLogTitle").setAttribute("src", "./travellog.png"); }
+    }
+	</script>
 </body>
-
 </html>
