@@ -41,17 +41,13 @@
 
 /*--- Subdomain Links ---------------------------------------------------------*/
 
-#home, #fungi, #insects {
+#home {
     position: fixed;
     display: block;
-    top: 4.5rem;
+    top: 2rem;
     right: 1.5rem;
 }
 
-#home { top: 2rem; }
+#home i { color: #fffa; }
 
-#insects { top: 7rem; }
-
-#home i, #fungi i, #insects i { color: #fffa; }
-
-#home:hover i, #fungi:hover i, #insects:hover i { color: #fff8; }
+#home:hover i { color: #fff8; }
