@@ -339,7 +339,7 @@ b { font-weight: 600; color: #ccc; }
   margin: 0 0 0 16px;
   max-height: 560px;
   overflow: overlay;
-  color: #aaa;
+  color: #999;
 }
 
 .content a { color: #e7e4da; }

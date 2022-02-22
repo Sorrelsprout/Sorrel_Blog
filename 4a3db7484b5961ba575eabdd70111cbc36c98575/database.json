@@ -1,31 +1,78 @@
 {
+    "22-15":{
+        "content":["Yesterday was a very stressful day, but today I got to see S and spend nearly the entire day with him. The drive up through the Pleasanton-Sunol curvy mountain road makes me feel a sense of peace and wonder every time I see it, like the mountains are enfolding the road in an earthen hug.<br>",
+        "<br>It was sunny and we hiked all the way to the top of Mount Diablo! There were so many butterflies."],
+        "location":"Mt Diablo Summit Trail", "address":"Mount Diablo State Park, Summit Road, Walnut Creek, California",
+        "imagelink":[
+            "2022/2-19-diablo1.jpg",
+            "2022/2-19-diablo2.jpg",
+            "2022/2-19-diablo3.jpg",
+            "2022/2-19-diablo4.jpg",
+            "2022/2-19-diablo5.jpg",
+            "2022/2-19-diablo6.jpg"], 
+        "date":"Feb 19, 2022", "year":"2022",
+        "tags":"date, mountdiablo, mountains, hiking, walnutcreek, california"
+    },
+    "22-14":{
+        "content":"",
+        "location":"Vasona Reservoir", "address":"Vasona Reservoir, Los Gatos, CA",
+        "imagelink":[
+            "2022/2-13-vasona3.jpg",
+            "2022/2-13-vasona1.jpg",
+            "2022/2-13-vasona2.jpg",
+            "2022/2-13-vasona4.jpg",
+            "2022/2-13-vasona5.jpg"], 
+        "date":"Feb 13, 2022", "year":"2022",
+        "tags":"water, mountains, hiking, losgatos, california"
+    },
+    "22-13":{
+        "content":"Didn't see any priests, but had a great solo picnic with a chilled Vietnamese coffee and leftover Mac n Cheese from yesterday overlooking Lexington Reservoir.",
+        "location":"Priest Rock Trail", "address":"Priest Rock Trail trailhead, Los Gatos CA, Los Gatos, CA",
+        "imagelink":[
+            "2022/2-13-lexington1.jpg",
+            "2022/2-13-lexington2.jpg",
+            "2022/2-13-lexington3.jpg",
+            "2022/2-13-lexington4.jpg"], 
+        "date":"Feb 13, 2022", "year":"2022",
+        "tags":"lexingtonreservoir, water, mountains, hiking, losgatos, california"
+    },
+    "22-12":{
+        "content":"S and I went to see if there were any mushrooms at Reinhardt for a pre-Valentines date, but we only saw some very old mushrooms, and what looked to be a hidden white-tan amanita species. Another hiker let us know the rangers were pretty strict about foraging, and we saw the most gorgeous sunset. Later we got Mac n Cheese from Homeroom, which was super tasty. S got the Jalapeno and I got the vegan buffalo mac.",
+        "location":"Reinhardt Redwood Regional Park", "address":"Reinhardt Redwood Regional Park",
+        "imagelink":[
+            "2022/2-12-reinhardt1.jpg",
+            "2022/2-12-reinhardt2.jpg",
+            "2022/2-12-reinhardt3.jpg"], 
+        "date":"Feb 12, 2022", "year":"2022",
+        "tags":"date, sunset, mountains, hiking, oakland, california"
+    },
     "22-11":{
         "content":"",
         "location":"Joseph D. Grant County Park", "address":"Joseph D. Grant County Park, 18405 Mt Hamilton Rd, Mt Hamilton, CA 95140",
         "imagelink":[
-            "2022/2-6-josephgrant1-1.jpg",
-            "2022/2-6-josephgrant1-2.jpg",
-            "2022/2-6-josephgrant1-3.jpg",
-            "2022/2-6-josephgrant1-4.jpg"], 
-        "date":"Feb 2, 2022", "year":"2022",
+            "2022/2-6-josephgrant1.jpg",
+            "2022/2-6-josephgrant2.jpg",
+            "2022/2-6-josephgrant3.jpg",
+            "2022/2-6-josephgrant4.jpg"], 
+        "date":"Feb 6, 2022", "year":"2022",
         "tags":"chaparral, mountains, hiking, california"
     },
     "22-10":{
-        "content":"Did a morning hike at Alum Rock Park! It was very warm. How strange that it's not even technically springtime, yet it's already warm enough to hike in a tank top. Saw lots of butterflies and a surprising number of people, but the trails were wide enough that we could all social distance. After the main hike I found a little creek next to the street where I parked, and there was a swing that someone made, right over the creek! Someone placed a pumpkin and a flower next to a big rock. I listened to some folk music and swung on the swing, and it was really peaceful.",
+        "content":"Did a morning hike at Alum Rock Park! It was very warm. How strange that it's not even technically springtime, yet it's already warm enough to hike in a tank top. Saw lots of butterflies and a surprising number of hawks and people, but the trails were wide enough that we could all social distance. After the main hike I found a little creek next to the street where I parked, and there was a swing that someone made, right over the creek! Someone placed a pumpkin and a flower next to a big rock. I listened to some folk music and swung on the swing, and it was really peaceful.",
         "location":"Alum Rock Park", "address":"Alum Rock Park, Penitencia Creek Road, San Jose, CA",
         "imagelink":[
-            "2022/2-6-alumrock1-1.jpg",
-            "2022/2-6-alumrock1-2.jpg"], 
-        "date":"Feb 2, 2022", "year":"2022",
+            "2022/2-6-alumrock1.jpg",
+            "2022/2-6-alumrock2.jpg"], 
+        "date":"Feb 6, 2022", "year":"2022",
         "tags":"creek, swing, pumpkin, grass, penitencia, hiking, california"
     },
     "22-9":{
         "content":"Saw my hackathon friend today for likely the last time. It was kind of surreal, we had a long talk along Shoreline Park all the way to Byxbee, then went our separate ways. I went to the Saratoga Train Tracks and walked on them, and had lunch there, trying to relieve the numbness. It felt bittersweet, felt guilty, but also freeing. I know we'll both be ok. I wondered if the rail lines remember the weight of the trains, and of the cargo they carried. Of how many people walked along these very same tracks to try and clear their heads.",
         "location":"Joe’s Trail", "address":"Joe’s Trail Parking, Blue Meadow Court, Saratoga, CA",
         "imagelink":[
-            "2022/1-30-saratogatraintracks1-1.jpg",
-            "2022/1-30-saratogatraintracks1-2.jpg",
-            "2022/1-30-saratogatraintracks1-3.jpg"], 
+            "2022/1-30-saratogatraintracks1.jpg",
+            "2022/1-30-saratogatraintracks2.jpg",
+            "2022/1-30-saratogatraintracks3.jpg"], 
         "date":"Jan 30, 2022", "year":"2022",
         "tags":"traintracks, saratoga, california"
     },
@@ -37,14 +84,14 @@
         "<br>We had a picnic on a rock climbing cliff area and ate the rest of the Injera (Ethiopian fermented flatbread). It was really nice seeing and experiencing the sunset, and spending quality time with S. When we headed down it was already past sunset, and we had to use our phone flashlights to navigate back to the trail! A very kind couple who live in Scott's Valley saw us and let us hitchhike back to the main parking lot, which probably saved us 2 hours of walking time in the dark. They were so nice, and we chatted about mountain lions. It's so heartwarming and touching that the couple wanted to make sure we were safe. After we got back to the lot, we looked up at the sky, and I swear I saw a glimpse of the Milky Way line. This was probably the coolest adventure I've ever had, and I can't wait to experience so much more with S."],
         "location":"Pinnacles National Park", "address":"Pinnacles National Park",
         "imagelink":[
-            "2022/1-29-pinnacles1-1.jpg",
-            "2022/1-29-pinnacles1-2.jpg",
-            "2022/1-29-pinnacles1-3.jpg",
-            "2022/1-29-pinnacles1-4.jpg",
-            "2022/1-29-pinnacles1-5.jpg",
-            "2022/1-29-pinnacles1-6.jpg"], 
+            "2022/1-29-pinnacles1.jpg",
+            "2022/1-29-pinnacles2.jpg",
+            "2022/1-29-pinnacles3.jpg",
+            "2022/1-29-pinnacles4.jpg",
+            "2022/1-29-pinnacles5.jpg",
+            "2022/1-29-pinnacles6.jpg"], 
         "date":"Jan 29, 2022", "year":"2022",
-        "tags":"chaparral, forest, mountains, sunset, california"
+        "tags":"date, chaparral, forest, mountains, sunset, california"
     },
     "22-7":{
         "content":["Hiked 6.76mi at El Corte De Madera Open Space Preserve, and caught the sunrise on the way up! I wish I could catch every sunrise. During the hike though, it was hard to feel in-the-moment, and also couldn't focus well on my thoughts. But saw some cool waxcap mushrooms, and a whole lot of ladybugs on a bridge.<br>",
@@ -87,7 +134,7 @@
             "2022/1-8-wilder2.jpg",
             "2022/1-8-wilder.jpg"], 
         "date":"Jan 8, 2022", "year":"2022",
-        "tags":"beach, santacruz, santa, cruz, california"
+        "tags":"date, beach, santacruz, santa, cruz, california"
     },"22-3":{
         "content":"Saw the most breathtaking sunrise with a coffee in good company! Above the cloudline before 7AM, We took the Summit Meadows Trail to Big Basin Way. It was such a beautiful day and there were so many fungi. The sun was warm and the only sounds were those of the birds, distant cars, and fascinating conversations.",
         "location":"Sempervirens Point", "address":"Sempervirens Point Parking, Boulder Creek, CA",
@@ -96,7 +143,7 @@
             "2022/1-8-sempervirens2.jpg",
             "2022/1-8-sempervirens3.jpg"], 
         "date":"Jan 8, 2022", "year":"2022",
-        "tags":"clouds, sunrise, paloalto, bayarea, california"
+        "tags":"date, clouds, sunrise, paloalto, bayarea, california"
     },"22-2":{
         "content":"",
         "location":"Bedwell Bayfront Park", "address":"Bedwell Bayfront Park, Marsh Road, Menlo Park, CA",
@@ -126,7 +173,7 @@
             "2021/12-26-missionpeak3.jpg",
             "2021/12-26-missionpeak4.jpg"], 
         "date":"Dec 26, 2021", "year":"2021",
-        "tags":"snow, rain, date, bull, cow, bayarea, california"
+        "tags":"date, snow, rain, date, bull, cow, bayarea, california"
     },"21-50":{
         "content":"An 805 after a solo conversation and lengthy walk on Christmas Eve. The lights in downtown really reminded me of uni. Definitely miss the trails, but this was a change of pace.",
         "location":"Murphy's Law", "address":"Murphy's Law Irish Pub, South Murphy Avenue, Sunnyvale, CA",
