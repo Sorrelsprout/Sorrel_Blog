@@ -1,4 +1,38 @@
 {
+    "22-18":{
+        "content":"",
+        "location":"San Francisco", "address":"Market Street, San Francisco, CA",
+        "imagelink":[
+            "2022/2-26-sfnight1.jpg",
+            "2022/2-26-sfnight2.jpg",
+            "2022/2-26-sfnight3.jpg"], 
+        "date":"Feb 26, 2022", "year":"2022",
+        "tags":"night, sanfrancisco, sf, california"
+    },
+    "22-17":{
+        "content":"",
+        "location":"Ferry Building and Pier 7 Vista", "address":"1 Ferry Building, San Francisco, CA 94105",
+        "imagelink":[
+            "2022/2-26-sfharbor1.jpg",
+            "2022/2-26-sfharbor2.jpg",
+            "2022/2-26-sfharbor3.jpg",
+            "2022/2-26-sfharbor4.jpg",
+            "2022/2-26-sfharbor5.jpg",
+            "2022/2-26-sfharbor6.jpg"], 
+        "date":"Feb 26, 2022", "year":"2022",
+        "tags":"bay, ocean, water, dusk, piers, baybridge, sanfrancisco, sf, california"
+    },
+    "22-16":{
+        "content":"The last image is after we got lunch at <a href='http://goldenboypizza.com' target='_blank'>Golen Boy Pizza</a> in North Beach.",
+        "location":"Coit Tower", "address":"",
+        "imagelink":[
+            "2022/2-26-coittower1.jpg",
+            "2022/2-26-coittower2.jpg",
+            "2022/2-26-coittower3.jpg",
+            "2022/2-26-sf.jpg"], 
+        "date":"Feb 26, 2022", "year":"2022",
+        "tags":"sanfrancisco, sf, california"
+    },
     "22-15":{
         "content":["Yesterday was a very stressful day, but today I got to see S and spend nearly the entire day with him. The drive up through the Pleasanton-Sunol curvy mountain road makes me feel a sense of peace and wonder every time I see it, like the mountains are enfolding the road in an earthen hug.<br>",
         "<br>It was sunny and we hiked all the way to the top of Mount Diablo! There were so many butterflies."],
