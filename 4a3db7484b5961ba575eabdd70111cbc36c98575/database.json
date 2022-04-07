@@ -1,19 +1,22 @@
 {
+    "22-19":{
+        "content":"My hives are still present and I got a sunburn, but it felt so good to be back on hiking trails after city/suburb weekends. I missed this so much. Just nature and not worrying about work, or social lives, or projects, or the numerous things that don't matter. This matters. Being present and having the sun on my face. This matters so incredibly much and I'm frustrated that it's been so long.",
+        "location":"Castillero Trail", "address":"Castillero Trail, San Jose, CA",
+        "imagelink":"2022/4-2-castillero.jpg", "date":"Jan 3, 2021", "year":"2021",
+        "tags":"trail, california"
+    },
     "22-18":{
-        "content":["Walked around with S after we parted ways with his friends. We walked to Market St. and then went to <a href='https://www.themelt.com/sf-embarcadero' target='_blank'>The Melt</a> and got milkshakes: Cookies n creme malt, and Strawberry malt. We then explored One Embarcadero Center, and it was basically empty!<br>",
-        "<br>It was a bit chilly but the city lights just made all the everyday problems seem so far removed from who and where we were. Just two crazy kids walking through the concrete and tempered glass buildings. The One Embarcadero center really reminded me of a hybrid between a modern airport and Montréal's <a href='https://montrealundergroundcity.com'>Réso</a>. Like if you wandered too far into the building, you'd not be able to find the way out.<br>",
-        "<br>According to S, we walked 13.6ish miles!"],
-        "location":"San Francisco", "address":"Market Street, San Francisco, CA",
-        "imagelink":[
-            "2022/2-26-sfnight1.jpg",
-            "2022/2-26-sfnight2.jpg",
-            "2022/2-26-sfnight3.jpg"], 
-        "date":"Feb 26, 2022", "year":"2022",
-        "tags":"night, sanfrancisco, sf, california"
+        "content":"Had a ramen trunk picnic from <a href='https://www.totororamen.com'>Totoro Ramen</a> with S in my car! I modded the Subie to make the backseat and trunk into a bed, wide enough to eat and nap. We also got tea from <a href='https://bobabia.com'>Bobabia</a>. On the way there, S and I found a scrap of wood and we were kicking it towards each other while walking, and it was really fun. Small moments like jumping on a log in the Oakland Redwoods, or dancing and twirling each other around along the sidewalk in Fremont, or even dancing on Zoom make the memories together so much more meaningful. In the boba store there was a little dog named Apple sitting on a custom-made platform on the wall. She was so sweet and mellow. Before getting food, we went to see some Energica motorbikes in South SF.",
+        "location":"Moss Beach", "address":"Moss Beach, CA",
+        "imagelink":"2022/4-1-mossbeach.jpg", "date":"Apr 1, 2022", "year":"2022",
+        "tags":"coast, ocean, night, california"
     },
     "22-17":{
         "content":["Walked along the piers and saw the outside of the Exploratorium! There were these huge circular glass discs that had seawater and different types of sediment floating in them, that viewers could spin to observe how the sediment falls. They looked like huge magnifying glasses from afar, and I wondered if anything could live in there, like flattened paludariums.<br>",
-        "<br>After dusk started, all the streetlights started coming on, and the Bay Bridge started lighting up! It seemed straight out of a movie or something, the many different kinds of lights against the navy-ing sky with blue clouds... it was something else. I don't always prefer cities, but just being there with S and his friends was really nice."],
+        "<br>After dusk started, all the streetlights started coming on, and the Bay Bridge started lighting up! It seemed straight out of a movie or something, the many different kinds of lights against the navy-ing sky with blue clouds... it was something else.",
+        "Afterwards, walked around with S after we parted ways with his friends. We walked to Market St. and then went to <a href='https://www.themelt.com/sf-embarcadero' target='_blank'>The Melt</a> and got milkshakes: Cookies n creme malt, and Strawberry malt. We then explored One Embarcadero Center, and it was basically empty!<br>",
+        "<br>It was a bit chilly but the city lights just made all the everyday problems seem so far removed from who and where we were. Just two crazy kids walking through the concrete and tempered glass buildings. The One Embarcadero center really reminded me of a hybrid between a modern airport and Montréal's <a href='https://montrealundergroundcity.com'>Réso</a>. Like if you wandered too far into the building, you'd not be able to find the way out.<br>",
+        "<br>According to S, we walked 13.6ish miles!"],
         "location":"Ferry Building and Pier 7 Vista", "address":"1 Ferry Building, San Francisco, CA 94105",
         "imagelink":[
             "2022/2-26-sfharbor1.jpg",
@@ -21,9 +24,12 @@
             "2022/2-26-sfharbor3.jpg",
             "2022/2-26-sfharbor4.jpg",
             "2022/2-26-sfharbor5.jpg",
-            "2022/2-26-sfharbor6.jpg"], 
+            "2022/2-26-sfharbor6.jpg",
+            "2022/2-26-sfnight1.jpg",
+            "2022/2-26-sfnight2.jpg",
+            "2022/2-26-sfnight3.jpg"], 
         "date":"Feb 26, 2022", "year":"2022",
-        "tags":"bay, ocean, water, dusk, piers, baybridge, sanfrancisco, sf, california"
+        "tags":"night, bay, ocean, water, dusk, piers, baybridge, sanfrancisco, sf, california"
     },
     "22-16":{
         "content":["Woke up really early today and met up with S at 6AM. He picked me up and we went to Sam Macdonald State Park along Skyline, and we saw a few mushrooms near a lush creek. We then met up with two of his friends &ldquo;Sh&rdquo; and &ldquo;V&rdquo; and another friend of a friend &ldquo;A&rdquo; at <a href='https://eltechosf.com' target='_blank'>El Techo</a>. I got Huevos Rancheros, and the pickled radish (or it could've been pickled onion) was so tasty! It was pretty crowded so was a bit nervous, but it was really nice to meet everyone and put a face to the folks that S kept telling me about. There were beautiful murals on the walls, and it was the first time I've ever been in a rooftop restaurant, and the first time really eating inside a restaurant since the pandemic started.<br>",
@@ -900,9 +906,11 @@
     },"19-20":{
         "content":["Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc).<br>",
         "<br>Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration.<br>",
-        "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table."],
+        "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
+        "<br><b>• Update - Mar 13, 2022 •</b><br>",
+        "<br>In the last image, went to meet up with my coworkers at UC Berkeley! We got tea and it was really interesting meeting them. C lives in Mexico and flew up to take care of his old things, and he looked a lot older than expected. We explored the Berkeley campus and they have a little creek running through the campus. After getting tea at ___ I met up with S and we roasted marshmallows and ate pizza."],
         "location":"Cal Memorial Stadium", "address":"2227 Piedmont Ave, Berkeley, CA 94720",
-        "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg"], "date":"Oct 26, 2019", "year":"2019",
+        "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg","2022/3-13-berks.jpg"], "date":"Oct 26, 2019", "year":"2019",
         "tags":"berkeley, stairs, california, hackathon, calhacks"
     },"19-19":{
         "content":"My roommate and I hung out a little bit with our teammates and got boba. We saw a little bit of UW and it was really breathtaking. We almost missed our flight back because the Link lightrail was down, and we made our way to our flight back just in time.",
