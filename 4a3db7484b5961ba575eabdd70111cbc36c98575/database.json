@@ -1,8 +1,77 @@
 {
+    "24-10":{
+        "content":["It's been a while. I feel... content but there's something itching the back of my mind. I bought a small bottle of cabernet sauvignon, not enough to fill a glass even, maybe half a mug. I still have a weird relationship with alcohol after all that happened last year. Just went through some photos and am doing some updating of this blog. It feels bittersweet looking through the images, as if there was a simpler piece of me that's been dissipated in the air. Not even hidden or shrouded, just... an empty mind and it's dissolved. All these memories feel like they're not my own, it's been so long and I've changed so much as a person, that it's like I'm looking through the lens of someone else. I'm only 26 still but feel like I'm 27.<br>",
+            "<br>I walked to the Farmer's market this morning, it was a cloudy day. I was supposed to meet Anna (my friend and fellow mushroom enthusiast that I made at the TMF) in Gifford Pinchot NF today but she had a headache. I got a veggie sticky riceball, a kohlrabi with the bulb the size of my head, a bunch of other veggies, and some cave aged brie and vegan cheddar from Vtopian Cheeses. Along the way I listened to &ldquo;Mistborn - The Final Empire&rdquo; by Brandon Sanderson. Ty installed audible on my phone so I've been listening through his account, I'm almost halfway through.<br>",
+            "<br>I also included the first two photos which were from a day before halloween when I had a long sickness. I had gone over to Ty's place and we hunkered and I watched him play games. Also watched FROM, a TV show my friend Steph recommended, but it was a bit too spooky. I made a fall garland from cinnamon sticks and orange peels shaped to look like mushrooms."
+        ],
+        "location":"Portland", "address":"Portland, OR 97210",
+        "imagelink":["2024/10-30-home.jpg","2024/10-30-home2.jpg","2024/11-9-home.jpg","2024/11-9-farmersmarket.jpg"], 
+        "date":"Nov 9, 2024", "year":"2024",
+        "tags":"sunrise, portland, oregon"
+    },
+    "24-9":{
+        "content":["Went hiking at <a href='https://www.alltrails.com/trail/us/oregon/storey-burn-loop-trail' target'_blank'>Storey Burn Loop Trail</a>, and I found chanterelles, and actually got to forage quite a few of them! Also saw a very maggot-riddled lobster mushroom, along with a small specimen of bear's-tooth, both of which I didn't forage. Super neat though. After bringing back the chanterelles I refrigerated them... thinking of making pesto (with my homegrown basil) pasta with them."],
+        "location":"Storey Burn Loop Trail", "address":"Storey Burn Trailhead, Timber, OR 97117",
+        "imagelink":["2024/10-19-storeyburn.jpg","2024/10-19-storeyburn2.jpg", "2024/10-19-storeyburn3.jpg", "2024/10-19-storeyburn4.jpg"], 
+        "date":"Oct 19, 2024", "year":"2024",
+        "tags":"hike, mushrooms, fungi"
+    },
+    "24-7":{
+        "content":["Saw the Aurora in Oregon! It was much more colorful than the ones I saw in Iceland, though a tad bit fainter."],
+        "location":"Scappoose, OR", "address":"Scappoose Oregon 97056",
+        "imagelink":["2024/10-10-aurora.jpg","2024/10-10-home.jpg", "2024/10-11-home.jpg"], 
+        "date":"Oct 10, 2024", "year":"2024",
+        "tags":"aurora, scappoose, st. helens, borealis, northern lights"
+    },
+    "24-6":{
+        "content":["Hoh Rainforest at the Olympic National Park in Washington with Ty!"],
+        "location":"Hoh Rainforest", "address":"18113 Upper Hoh Rd, Forks, WA 98331",
+        "imagelink":["2024/8-31-hoh.jpg","2024/8-31-hoh2.jpg","2024/8-31-hoh3.jpg","2024/8-31-forks.jpg"], 
+        "date":"Aug 31, 2024", "year":"2024",
+        "tags":"hoh, rainforest, olympia, olympic, national, park, forks, washington"
+    },
+    "24-5":{
+        "content":["Telluride Mushroom Festival"],
+        "location":"Telluride, Colorado", "address":"Telluride Colorado 81435",
+        "imagelink":"2024/8-13-tmf.jpg", 
+        "date":"Aug 13, 2024", "year":"2024",
+        "tags":"colorado, tmf, telluride, mushroom, festival, mushroomfestival"
+    },
+    "24-4":{
+        "content":["Roxborough State Park in Colorado"],
+        "location":"Roxborough State Park", "address":"Roxborough State Park",
+        "imagelink":"2024/8-12-roxborough.jpg", 
+        "date":"Aug 12, 2024", "year":"2024",
+        "tags":"roxborough, state, park, colorado, tmf, mushroomfestival"
+    },
+    "24-3":{
+        "content":["Sólheimajökull Glacier hike in Iceland. &ldquo;Sól&rdquo; is sun, &ldquo;heima&rdquo; is home, and &ldquo;jökull&rdquo; means glacier."],
+        "location":"Sólheimajökull, Iceland", "address":"Sólheimajökull, 871, Iceland",
+        "imagelink":"2024/2-5-solheimajokull.jpg", 
+        "date":"Feb 5, 2024", "year":"2024",
+        "tags":"sólheimajökull, solheimajokull, iceland, glacier, hike"
+    },
+    "24-2":{
+        "content":["<a href='https://secretlagoon.is' target='_blank'>Secret Lagoon</a> in Flúðir."],
+        "location":"Flúðir, Iceland", "address":"Hvammsvegur, 845 Flúðir, Iceland",
+        "imagelink":"2024/2-4-fludir.jpg", 
+        "date":"Feb 4, 2024", "year":"2024",
+        "tags":"fludir, flúðir, iceland, lagoon, hotsprings, hot, springs"
+    },
+    "24-1":{
+        "content":["First cafe I entered was <a href='https://visitreykjavik.is/is/thjonusta/bokasamlagid' target='_blank'>Bókasamlagið</a>, and it was vegan! It was a lucky coincidence, I really just wanted a place to stay till things opened up, and the cafe happened to be vegan!"],
+        "location":"Reykjavík, Iceland", "address":"Skipholt 19, Reykjavík 105, 6910301",
+        "imagelink":["2024/2-2-reykjavik.jpg","2024/2-2-reykjavik2.jpg","2024/2-2-reykjavik3.jpg","2024/2-2-reykjavik4.jpg","2024/2-2-reykjavik5.jpg","2024/2-2-reykjavik6.jpg","2024/2-2-reykjavik7.jpg","2024/2-2-reykjavik8.jpg"], 
+        "date":"Feb 2, 2024", "year":"2024",
+        "tags":"reykjavik, reykjavík, iceland"
+    },
+    
+    
+    
     "23-2":{
         "content":"Well, I made it. To living in Oregon, to moving to Portland. It's been a while since journaling but I miss the feeling of self-reflection sometimes. I'm now living with Sam and it's amazing going on adventures with him and exploring here.",
         "location":"Portland", "address":"Portland, OR 97209",
-        "imagelink":["2023/1-26-portland.jpg"], 
+        "imagelink":"2023/1-26-portland.jpg", 
         "date":"Feb 14, 2023", "year":"2023",
         "tags":"portland, oregon, bridge"
     },
@@ -39,17 +108,18 @@
         "tags":"yosemite, soloroadtrip, hike, california"
     },
     "22-32":{
-        "content":"",
+        "content":"Felt like I reclaimed a piece of my exploration here. Last time I was here was with my ex and I felt like I couldn't explore properly. Now I'm here on my own terms.",
         "location":"Heavenly Village", "address":"Heavenly Village Way, South Lake Tahoe, CA",
         "imagelink":"2022/5-8-heavenlyvillage.jpg", "date":"May 8, 2022", "year":"2022",
         "tags":"southlaketahoe, soloroadtrip, snow, california"
     },
     "22-31":{
-        "content":["Saw 4 bands perform!<br>",
+        "content":["Saw 4 bands perform! It was very loud. I don't think I would have gone if it wasn't for Business School performing, and even then it was a bit much. The bathrooms looked cool though, very moody/grungy, but I wonder if they're hard to clean.<br>",
             "<br>• Schlub",
             "<br>• The Bonsai Trees",
             "<br>• Business School",
-            "<br>• Tell Me Tell Me"],
+            "<br>• Tell Me Tell Me<br>"
+        ],
         "location":"924 Gilman", "address":"",
         "imagelink":["2022/4-30-924gilman.jpg","2022/4-30-berks.jpg","2022/4-30-berks2.jpg"], "date":"Apr 30, 2022", "year":"2022",
         "tags":"berkeley, band, california"
@@ -136,9 +206,9 @@
     "22-17":{
         "content":["Walked along the piers and saw the outside of the Exploratorium! There were these huge circular glass discs that had seawater and different types of sediment floating in them, that viewers could spin to observe how the sediment falls. They looked like huge magnifying glasses from afar, and I wondered if anything could live in there, like flattened paludariums.<br>",
         "<br>After dusk started, all the streetlights started coming on, and the Bay Bridge started lighting up! It seemed straight out of a movie or something, the many different kinds of lights against the navy-ing sky with blue clouds... it was something else.",
-        "Afterwards, walked around with Sam after we parted ways with his friends. We walked to Market St. and then went to <a href='https://www.themelt.com/sf-embarcadero' target='_blank'>The Melt</a> and got milkshakes: Cookies n creme malt, and Strawberry malt. We then explored One Embarcadero Center, and it was basically empty!<br>",
+        "Afterwards, walked around with Sam after we parted ways with most of his friends. We walked to Market St. and then went to <a href='https://www.themelt.com/sf-embarcadero' target='_blank'>The Melt</a> and got milkshakes: Cookies n creme malt, and Strawberry malt. We then explored One Embarcadero Center, and it was basically empty!<br>",
         "<br>It was a bit chilly but the city lights just made all the everyday problems seem so far removed from who and where we were. Just two crazy kids walking through the concrete and tempered glass buildings. The One Embarcadero center really reminded me of a hybrid between a modern airport and Montréal's <a href='https://montrealundergroundcity.com'>Réso</a>. Like if you wandered too far into the building, you'd not be able to find the way out.<br>",
-        "<br>According to Sam, we walked 13.6ish miles!"],
+        "<br>We walked 13.6ish miles. I remember sitting in someone's car, who was it...? But looking out the window I saw the lights on the trees of the last picture. What was I doing there? I felt a bit out of place. This isn't what I would have done by myself, but I'm just going with the flow."],
         "location":"Ferry Building and Pier 7 Vista", "address":"1 Ferry Building, San Francisco, CA 94105",
         "imagelink":[
             "2022/2-26-sfharbor1.jpg",
@@ -1028,11 +1098,9 @@
     },"19-20":{
         "content":["Came here for CalHacks, the Berkeley Hackathon! Met a nice team and we worked on a project that lets people search for information by content type( for ex. video, audio, visual, etc).<br>",
         "<br>Got midnight boba and ate Bahn-mi again. This was a 2-day hackathon event and I only was able to get a total of 8hrs of sleep across the 36hr duration.<br>",
-        "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table.",
-        "<br><b>• Update - Mar 13, 2022 •</b><br>",
-        "<br>In the last image, went to meet up with my coworkers at UC Berkeley! We got tea and it was really interesting meeting them. C lives in Mexico and flew up to take care of his old things, and he looked a lot older than expected. We explored the Berkeley campus and they have a little creek running through the campus. After getting tea at ___ I met up with Sam and we roasted marshmallows and ate pizza."],
+        "<br>On the second night of CalHacks it was so windy on the top floor (where we were hacking) that the stadium doors couldn't be shut, so I helped block the doors with a table."],
         "location":"Cal Memorial Stadium", "address":"2227 Piedmont Ave, Berkeley, CA 94720",
-        "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg","2022/3-13-berks.jpg"], "date":"Oct 26, 2019", "year":"2019",
+        "imagelink":["2019/10-26-calhacks.jpg","2019/10-26-calhacks2.jpg"], "date":"Oct 26, 2019", "year":"2019",
         "tags":"berkeley, stairs, california, hackathon, calhacks"
     },"19-19":{
         "content":"My roommate and I hung out a little bit with our teammates and got boba. We saw a little bit of UW and it was really breathtaking. We almost missed our flight back because the Link lightrail was down, and we made our way to our flight back just in time.",
